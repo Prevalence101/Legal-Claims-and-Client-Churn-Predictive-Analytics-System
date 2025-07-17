@@ -1,0 +1,29 @@
+# node modules
+node_modules/
+
+# db instance
+instance/
+
+# media folder in api
+api/media/
+
+# datasets
+api/datasets
+
+# models
+api/models/
+
+# compressed files
+*.7z
+*.tar.xz
+*.zip
+*.rar
+
+# Log files
+*.log
+
+# Compiled Python bytecode
+*.py[cod]
+*.pyc
+__pycache__/
+server/__pycache__
