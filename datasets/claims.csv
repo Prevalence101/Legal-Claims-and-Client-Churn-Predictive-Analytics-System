@@ -1,0 +1,1071 @@
+id,clientId,claimType,claimAmount,submissionDate,claimStatus,claimProbability,fraudLikelihoodScore,isFraudFlagged,supportingDocuments
+CL0001,C001,Employment Dispute,47172.74,2023-10-27,Pending,85,18,True,"['CL0001_1_doc.pdf', 'CL0001_2_doc.pdf', 'CL0001_3_doc.pdf']"
+CL0002,C001,Property Damage,39187.79,2023-11-30,Rejected,86,28,False,"['CL0002_1_doc.pdf', 'CL0002_2_doc.pdf', 'CL0002_3_doc.pdf']"
+CL0003,C002,Personal Injury,14652.1,2024-02-29,Rejected,91,86,False,"['CL0003_1_doc.pdf', 'CL0003_2_doc.pdf', 'CL0003_3_doc.pdf']"
+CL0004,C003,Motor Vehicle Accident,8276.28,2023-07-19,Rejected,97,66,False,['CL0004_1_doc.pdf']
+CL0005,C004,Employment Dispute,19437.85,2024-03-23,Approved,76,94,False,"['CL0005_1_doc.pdf', 'CL0005_2_doc.pdf']"
+CL0006,C004,Employment Dispute,20826.75,2023-11-16,Approved,15,27,False,"['CL0006_1_doc.pdf', 'CL0006_2_doc.pdf', 'CL0006_3_doc.pdf']"
+CL0007,C004,Medical Malpractice,1767.19,2023-07-01,Rejected,1,70,False,[]
+CL0008,C005,Family Law,9853.14,2023-10-15,Pending,23,28,False,"['CL0008_1_doc.pdf', 'CL0008_2_doc.pdf']"
+CL0009,C005,Family Law,49270.34,2023-07-13,Approved,26,39,False,['CL0009_1_doc.pdf']
+CL0010,C005,Property Damage,2177.37,2023-10-11,Rejected,76,89,False,"['CL0010_1_doc.pdf', 'CL0010_2_doc.pdf']"
+CL0011,C005,Medical Malpractice,4570.44,2024-03-11,Pending,97,62,False,[]
+CL0012,C008,Medical Malpractice,16135.03,2023-07-15,Rejected,18,16,False,['CL0012_1_doc.pdf']
+CL0013,C009,Employment Dispute,21335.91,2023-07-19,Rejected,2,50,False,"['CL0013_1_doc.pdf', 'CL0013_2_doc.pdf', 'CL0013_3_doc.pdf']"
+CL0014,C009,Personal Injury,23303.82,2023-07-17,Approved,66,56,False,[]
+CL0015,C009,Employment Dispute,29330.42,2023-06-26,Rejected,6,15,False,"['CL0015_1_doc.pdf', 'CL0015_2_doc.pdf', 'CL0015_3_doc.pdf']"
+CL0016,C009,Personal Injury,31752.53,2023-09-22,Pending,10,1,False,"['CL0016_1_doc.pdf', 'CL0016_2_doc.pdf']"
+CL0017,C011,Family Law,16215.68,2024-01-31,Approved,9,72,False,['CL0017_1_doc.pdf']
+CL0018,C012,Commercial Dispute,2582.49,2024-04-30,Approved,16,99,True,['CL0018_1_doc.pdf']
+CL0019,C012,Property Damage,1553.84,2024-03-22,Approved,88,15,False,[]
+CL0020,C014,Personal Injury,3192.49,2024-02-17,Approved,8,97,False,"['CL0020_1_doc.pdf', 'CL0020_2_doc.pdf', 'CL0020_3_doc.pdf']"
+CL0021,C015,Family Law,42824.81,2024-04-16,Approved,100,57,False,"['CL0021_1_doc.pdf', 'CL0021_2_doc.pdf', 'CL0021_3_doc.pdf']"
+CL0022,C015,Debt Collection,29859.01,2024-01-04,Pending,76,35,False,['CL0022_1_doc.pdf']
+CL0023,C016,Family Law,17423.96,2023-07-28,Pending,93,80,False,"['CL0023_1_doc.pdf', 'CL0023_2_doc.pdf']"
+CL0024,C016,Motor Vehicle Accident,36903.32,2023-06-04,Pending,41,76,False,[]
+CL0025,C016,Medical Malpractice,40450.21,2024-05-09,Approved,70,42,False,[]
+CL0026,C016,Family Law,6719.2,2023-10-08,Rejected,7,84,False,"['CL0026_1_doc.pdf', 'CL0026_2_doc.pdf']"
+CL0027,C018,Motor Vehicle Accident,45153.15,2023-08-20,Pending,41,53,False,"['CL0027_1_doc.pdf', 'CL0027_2_doc.pdf']"
+CL0028,C019,Debt Collection,18577.65,2023-08-01,Approved,89,84,False,"['CL0028_1_doc.pdf', 'CL0028_2_doc.pdf']"
+CL0029,C019,Debt Collection,14008.61,2023-06-16,Pending,92,13,False,"['CL0029_1_doc.pdf', 'CL0029_2_doc.pdf', 'CL0029_3_doc.pdf']"
+CL0030,C019,Property Damage,4781.17,2023-12-05,Approved,44,85,False,[]
+CL0031,C019,Employment Dispute,30613.97,2023-09-25,Pending,72,75,False,"['CL0031_1_doc.pdf', 'CL0031_2_doc.pdf']"
+CL0032,C020,Debt Collection,32222.97,2024-05-24,Rejected,16,68,False,['CL0032_1_doc.pdf']
+CL0033,C020,Medical Malpractice,28463.79,2024-05-10,Pending,85,37,False,"['CL0033_1_doc.pdf', 'CL0033_2_doc.pdf']"
+CL0034,C020,Employment Dispute,47706.62,2023-08-19,Rejected,46,35,False,['CL0034_1_doc.pdf']
+CL0035,C020,Commercial Dispute,49933.24,2023-07-08,Approved,29,52,False,[]
+CL0036,C021,Personal Injury,49108.06,2024-02-19,Approved,5,36,False,[]
+CL0037,C021,Personal Injury,32507.49,2024-04-22,Pending,61,8,False,[]
+CL0038,C022,Medical Malpractice,20400.43,2024-05-09,Pending,33,76,False,['CL0038_1_doc.pdf']
+CL0039,C022,Commercial Dispute,4033.61,2024-03-21,Pending,15,4,False,['CL0039_1_doc.pdf']
+CL0040,C023,Debt Collection,25242.79,2023-10-15,Pending,45,16,False,[]
+CL0041,C023,Medical Malpractice,4268.47,2023-11-28,Rejected,26,14,False,[]
+CL0042,C023,Motor Vehicle Accident,36700.77,2023-08-21,Rejected,52,14,False,[]
+CL0043,C023,Personal Injury,19312.66,2023-12-08,Approved,15,47,False,"['CL0043_1_doc.pdf', 'CL0043_2_doc.pdf', 'CL0043_3_doc.pdf']"
+CL0044,C024,Medical Malpractice,4702.28,2023-08-23,Rejected,89,14,True,"['CL0044_1_doc.pdf', 'CL0044_2_doc.pdf']"
+CL0045,C024,Commercial Dispute,12602.41,2024-03-28,Pending,63,55,False,['CL0045_1_doc.pdf']
+CL0046,C024,Commercial Dispute,39243.43,2023-08-18,Pending,53,39,False,"['CL0046_1_doc.pdf', 'CL0046_2_doc.pdf', 'CL0046_3_doc.pdf']"
+CL0047,C025,Debt Collection,42481.2,2023-11-04,Approved,9,12,False,"['CL0047_1_doc.pdf', 'CL0047_2_doc.pdf']"
+CL0048,C026,Commercial Dispute,29596.62,2023-09-30,Pending,29,28,False,"['CL0048_1_doc.pdf', 'CL0048_2_doc.pdf', 'CL0048_3_doc.pdf']"
+CL0049,C026,Debt Collection,26182.41,2024-03-18,Approved,97,27,False,['CL0049_1_doc.pdf']
+CL0050,C026,Employment Dispute,28786.56,2023-07-08,Rejected,86,65,False,"['CL0050_1_doc.pdf', 'CL0050_2_doc.pdf', 'CL0050_3_doc.pdf']"
+CL0051,C026,Medical Malpractice,4822.06,2023-12-21,Pending,82,91,False,"['CL0051_1_doc.pdf', 'CL0051_2_doc.pdf']"
+CL0052,C027,Medical Malpractice,45983.52,2023-08-03,Rejected,82,40,False,"['CL0052_1_doc.pdf', 'CL0052_2_doc.pdf', 'CL0052_3_doc.pdf']"
+CL0053,C028,Commercial Dispute,46614.2,2023-10-17,Pending,16,89,False,[]
+CL0054,C028,Commercial Dispute,48897.33,2023-12-21,Rejected,19,45,False,"['CL0054_1_doc.pdf', 'CL0054_2_doc.pdf']"
+CL0055,C028,Family Law,43683.78,2024-04-14,Approved,82,99,False,[]
+CL0056,C028,Employment Dispute,44375.02,2024-04-17,Pending,43,70,False,"['CL0056_1_doc.pdf', 'CL0056_2_doc.pdf']"
+CL0057,C029,Motor Vehicle Accident,5327.06,2023-08-22,Rejected,49,41,False,['CL0057_1_doc.pdf']
+CL0058,C029,Employment Dispute,14220.49,2023-08-24,Approved,90,27,False,[]
+CL0059,C029,Employment Dispute,46855.63,2023-09-21,Pending,94,66,False,"['CL0059_1_doc.pdf', 'CL0059_2_doc.pdf', 'CL0059_3_doc.pdf']"
+CL0060,C030,Property Damage,5325.87,2023-11-24,Pending,52,43,False,[]
+CL0061,C030,Commercial Dispute,40647.0,2023-09-19,Pending,39,34,False,[]
+CL0062,C031,Employment Dispute,2285.49,2024-03-07,Approved,55,92,True,"['CL0062_1_doc.pdf', 'CL0062_2_doc.pdf', 'CL0062_3_doc.pdf']"
+CL0063,C031,Employment Dispute,9903.84,2023-11-28,Rejected,10,39,False,"['CL0063_1_doc.pdf', 'CL0063_2_doc.pdf']"
+CL0064,C031,Family Law,39088.66,2023-06-09,Pending,56,95,False,"['CL0064_1_doc.pdf', 'CL0064_2_doc.pdf']"
+CL0065,C032,Property Damage,19930.53,2024-03-05,Pending,74,54,False,[]
+CL0066,C032,Motor Vehicle Accident,37119.79,2024-03-29,Pending,32,22,False,"['CL0066_1_doc.pdf', 'CL0066_2_doc.pdf']"
+CL0067,C032,Personal Injury,11659.55,2024-04-21,Approved,88,8,False,"['CL0067_1_doc.pdf', 'CL0067_2_doc.pdf', 'CL0067_3_doc.pdf']"
+CL0068,C033,Medical Malpractice,22261.79,2024-05-30,Approved,84,88,False,[]
+CL0069,C033,Family Law,36915.53,2023-08-27,Rejected,37,64,False,[]
+CL0070,C033,Property Damage,49984.97,2023-11-12,Pending,92,5,False,['CL0070_1_doc.pdf']
+CL0071,C034,Personal Injury,43622.71,2023-08-15,Approved,13,99,False,"['CL0071_1_doc.pdf', 'CL0071_2_doc.pdf']"
+CL0072,C034,Personal Injury,11225.67,2024-04-14,Approved,47,64,False,['CL0072_1_doc.pdf']
+CL0073,C034,Employment Dispute,43471.36,2024-05-22,Rejected,97,51,False,"['CL0073_1_doc.pdf', 'CL0073_2_doc.pdf']"
+CL0074,C034,Employment Dispute,3974.24,2023-10-01,Rejected,58,64,False,"['CL0074_1_doc.pdf', 'CL0074_2_doc.pdf']"
+CL0075,C035,Personal Injury,10318.76,2023-09-27,Pending,58,55,False,"['CL0075_1_doc.pdf', 'CL0075_2_doc.pdf']"
+CL0076,C035,Family Law,34937.79,2023-08-08,Rejected,33,98,False,['CL0076_1_doc.pdf']
+CL0077,C036,Motor Vehicle Accident,38213.2,2023-08-08,Approved,83,2,False,[]
+CL0078,C038,Medical Malpractice,5324.18,2023-07-30,Pending,28,11,False,[]
+CL0079,C038,Personal Injury,22364.8,2024-05-05,Pending,24,45,False,"['CL0079_1_doc.pdf', 'CL0079_2_doc.pdf', 'CL0079_3_doc.pdf']"
+CL0080,C038,Property Damage,45122.16,2023-09-14,Pending,28,9,False,[]
+CL0081,C038,Personal Injury,46112.5,2023-08-23,Pending,39,92,False,['CL0081_1_doc.pdf']
+CL0082,C039,Family Law,858.84,2023-06-15,Pending,7,2,False,[]
+CL0083,C039,Medical Malpractice,25599.5,2024-02-24,Approved,38,16,False,"['CL0083_1_doc.pdf', 'CL0083_2_doc.pdf']"
+CL0084,C040,Debt Collection,2648.44,2024-01-25,Pending,35,24,False,['CL0084_1_doc.pdf']
+CL0085,C043,Personal Injury,17918.61,2023-12-16,Approved,12,97,False,"['CL0085_1_doc.pdf', 'CL0085_2_doc.pdf']"
+CL0086,C043,Property Damage,46586.5,2023-09-22,Approved,11,15,False,[]
+CL0087,C044,Personal Injury,5711.39,2023-10-19,Pending,62,88,False,"['CL0087_1_doc.pdf', 'CL0087_2_doc.pdf']"
+CL0088,C044,Employment Dispute,16930.92,2023-09-01,Pending,6,29,True,[]
+CL0089,C044,Medical Malpractice,28580.15,2023-08-26,Pending,14,37,False,[]
+CL0090,C045,Personal Injury,6873.48,2023-09-19,Approved,66,74,False,[]
+CL0091,C045,Employment Dispute,39978.46,2023-07-30,Approved,86,47,False,[]
+CL0092,C045,Medical Malpractice,409.0,2023-09-07,Rejected,74,12,False,['CL0092_1_doc.pdf']
+CL0093,C045,Medical Malpractice,12092.06,2024-02-21,Approved,94,36,False,"['CL0093_1_doc.pdf', 'CL0093_2_doc.pdf']"
+CL0094,C046,Family Law,28951.45,2023-07-12,Rejected,28,63,True,"['CL0094_1_doc.pdf', 'CL0094_2_doc.pdf']"
+CL0095,C046,Employment Dispute,17695.69,2023-07-05,Pending,65,52,False,['CL0095_1_doc.pdf']
+CL0096,C047,Motor Vehicle Accident,8192.54,2023-09-15,Approved,45,58,True,"['CL0096_1_doc.pdf', 'CL0096_2_doc.pdf']"
+CL0097,C047,Motor Vehicle Accident,40172.56,2023-08-17,Pending,29,12,True,"['CL0097_1_doc.pdf', 'CL0097_2_doc.pdf']"
+CL0098,C048,Employment Dispute,10729.32,2024-04-17,Pending,4,47,False,"['CL0098_1_doc.pdf', 'CL0098_2_doc.pdf', 'CL0098_3_doc.pdf']"
+CL0099,C048,Motor Vehicle Accident,14369.38,2023-08-14,Approved,7,46,False,[]
+CL0100,C048,Medical Malpractice,3231.85,2023-12-23,Rejected,85,57,False,"['CL0100_1_doc.pdf', 'CL0100_2_doc.pdf']"
+CL0101,C048,Medical Malpractice,24431.6,2023-11-29,Approved,63,22,False,['CL0101_1_doc.pdf']
+CL0102,C049,Property Damage,10296.94,2024-04-27,Rejected,72,81,False,[]
+CL0103,C051,Debt Collection,32541.57,2024-03-12,Rejected,3,93,False,"['CL0103_1_doc.pdf', 'CL0103_2_doc.pdf']"
+CL0104,C051,Property Damage,5478.89,2024-04-15,Approved,61,80,False,"['CL0104_1_doc.pdf', 'CL0104_2_doc.pdf']"
+CL0105,C052,Personal Injury,29803.4,2023-07-15,Rejected,61,19,False,"['CL0105_1_doc.pdf', 'CL0105_2_doc.pdf']"
+CL0106,C052,Motor Vehicle Accident,3118.01,2024-04-09,Rejected,59,20,False,['CL0106_1_doc.pdf']
+CL0107,C052,Medical Malpractice,10987.45,2024-04-12,Pending,29,4,False,"['CL0107_1_doc.pdf', 'CL0107_2_doc.pdf', 'CL0107_3_doc.pdf']"
+CL0108,C053,Employment Dispute,32747.42,2024-01-26,Pending,78,47,False,[]
+CL0109,C053,Medical Malpractice,32685.6,2024-02-09,Pending,54,39,False,"['CL0109_1_doc.pdf', 'CL0109_2_doc.pdf']"
+CL0110,C053,Property Damage,26444.81,2023-10-30,Approved,14,63,False,[]
+CL0111,C053,Debt Collection,33406.92,2023-08-16,Pending,44,40,False,['CL0111_1_doc.pdf']
+CL0112,C054,Family Law,30510.47,2024-01-07,Approved,36,36,False,['CL0112_1_doc.pdf']
+CL0113,C054,Motor Vehicle Accident,29345.19,2023-07-08,Rejected,79,31,True,"['CL0113_1_doc.pdf', 'CL0113_2_doc.pdf']"
+CL0114,C054,Medical Malpractice,37047.41,2023-08-31,Pending,57,4,False,['CL0114_1_doc.pdf']
+CL0115,C054,Debt Collection,1318.03,2023-08-27,Approved,26,76,False,"['CL0115_1_doc.pdf', 'CL0115_2_doc.pdf']"
+CL0116,C055,Employment Dispute,883.44,2023-09-20,Approved,51,73,False,"['CL0116_1_doc.pdf', 'CL0116_2_doc.pdf']"
+CL0117,C055,Employment Dispute,16464.07,2023-08-22,Pending,9,64,False,['CL0117_1_doc.pdf']
+CL0118,C055,Motor Vehicle Accident,34436.71,2024-04-13,Approved,98,99,False,"['CL0118_1_doc.pdf', 'CL0118_2_doc.pdf']"
+CL0119,C056,Property Damage,37748.61,2024-01-10,Rejected,74,43,False,"['CL0119_1_doc.pdf', 'CL0119_2_doc.pdf']"
+CL0120,C058,Medical Malpractice,21133.81,2023-11-03,Rejected,27,13,True,"['CL0120_1_doc.pdf', 'CL0120_2_doc.pdf']"
+CL0121,C058,Employment Dispute,13908.84,2024-01-12,Approved,83,60,False,"['CL0121_1_doc.pdf', 'CL0121_2_doc.pdf']"
+CL0122,C060,Medical Malpractice,21881.22,2023-07-15,Pending,55,34,False,[]
+CL0123,C060,Employment Dispute,16920.93,2024-03-30,Rejected,39,49,False,"['CL0123_1_doc.pdf', 'CL0123_2_doc.pdf']"
+CL0124,C060,Family Law,39730.95,2023-12-19,Pending,88,59,False,[]
+CL0125,C060,Employment Dispute,4707.88,2023-09-27,Approved,93,0,False,[]
+CL0126,C061,Employment Dispute,13108.13,2023-10-02,Pending,57,83,False,['CL0126_1_doc.pdf']
+CL0127,C063,Commercial Dispute,20374.04,2023-06-02,Rejected,28,97,False,[]
+CL0128,C063,Motor Vehicle Accident,33380.38,2024-01-24,Approved,42,0,False,[]
+CL0129,C063,Debt Collection,3159.67,2024-01-21,Pending,85,52,False,['CL0129_1_doc.pdf']
+CL0130,C064,Commercial Dispute,47345.17,2024-03-17,Approved,100,59,True,"['CL0130_1_doc.pdf', 'CL0130_2_doc.pdf']"
+CL0131,C064,Medical Malpractice,7044.1,2024-05-10,Approved,2,59,False,"['CL0131_1_doc.pdf', 'CL0131_2_doc.pdf']"
+CL0132,C065,Personal Injury,14428.09,2023-10-26,Approved,9,61,False,"['CL0132_1_doc.pdf', 'CL0132_2_doc.pdf', 'CL0132_3_doc.pdf']"
+CL0133,C065,Family Law,9866.28,2024-05-04,Approved,98,28,False,[]
+CL0134,C065,Motor Vehicle Accident,47712.6,2024-04-06,Approved,94,16,False,[]
+CL0135,C066,Property Damage,34301.78,2023-07-11,Rejected,78,64,False,"['CL0135_1_doc.pdf', 'CL0135_2_doc.pdf']"
+CL0136,C066,Property Damage,11588.7,2023-10-27,Pending,45,66,False,[]
+CL0137,C066,Property Damage,20949.23,2024-02-07,Approved,12,51,False,"['CL0137_1_doc.pdf', 'CL0137_2_doc.pdf']"
+CL0138,C067,Motor Vehicle Accident,5430.57,2023-09-23,Rejected,79,54,False,"['CL0138_1_doc.pdf', 'CL0138_2_doc.pdf']"
+CL0139,C067,Property Damage,25913.88,2024-01-10,Approved,52,33,False,[]
+CL0140,C068,Debt Collection,2160.56,2023-07-16,Rejected,86,9,False,"['CL0140_1_doc.pdf', 'CL0140_2_doc.pdf']"
+CL0141,C068,Medical Malpractice,22971.12,2023-12-16,Rejected,96,40,False,['CL0141_1_doc.pdf']
+CL0142,C069,Property Damage,37016.02,2023-10-29,Approved,90,67,True,['CL0142_1_doc.pdf']
+CL0143,C069,Motor Vehicle Accident,6913.76,2024-01-23,Approved,17,37,False,"['CL0143_1_doc.pdf', 'CL0143_2_doc.pdf']"
+CL0144,C069,Property Damage,25733.82,2023-06-24,Approved,63,93,False,"['CL0144_1_doc.pdf', 'CL0144_2_doc.pdf', 'CL0144_3_doc.pdf']"
+CL0145,C070,Personal Injury,43674.02,2023-11-14,Rejected,48,57,False,[]
+CL0146,C071,Motor Vehicle Accident,46998.29,2024-05-06,Pending,98,60,False,[]
+CL0147,C071,Motor Vehicle Accident,22041.58,2024-02-03,Pending,8,35,False,['CL0147_1_doc.pdf']
+CL0148,C071,Motor Vehicle Accident,1661.21,2024-04-07,Rejected,87,71,False,[]
+CL0149,C072,Property Damage,39962.28,2024-03-06,Rejected,33,68,True,['CL0149_1_doc.pdf']
+CL0150,C072,Motor Vehicle Accident,21765.02,2024-01-29,Approved,64,91,False,[]
+CL0151,C073,Commercial Dispute,36386.45,2023-09-30,Pending,46,61,False,"['CL0151_1_doc.pdf', 'CL0151_2_doc.pdf', 'CL0151_3_doc.pdf']"
+CL0152,C073,Family Law,23561.51,2024-05-31,Approved,37,24,False,['CL0152_1_doc.pdf']
+CL0153,C073,Family Law,1151.37,2023-11-17,Approved,95,10,False,"['CL0153_1_doc.pdf', 'CL0153_2_doc.pdf', 'CL0153_3_doc.pdf']"
+CL0154,C073,Medical Malpractice,39809.13,2024-02-24,Rejected,85,68,False,"['CL0154_1_doc.pdf', 'CL0154_2_doc.pdf']"
+CL0155,C074,Motor Vehicle Accident,28222.03,2023-07-22,Rejected,4,17,False,['CL0155_1_doc.pdf']
+CL0156,C074,Personal Injury,12452.2,2023-07-14,Approved,39,15,False,[]
+CL0157,C074,Medical Malpractice,35660.57,2024-01-17,Pending,45,23,False,"['CL0157_1_doc.pdf', 'CL0157_2_doc.pdf', 'CL0157_3_doc.pdf']"
+CL0158,C074,Employment Dispute,9562.75,2024-01-22,Pending,4,26,False,"['CL0158_1_doc.pdf', 'CL0158_2_doc.pdf']"
+CL0159,C075,Debt Collection,35399.13,2023-09-05,Pending,7,34,False,['CL0159_1_doc.pdf']
+CL0160,C075,Medical Malpractice,34478.37,2024-02-09,Approved,2,7,False,"['CL0160_1_doc.pdf', 'CL0160_2_doc.pdf']"
+CL0161,C075,Personal Injury,33927.77,2024-04-12,Pending,65,13,False,"['CL0161_1_doc.pdf', 'CL0161_2_doc.pdf', 'CL0161_3_doc.pdf']"
+CL0162,C076,Medical Malpractice,4981.4,2024-01-27,Approved,14,18,False,[]
+CL0163,C076,Personal Injury,41759.74,2023-10-14,Pending,12,47,False,[]
+CL0164,C077,Family Law,7436.59,2023-11-17,Pending,88,33,False,['CL0164_1_doc.pdf']
+CL0165,C077,Motor Vehicle Accident,36774.97,2024-04-23,Pending,49,78,False,[]
+CL0166,C077,Commercial Dispute,12120.14,2023-10-02,Pending,42,73,False,[]
+CL0167,C078,Medical Malpractice,41212.39,2023-08-16,Pending,52,79,True,"['CL0167_1_doc.pdf', 'CL0167_2_doc.pdf', 'CL0167_3_doc.pdf']"
+CL0168,C078,Family Law,24440.73,2024-03-25,Approved,14,33,False,"['CL0168_1_doc.pdf', 'CL0168_2_doc.pdf', 'CL0168_3_doc.pdf']"
+CL0169,C078,Debt Collection,29041.45,2023-12-14,Approved,12,76,False,"['CL0169_1_doc.pdf', 'CL0169_2_doc.pdf', 'CL0169_3_doc.pdf']"
+CL0170,C079,Property Damage,5524.04,2023-07-18,Rejected,99,95,False,['CL0170_1_doc.pdf']
+CL0171,C079,Family Law,16323.76,2023-09-20,Pending,88,73,False,"['CL0171_1_doc.pdf', 'CL0171_2_doc.pdf', 'CL0171_3_doc.pdf']"
+CL0172,C079,Family Law,23944.36,2023-07-13,Approved,22,77,False,"['CL0172_1_doc.pdf', 'CL0172_2_doc.pdf']"
+CL0173,C079,Family Law,33528.32,2024-02-25,Pending,24,45,False,"['CL0173_1_doc.pdf', 'CL0173_2_doc.pdf', 'CL0173_3_doc.pdf']"
+CL0174,C080,Property Damage,34543.6,2023-06-04,Approved,94,7,False,"['CL0174_1_doc.pdf', 'CL0174_2_doc.pdf', 'CL0174_3_doc.pdf']"
+CL0175,C080,Commercial Dispute,44870.29,2024-05-11,Pending,88,55,False,"['CL0175_1_doc.pdf', 'CL0175_2_doc.pdf', 'CL0175_3_doc.pdf']"
+CL0176,C082,Family Law,11523.48,2023-06-05,Rejected,59,39,False,['CL0176_1_doc.pdf']
+CL0177,C082,Debt Collection,12796.43,2024-02-15,Approved,97,84,False,"['CL0177_1_doc.pdf', 'CL0177_2_doc.pdf', 'CL0177_3_doc.pdf']"
+CL0178,C082,Personal Injury,6045.15,2023-11-17,Approved,15,3,False,[]
+CL0179,C083,Family Law,16670.58,2024-01-05,Pending,35,64,False,['CL0179_1_doc.pdf']
+CL0180,C083,Property Damage,35061.75,2023-11-25,Pending,34,64,False,['CL0180_1_doc.pdf']
+CL0181,C084,Personal Injury,42953.1,2023-06-01,Rejected,98,77,False,[]
+CL0182,C084,Motor Vehicle Accident,855.17,2023-08-26,Approved,41,19,False,[]
+CL0183,C085,Employment Dispute,32006.53,2024-04-02,Rejected,3,50,False,[]
+CL0184,C085,Personal Injury,12159.76,2023-07-01,Pending,50,41,False,"['CL0184_1_doc.pdf', 'CL0184_2_doc.pdf']"
+CL0185,C085,Motor Vehicle Accident,18203.74,2023-09-10,Pending,66,74,False,[]
+CL0186,C086,Motor Vehicle Accident,32939.33,2023-12-26,Pending,27,64,False,"['CL0186_1_doc.pdf', 'CL0186_2_doc.pdf', 'CL0186_3_doc.pdf']"
+CL0187,C086,Personal Injury,15890.94,2024-03-22,Approved,70,95,False,"['CL0187_1_doc.pdf', 'CL0187_2_doc.pdf']"
+CL0188,C086,Employment Dispute,19077.25,2024-01-17,Approved,100,69,False,"['CL0188_1_doc.pdf', 'CL0188_2_doc.pdf']"
+CL0189,C086,Medical Malpractice,1304.34,2024-01-24,Pending,6,1,False,"['CL0189_1_doc.pdf', 'CL0189_2_doc.pdf', 'CL0189_3_doc.pdf']"
+CL0190,C087,Medical Malpractice,40224.38,2024-01-27,Rejected,72,55,False,"['CL0190_1_doc.pdf', 'CL0190_2_doc.pdf']"
+CL0191,C087,Property Damage,28683.82,2024-02-13,Approved,31,37,False,[]
+CL0192,C087,Employment Dispute,21409.92,2024-01-16,Approved,83,26,False,[]
+CL0193,C087,Family Law,20961.89,2023-08-30,Rejected,15,80,False,"['CL0193_1_doc.pdf', 'CL0193_2_doc.pdf']"
+CL0194,C088,Personal Injury,46925.9,2023-12-30,Approved,0,51,False,"['CL0194_1_doc.pdf', 'CL0194_2_doc.pdf', 'CL0194_3_doc.pdf']"
+CL0195,C088,Motor Vehicle Accident,11238.38,2024-04-01,Pending,45,96,False,['CL0195_1_doc.pdf']
+CL0196,C088,Property Damage,14185.27,2023-06-15,Pending,45,27,False,[]
+CL0197,C090,Property Damage,30832.35,2023-08-27,Rejected,86,49,False,[]
+CL0198,C090,Medical Malpractice,34705.59,2023-06-10,Rejected,3,51,False,[]
+CL0199,C091,Family Law,13732.66,2024-05-22,Approved,23,26,False,"['CL0199_1_doc.pdf', 'CL0199_2_doc.pdf', 'CL0199_3_doc.pdf']"
+CL0200,C091,Debt Collection,16524.39,2023-07-19,Approved,81,53,False,"['CL0200_1_doc.pdf', 'CL0200_2_doc.pdf']"
+CL0201,C091,Property Damage,49059.31,2024-03-26,Rejected,6,70,False,[]
+CL0202,C091,Personal Injury,2543.66,2023-07-23,Approved,61,99,False,['CL0202_1_doc.pdf']
+CL0203,C092,Family Law,20082.66,2023-09-28,Rejected,66,55,True,"['CL0203_1_doc.pdf', 'CL0203_2_doc.pdf', 'CL0203_3_doc.pdf']"
+CL0204,C092,Property Damage,42023.24,2024-03-30,Pending,48,9,False,"['CL0204_1_doc.pdf', 'CL0204_2_doc.pdf', 'CL0204_3_doc.pdf']"
+CL0205,C092,Family Law,20263.38,2023-07-28,Approved,59,59,False,"['CL0205_1_doc.pdf', 'CL0205_2_doc.pdf', 'CL0205_3_doc.pdf']"
+CL0206,C094,Motor Vehicle Accident,43761.74,2023-11-17,Approved,47,23,False,['CL0206_1_doc.pdf']
+CL0207,C094,Motor Vehicle Accident,6437.21,2024-05-05,Pending,79,100,False,"['CL0207_1_doc.pdf', 'CL0207_2_doc.pdf', 'CL0207_3_doc.pdf']"
+CL0208,C094,Family Law,6725.29,2023-11-15,Pending,76,88,False,[]
+CL0209,C095,Personal Injury,40925.43,2023-12-10,Approved,59,64,True,['CL0209_1_doc.pdf']
+CL0210,C096,Commercial Dispute,977.76,2024-04-12,Rejected,40,1,False,[]
+CL0211,C097,Debt Collection,25024.77,2024-05-31,Pending,81,16,False,[]
+CL0212,C097,Employment Dispute,17169.27,2023-12-07,Pending,76,64,False,[]
+CL0213,C098,Medical Malpractice,15537.85,2024-04-15,Rejected,77,25,False,"['CL0213_1_doc.pdf', 'CL0213_2_doc.pdf', 'CL0213_3_doc.pdf']"
+CL0214,C098,Employment Dispute,6868.76,2023-08-19,Pending,20,99,False,"['CL0214_1_doc.pdf', 'CL0214_2_doc.pdf', 'CL0214_3_doc.pdf']"
+CL0215,C099,Commercial Dispute,16396.94,2023-12-16,Rejected,12,28,True,[]
+CL0216,C099,Debt Collection,36053.75,2023-06-29,Approved,3,38,False,[]
+CL0217,C100,Property Damage,11501.34,2023-08-29,Approved,48,48,False,"['CL0217_1_doc.pdf', 'CL0217_2_doc.pdf', 'CL0217_3_doc.pdf']"
+CL0218,C100,Debt Collection,14662.34,2024-02-25,Approved,82,86,True,[]
+CL0219,C100,Family Law,1137.27,2024-04-10,Rejected,94,25,False,['CL0219_1_doc.pdf']
+CL0220,C101,Commercial Dispute,14230.92,2023-09-06,Approved,46,99,False,[]
+CL0221,C101,Personal Injury,8458.38,2023-12-04,Rejected,97,61,False,[]
+CL0222,C101,Debt Collection,36902.45,2023-07-18,Rejected,51,100,False,['CL0222_1_doc.pdf']
+CL0223,C101,Debt Collection,43255.92,2024-01-28,Pending,46,66,False,[]
+CL0224,C103,Medical Malpractice,46807.1,2023-10-23,Rejected,29,24,False,[]
+CL0225,C103,Family Law,28785.02,2023-12-23,Pending,34,92,False,['CL0225_1_doc.pdf']
+CL0226,C103,Motor Vehicle Accident,38350.87,2023-06-02,Pending,9,56,False,"['CL0226_1_doc.pdf', 'CL0226_2_doc.pdf']"
+CL0227,C104,Commercial Dispute,36756.67,2024-05-16,Pending,62,37,False,['CL0227_1_doc.pdf']
+CL0228,C105,Property Damage,35492.39,2023-10-30,Rejected,36,13,False,"['CL0228_1_doc.pdf', 'CL0228_2_doc.pdf']"
+CL0229,C106,Family Law,46412.09,2023-06-23,Rejected,95,72,False,['CL0229_1_doc.pdf']
+CL0230,C106,Motor Vehicle Accident,1672.08,2023-08-23,Pending,4,62,False,"['CL0230_1_doc.pdf', 'CL0230_2_doc.pdf', 'CL0230_3_doc.pdf']"
+CL0231,C107,Commercial Dispute,4399.16,2023-11-01,Rejected,24,11,False,"['CL0231_1_doc.pdf', 'CL0231_2_doc.pdf', 'CL0231_3_doc.pdf']"
+CL0232,C107,Personal Injury,15983.19,2023-09-11,Rejected,31,19,False,['CL0232_1_doc.pdf']
+CL0233,C107,Motor Vehicle Accident,13946.61,2023-12-02,Approved,60,58,False,[]
+CL0234,C108,Property Damage,39588.8,2023-06-29,Pending,72,90,False,"['CL0234_1_doc.pdf', 'CL0234_2_doc.pdf', 'CL0234_3_doc.pdf']"
+CL0235,C108,Personal Injury,28156.21,2023-09-27,Approved,94,58,False,"['CL0235_1_doc.pdf', 'CL0235_2_doc.pdf', 'CL0235_3_doc.pdf']"
+CL0236,C108,Personal Injury,46296.69,2024-02-12,Approved,75,25,False,['CL0236_1_doc.pdf']
+CL0237,C108,Debt Collection,10396.72,2023-07-03,Approved,86,68,False,"['CL0237_1_doc.pdf', 'CL0237_2_doc.pdf', 'CL0237_3_doc.pdf']"
+CL0238,C109,Employment Dispute,27485.42,2024-02-24,Pending,44,5,False,[]
+CL0239,C109,Motor Vehicle Accident,18191.21,2024-01-04,Approved,5,83,False,"['CL0239_1_doc.pdf', 'CL0239_2_doc.pdf', 'CL0239_3_doc.pdf']"
+CL0240,C109,Medical Malpractice,17535.83,2023-06-19,Approved,65,71,False,"['CL0240_1_doc.pdf', 'CL0240_2_doc.pdf', 'CL0240_3_doc.pdf']"
+CL0241,C111,Medical Malpractice,49168.19,2024-01-07,Rejected,2,64,False,"['CL0241_1_doc.pdf', 'CL0241_2_doc.pdf', 'CL0241_3_doc.pdf']"
+CL0242,C111,Commercial Dispute,20388.9,2023-08-04,Pending,78,9,False,"['CL0242_1_doc.pdf', 'CL0242_2_doc.pdf', 'CL0242_3_doc.pdf']"
+CL0243,C113,Debt Collection,14110.1,2024-02-20,Pending,85,74,False,"['CL0243_1_doc.pdf', 'CL0243_2_doc.pdf', 'CL0243_3_doc.pdf']"
+CL0244,C113,Property Damage,25478.81,2024-04-10,Rejected,9,33,False,[]
+CL0245,C113,Personal Injury,32991.6,2023-08-03,Rejected,0,46,False,"['CL0245_1_doc.pdf', 'CL0245_2_doc.pdf', 'CL0245_3_doc.pdf']"
+CL0246,C113,Medical Malpractice,616.9,2023-10-23,Rejected,64,18,False,"['CL0246_1_doc.pdf', 'CL0246_2_doc.pdf']"
+CL0247,C115,Motor Vehicle Accident,38848.03,2023-12-15,Rejected,48,65,False,[]
+CL0248,C116,Debt Collection,49769.64,2023-10-19,Approved,35,64,False,['CL0248_1_doc.pdf']
+CL0249,C116,Personal Injury,44004.48,2023-06-27,Pending,2,80,False,"['CL0249_1_doc.pdf', 'CL0249_2_doc.pdf']"
+CL0250,C116,Family Law,10949.61,2023-07-06,Pending,19,8,False,"['CL0250_1_doc.pdf', 'CL0250_2_doc.pdf', 'CL0250_3_doc.pdf']"
+CL0251,C116,Debt Collection,42913.99,2023-07-03,Rejected,18,83,False,[]
+CL0252,C117,Personal Injury,32104.1,2023-10-13,Pending,27,56,False,"['CL0252_1_doc.pdf', 'CL0252_2_doc.pdf']"
+CL0253,C118,Family Law,31895.96,2023-07-15,Rejected,61,94,False,"['CL0253_1_doc.pdf', 'CL0253_2_doc.pdf', 'CL0253_3_doc.pdf']"
+CL0254,C118,Employment Dispute,10312.88,2023-07-29,Pending,52,95,False,[]
+CL0255,C118,Property Damage,18163.65,2023-11-11,Rejected,20,62,False,['CL0255_1_doc.pdf']
+CL0256,C118,Family Law,927.29,2023-07-19,Approved,81,47,False,"['CL0256_1_doc.pdf', 'CL0256_2_doc.pdf']"
+CL0257,C120,Personal Injury,45395.41,2024-03-15,Pending,91,0,False,"['CL0257_1_doc.pdf', 'CL0257_2_doc.pdf']"
+CL0258,C120,Employment Dispute,18461.28,2024-04-20,Rejected,89,17,False,"['CL0258_1_doc.pdf', 'CL0258_2_doc.pdf']"
+CL0259,C120,Motor Vehicle Accident,26835.8,2023-09-28,Pending,94,17,False,"['CL0259_1_doc.pdf', 'CL0259_2_doc.pdf']"
+CL0260,C120,Motor Vehicle Accident,2367.74,2023-06-29,Approved,67,42,False,[]
+CL0261,C121,Debt Collection,34637.72,2024-01-27,Rejected,67,67,False,[]
+CL0262,C121,Debt Collection,42126.38,2023-06-02,Rejected,34,14,False,[]
+CL0263,C121,Employment Dispute,30470.7,2023-09-09,Approved,67,71,False,"['CL0263_1_doc.pdf', 'CL0263_2_doc.pdf', 'CL0263_3_doc.pdf']"
+CL0264,C121,Medical Malpractice,31579.15,2023-06-18,Rejected,85,92,False,[]
+CL0265,C122,Motor Vehicle Accident,15199.58,2023-11-10,Approved,58,82,False,['CL0265_1_doc.pdf']
+CL0266,C122,Medical Malpractice,21736.2,2023-11-25,Approved,91,58,False,[]
+CL0267,C123,Property Damage,32214.78,2023-10-07,Pending,64,39,False,[]
+CL0268,C123,Property Damage,19030.19,2023-06-29,Pending,69,45,False,['CL0268_1_doc.pdf']
+CL0269,C123,Employment Dispute,17020.17,2024-02-02,Approved,46,59,False,"['CL0269_1_doc.pdf', 'CL0269_2_doc.pdf', 'CL0269_3_doc.pdf']"
+CL0270,C124,Family Law,41135.47,2024-02-23,Pending,43,4,False,"['CL0270_1_doc.pdf', 'CL0270_2_doc.pdf', 'CL0270_3_doc.pdf']"
+CL0271,C124,Commercial Dispute,35448.88,2023-06-18,Approved,21,74,False,[]
+CL0272,C124,Employment Dispute,16441.65,2023-11-05,Rejected,43,44,False,"['CL0272_1_doc.pdf', 'CL0272_2_doc.pdf', 'CL0272_3_doc.pdf']"
+CL0273,C127,Personal Injury,43446.18,2023-08-04,Rejected,48,84,True,[]
+CL0274,C127,Medical Malpractice,37712.56,2024-05-05,Approved,56,83,False,['CL0274_1_doc.pdf']
+CL0275,C127,Commercial Dispute,8257.14,2024-03-12,Pending,52,34,False,"['CL0275_1_doc.pdf', 'CL0275_2_doc.pdf']"
+CL0276,C129,Motor Vehicle Accident,26729.49,2024-04-23,Pending,65,69,False,"['CL0276_1_doc.pdf', 'CL0276_2_doc.pdf']"
+CL0277,C129,Commercial Dispute,9282.91,2023-06-15,Pending,35,6,False,"['CL0277_1_doc.pdf', 'CL0277_2_doc.pdf']"
+CL0278,C130,Commercial Dispute,19757.64,2023-07-28,Rejected,37,91,False,[]
+CL0279,C130,Employment Dispute,6378.85,2023-12-24,Rejected,13,76,False,['CL0279_1_doc.pdf']
+CL0280,C130,Personal Injury,42234.4,2023-10-21,Pending,93,19,False,"['CL0280_1_doc.pdf', 'CL0280_2_doc.pdf', 'CL0280_3_doc.pdf']"
+CL0281,C132,Motor Vehicle Accident,34901.24,2024-02-04,Rejected,42,28,True,"['CL0281_1_doc.pdf', 'CL0281_2_doc.pdf']"
+CL0282,C132,Motor Vehicle Accident,44378.37,2023-06-23,Approved,97,23,False,"['CL0282_1_doc.pdf', 'CL0282_2_doc.pdf']"
+CL0283,C132,Employment Dispute,37174.81,2024-04-01,Approved,26,69,False,['CL0283_1_doc.pdf']
+CL0284,C132,Motor Vehicle Accident,21843.56,2023-08-02,Pending,30,79,False,[]
+CL0285,C133,Property Damage,11277.29,2024-04-12,Pending,71,70,False,[]
+CL0286,C133,Personal Injury,5065.12,2023-09-19,Approved,45,48,False,"['CL0286_1_doc.pdf', 'CL0286_2_doc.pdf', 'CL0286_3_doc.pdf']"
+CL0287,C134,Property Damage,3767.87,2024-04-12,Rejected,49,24,True,"['CL0287_1_doc.pdf', 'CL0287_2_doc.pdf']"
+CL0288,C134,Family Law,42613.77,2023-11-11,Approved,28,29,False,['CL0288_1_doc.pdf']
+CL0289,C135,Motor Vehicle Accident,25675.84,2023-11-21,Approved,94,27,False,['CL0289_1_doc.pdf']
+CL0290,C135,Employment Dispute,47532.21,2023-07-21,Rejected,90,65,False,['CL0290_1_doc.pdf']
+CL0291,C135,Employment Dispute,45771.22,2023-08-04,Pending,100,29,False,[]
+CL0292,C136,Debt Collection,35912.4,2023-09-15,Rejected,32,53,False,['CL0292_1_doc.pdf']
+CL0293,C137,Employment Dispute,5373.41,2023-09-06,Approved,19,81,False,"['CL0293_1_doc.pdf', 'CL0293_2_doc.pdf']"
+CL0294,C138,Commercial Dispute,20375.19,2024-01-01,Rejected,50,43,True,"['CL0294_1_doc.pdf', 'CL0294_2_doc.pdf']"
+CL0295,C138,Motor Vehicle Accident,47130.99,2023-11-06,Approved,86,62,True,[]
+CL0296,C138,Debt Collection,44552.43,2024-04-15,Rejected,41,90,False,['CL0296_1_doc.pdf']
+CL0297,C139,Motor Vehicle Accident,29840.41,2023-06-10,Pending,41,74,False,"['CL0297_1_doc.pdf', 'CL0297_2_doc.pdf']"
+CL0298,C139,Personal Injury,42011.38,2023-06-01,Rejected,30,98,False,['CL0298_1_doc.pdf']
+CL0299,C141,Debt Collection,11331.62,2023-12-26,Rejected,36,19,False,['CL0299_1_doc.pdf']
+CL0300,C141,Employment Dispute,18651.99,2024-05-08,Pending,59,3,False,[]
+CL0301,C141,Medical Malpractice,24578.66,2024-04-24,Approved,84,77,False,[]
+CL0302,C141,Motor Vehicle Accident,26619.72,2023-12-25,Rejected,12,17,False,['CL0302_1_doc.pdf']
+CL0303,C142,Commercial Dispute,47038.22,2023-09-16,Rejected,65,2,False,[]
+CL0304,C142,Motor Vehicle Accident,10213.86,2023-10-07,Pending,86,91,False,[]
+CL0305,C142,Employment Dispute,24540.49,2024-03-28,Approved,34,3,False,"['CL0305_1_doc.pdf', 'CL0305_2_doc.pdf']"
+CL0306,C142,Family Law,15992.97,2023-10-28,Rejected,59,93,False,['CL0306_1_doc.pdf']
+CL0307,C143,Debt Collection,33391.36,2023-06-02,Pending,9,94,False,['CL0307_1_doc.pdf']
+CL0308,C144,Debt Collection,303.1,2023-10-24,Rejected,6,62,False,"['CL0308_1_doc.pdf', 'CL0308_2_doc.pdf', 'CL0308_3_doc.pdf']"
+CL0309,C144,Commercial Dispute,2960.44,2023-08-15,Approved,6,86,False,[]
+CL0310,C144,Debt Collection,25160.57,2023-12-25,Pending,81,21,False,"['CL0310_1_doc.pdf', 'CL0310_2_doc.pdf']"
+CL0311,C144,Property Damage,5112.3,2024-01-03,Approved,53,86,False,"['CL0311_1_doc.pdf', 'CL0311_2_doc.pdf', 'CL0311_3_doc.pdf']"
+CL0312,C145,Family Law,32567.78,2024-04-28,Pending,11,10,False,[]
+CL0313,C145,Motor Vehicle Accident,1358.73,2023-07-19,Approved,75,86,True,[]
+CL0314,C146,Medical Malpractice,13662.43,2023-11-13,Pending,28,78,False,"['CL0314_1_doc.pdf', 'CL0314_2_doc.pdf']"
+CL0315,C146,Personal Injury,10250.09,2023-08-29,Approved,21,75,True,['CL0315_1_doc.pdf']
+CL0316,C146,Personal Injury,31078.21,2024-01-27,Approved,63,15,False,[]
+CL0317,C147,Personal Injury,40232.05,2023-09-22,Pending,59,30,False,"['CL0317_1_doc.pdf', 'CL0317_2_doc.pdf']"
+CL0318,C147,Debt Collection,9074.19,2024-01-15,Approved,42,88,False,"['CL0318_1_doc.pdf', 'CL0318_2_doc.pdf', 'CL0318_3_doc.pdf']"
+CL0319,C147,Family Law,23171.41,2024-05-07,Approved,61,34,False,"['CL0319_1_doc.pdf', 'CL0319_2_doc.pdf', 'CL0319_3_doc.pdf']"
+CL0320,C147,Debt Collection,11371.67,2023-08-01,Rejected,48,15,False,[]
+CL0321,C149,Commercial Dispute,33769.47,2023-11-05,Rejected,98,49,True,['CL0321_1_doc.pdf']
+CL0322,C149,Employment Dispute,47782.27,2024-01-30,Pending,98,79,False,"['CL0322_1_doc.pdf', 'CL0322_2_doc.pdf', 'CL0322_3_doc.pdf']"
+CL0323,C149,Commercial Dispute,15566.99,2024-04-07,Approved,51,67,False,[]
+CL0324,C150,Medical Malpractice,22682.3,2023-08-11,Pending,77,30,False,"['CL0324_1_doc.pdf', 'CL0324_2_doc.pdf', 'CL0324_3_doc.pdf']"
+CL0325,C150,Debt Collection,17170.96,2023-11-03,Approved,73,33,False,[]
+CL0326,C150,Family Law,39004.01,2023-10-26,Approved,28,4,False,"['CL0326_1_doc.pdf', 'CL0326_2_doc.pdf']"
+CL0327,C150,Family Law,37813.44,2024-05-03,Pending,3,15,False,[]
+CL0328,C152,Medical Malpractice,43346.67,2023-10-31,Pending,73,78,False,"['CL0328_1_doc.pdf', 'CL0328_2_doc.pdf', 'CL0328_3_doc.pdf']"
+CL0329,C153,Employment Dispute,34985.89,2023-12-07,Pending,98,52,False,[]
+CL0330,C153,Employment Dispute,43297.03,2023-09-22,Pending,84,59,False,"['CL0330_1_doc.pdf', 'CL0330_2_doc.pdf', 'CL0330_3_doc.pdf']"
+CL0331,C153,Family Law,24165.33,2023-06-26,Pending,7,42,False,[]
+CL0332,C153,Employment Dispute,35494.82,2023-06-12,Pending,38,82,False,['CL0332_1_doc.pdf']
+CL0333,C154,Personal Injury,43492.35,2024-04-30,Approved,0,68,False,[]
+CL0334,C154,Family Law,10868.42,2023-12-29,Approved,98,72,False,['CL0334_1_doc.pdf']
+CL0335,C154,Property Damage,42412.1,2024-01-18,Rejected,47,44,False,[]
+CL0336,C154,Motor Vehicle Accident,32997.47,2023-09-28,Rejected,13,26,False,"['CL0336_1_doc.pdf', 'CL0336_2_doc.pdf', 'CL0336_3_doc.pdf']"
+CL0337,C155,Commercial Dispute,47163.91,2023-11-02,Pending,98,95,False,"['CL0337_1_doc.pdf', 'CL0337_2_doc.pdf', 'CL0337_3_doc.pdf']"
+CL0338,C155,Motor Vehicle Accident,6458.65,2024-04-08,Rejected,22,35,False,"['CL0338_1_doc.pdf', 'CL0338_2_doc.pdf', 'CL0338_3_doc.pdf']"
+CL0339,C155,Medical Malpractice,33598.04,2024-03-24,Rejected,65,56,False,"['CL0339_1_doc.pdf', 'CL0339_2_doc.pdf']"
+CL0340,C156,Motor Vehicle Accident,10724.31,2023-09-16,Pending,59,78,False,[]
+CL0341,C156,Property Damage,38182.21,2023-07-09,Pending,6,86,False,['CL0341_1_doc.pdf']
+CL0342,C157,Family Law,875.9,2023-07-06,Approved,78,58,False,"['CL0342_1_doc.pdf', 'CL0342_2_doc.pdf']"
+CL0343,C157,Family Law,29155.23,2024-05-06,Approved,42,39,False,[]
+CL0344,C157,Family Law,25913.64,2023-11-10,Approved,23,33,False,['CL0344_1_doc.pdf']
+CL0345,C157,Motor Vehicle Accident,31105.03,2023-12-25,Approved,63,74,False,[]
+CL0346,C158,Debt Collection,22383.41,2023-10-08,Pending,80,2,True,[]
+CL0347,C158,Employment Dispute,28954.53,2024-04-01,Pending,79,86,False,[]
+CL0348,C158,Employment Dispute,2321.2,2023-09-18,Pending,32,53,False,"['CL0348_1_doc.pdf', 'CL0348_2_doc.pdf']"
+CL0349,C158,Medical Malpractice,45235.89,2024-04-29,Rejected,21,41,False,"['CL0349_1_doc.pdf', 'CL0349_2_doc.pdf']"
+CL0350,C159,Personal Injury,21250.91,2024-04-21,Pending,28,88,False,"['CL0350_1_doc.pdf', 'CL0350_2_doc.pdf']"
+CL0351,C159,Personal Injury,41769.51,2024-03-13,Pending,32,55,False,['CL0351_1_doc.pdf']
+CL0352,C159,Personal Injury,31473.74,2023-10-07,Pending,87,72,False,"['CL0352_1_doc.pdf', 'CL0352_2_doc.pdf']"
+CL0353,C160,Employment Dispute,20626.68,2023-09-17,Pending,21,56,False,[]
+CL0354,C160,Commercial Dispute,25945.98,2023-07-25,Pending,58,33,False,[]
+CL0355,C160,Motor Vehicle Accident,39653.46,2023-10-30,Pending,83,49,False,['CL0355_1_doc.pdf']
+CL0356,C160,Family Law,6345.75,2024-02-08,Pending,12,6,False,['CL0356_1_doc.pdf']
+CL0357,C161,Medical Malpractice,13968.94,2024-02-05,Pending,89,76,False,['CL0357_1_doc.pdf']
+CL0358,C163,Property Damage,39409.02,2023-11-14,Approved,50,71,True,"['CL0358_1_doc.pdf', 'CL0358_2_doc.pdf']"
+CL0359,C163,Family Law,11142.67,2023-11-21,Approved,31,49,True,"['CL0359_1_doc.pdf', 'CL0359_2_doc.pdf']"
+CL0360,C164,Employment Dispute,36280.88,2024-03-23,Pending,99,100,False,[]
+CL0361,C164,Medical Malpractice,39163.39,2024-04-16,Pending,73,10,False,[]
+CL0362,C164,Property Damage,15105.52,2023-08-01,Rejected,90,17,False,"['CL0362_1_doc.pdf', 'CL0362_2_doc.pdf', 'CL0362_3_doc.pdf']"
+CL0363,C164,Employment Dispute,2880.69,2023-06-17,Pending,95,67,False,"['CL0363_1_doc.pdf', 'CL0363_2_doc.pdf', 'CL0363_3_doc.pdf']"
+CL0364,C165,Family Law,48268.58,2023-10-11,Rejected,12,97,False,[]
+CL0365,C165,Family Law,27621.8,2023-10-04,Approved,73,3,False,"['CL0365_1_doc.pdf', 'CL0365_2_doc.pdf']"
+CL0366,C165,Property Damage,26800.16,2024-05-05,Approved,7,19,False,[]
+CL0367,C165,Commercial Dispute,48764.69,2023-09-24,Rejected,34,29,False,"['CL0367_1_doc.pdf', 'CL0367_2_doc.pdf', 'CL0367_3_doc.pdf']"
+CL0368,C166,Medical Malpractice,33142.78,2024-03-03,Rejected,15,66,False,"['CL0368_1_doc.pdf', 'CL0368_2_doc.pdf', 'CL0368_3_doc.pdf']"
+CL0369,C166,Property Damage,10498.5,2024-01-24,Approved,78,60,False,"['CL0369_1_doc.pdf', 'CL0369_2_doc.pdf', 'CL0369_3_doc.pdf']"
+CL0370,C166,Debt Collection,33583.9,2023-06-29,Rejected,93,41,True,['CL0370_1_doc.pdf']
+CL0371,C166,Employment Dispute,34411.48,2023-07-18,Rejected,13,0,False,['CL0371_1_doc.pdf']
+CL0372,C167,Medical Malpractice,12243.76,2023-06-05,Rejected,10,61,True,['CL0372_1_doc.pdf']
+CL0373,C167,Property Damage,39764.5,2024-05-19,Rejected,51,68,False,"['CL0373_1_doc.pdf', 'CL0373_2_doc.pdf']"
+CL0374,C169,Medical Malpractice,14006.6,2023-06-17,Approved,8,11,False,[]
+CL0375,C169,Property Damage,48429.69,2023-08-18,Pending,96,78,False,[]
+CL0376,C169,Employment Dispute,11661.95,2023-08-23,Pending,28,44,True,"['CL0376_1_doc.pdf', 'CL0376_2_doc.pdf']"
+CL0377,C170,Family Law,42847.22,2024-05-06,Rejected,65,59,False,"['CL0377_1_doc.pdf', 'CL0377_2_doc.pdf', 'CL0377_3_doc.pdf']"
+CL0378,C170,Personal Injury,41063.95,2023-07-02,Approved,36,92,False,[]
+CL0379,C170,Commercial Dispute,28783.76,2023-09-07,Approved,86,93,True,"['CL0379_1_doc.pdf', 'CL0379_2_doc.pdf']"
+CL0380,C170,Employment Dispute,29185.81,2023-06-06,Rejected,38,44,False,"['CL0380_1_doc.pdf', 'CL0380_2_doc.pdf']"
+CL0381,C171,Motor Vehicle Accident,9084.46,2024-02-24,Rejected,46,69,False,[]
+CL0382,C171,Family Law,27867.77,2024-02-29,Approved,100,82,True,"['CL0382_1_doc.pdf', 'CL0382_2_doc.pdf']"
+CL0383,C172,Property Damage,9090.03,2023-09-27,Rejected,91,79,False,[]
+CL0384,C172,Medical Malpractice,1766.64,2024-05-28,Pending,53,60,False,[]
+CL0385,C172,Medical Malpractice,36369.65,2023-06-07,Approved,64,35,False,[]
+CL0386,C173,Commercial Dispute,26183.35,2023-12-06,Approved,4,44,False,['CL0386_1_doc.pdf']
+CL0387,C173,Motor Vehicle Accident,9409.07,2023-07-19,Approved,67,95,True,[]
+CL0388,C174,Motor Vehicle Accident,46852.84,2024-05-11,Approved,56,23,False,['CL0388_1_doc.pdf']
+CL0389,C175,Medical Malpractice,14531.44,2023-10-31,Pending,36,75,False,[]
+CL0390,C176,Debt Collection,11315.69,2024-03-19,Rejected,10,48,False,[]
+CL0391,C176,Medical Malpractice,34833.92,2023-07-13,Pending,65,75,False,[]
+CL0392,C177,Family Law,12390.29,2024-03-18,Rejected,84,43,False,"['CL0392_1_doc.pdf', 'CL0392_2_doc.pdf', 'CL0392_3_doc.pdf']"
+CL0393,C177,Personal Injury,49538.7,2024-02-19,Rejected,78,69,False,[]
+CL0394,C177,Family Law,44252.07,2023-07-21,Approved,73,75,False,['CL0394_1_doc.pdf']
+CL0395,C177,Commercial Dispute,7148.85,2023-11-26,Approved,75,96,False,"['CL0395_1_doc.pdf', 'CL0395_2_doc.pdf', 'CL0395_3_doc.pdf']"
+CL0396,C179,Medical Malpractice,10362.74,2023-07-04,Rejected,5,99,False,"['CL0396_1_doc.pdf', 'CL0396_2_doc.pdf']"
+CL0397,C179,Family Law,35217.29,2023-09-29,Approved,54,23,False,"['CL0397_1_doc.pdf', 'CL0397_2_doc.pdf']"
+CL0398,C180,Property Damage,35651.58,2023-07-21,Pending,29,63,False,"['CL0398_1_doc.pdf', 'CL0398_2_doc.pdf', 'CL0398_3_doc.pdf']"
+CL0399,C180,Employment Dispute,15070.04,2023-11-06,Rejected,22,49,False,['CL0399_1_doc.pdf']
+CL0400,C180,Motor Vehicle Accident,30194.72,2023-12-15,Rejected,54,64,False,[]
+CL0401,C181,Property Damage,22996.99,2023-10-09,Rejected,62,30,False,[]
+CL0402,C181,Debt Collection,4374.45,2024-04-08,Approved,33,30,False,"['CL0402_1_doc.pdf', 'CL0402_2_doc.pdf']"
+CL0403,C181,Property Damage,47466.7,2024-01-20,Rejected,45,72,False,['CL0403_1_doc.pdf']
+CL0404,C182,Medical Malpractice,46898.24,2023-06-01,Approved,69,94,False,"['CL0404_1_doc.pdf', 'CL0404_2_doc.pdf', 'CL0404_3_doc.pdf']"
+CL0405,C182,Debt Collection,11299.97,2023-10-22,Pending,99,66,False,[]
+CL0406,C182,Medical Malpractice,46591.59,2023-10-16,Rejected,66,43,False,['CL0406_1_doc.pdf']
+CL0407,C182,Debt Collection,16882.15,2023-09-14,Approved,55,26,False,['CL0407_1_doc.pdf']
+CL0408,C183,Personal Injury,35438.77,2023-06-25,Rejected,82,94,False,[]
+CL0409,C183,Personal Injury,48382.82,2024-02-14,Pending,57,70,False,"['CL0409_1_doc.pdf', 'CL0409_2_doc.pdf', 'CL0409_3_doc.pdf']"
+CL0410,C183,Medical Malpractice,33529.95,2023-12-04,Rejected,35,27,False,[]
+CL0411,C183,Personal Injury,15284.89,2023-12-27,Approved,89,57,True,[]
+CL0412,C185,Motor Vehicle Accident,36340.04,2024-02-29,Approved,84,75,False,['CL0412_1_doc.pdf']
+CL0413,C185,Family Law,29378.89,2024-04-24,Pending,77,38,False,[]
+CL0414,C185,Commercial Dispute,10819.1,2023-10-14,Pending,76,44,True,"['CL0414_1_doc.pdf', 'CL0414_2_doc.pdf']"
+CL0415,C186,Medical Malpractice,43414.47,2024-01-30,Pending,93,94,False,[]
+CL0416,C186,Medical Malpractice,23033.68,2023-10-16,Pending,94,69,False,[]
+CL0417,C186,Debt Collection,11609.06,2023-11-03,Approved,49,34,False,[]
+CL0418,C186,Employment Dispute,34014.84,2023-08-15,Approved,89,66,False,"['CL0418_1_doc.pdf', 'CL0418_2_doc.pdf', 'CL0418_3_doc.pdf']"
+CL0419,C187,Medical Malpractice,28717.08,2023-11-07,Pending,98,47,False,"['CL0419_1_doc.pdf', 'CL0419_2_doc.pdf', 'CL0419_3_doc.pdf']"
+CL0420,C187,Property Damage,5731.1,2023-08-31,Approved,58,68,False,[]
+CL0421,C187,Property Damage,7434.6,2024-04-15,Pending,58,61,False,"['CL0421_1_doc.pdf', 'CL0421_2_doc.pdf', 'CL0421_3_doc.pdf']"
+CL0422,C188,Motor Vehicle Accident,10851.15,2024-02-08,Approved,27,86,False,['CL0422_1_doc.pdf']
+CL0423,C188,Debt Collection,15972.99,2024-05-19,Rejected,7,46,False,[]
+CL0424,C188,Personal Injury,43115.95,2023-08-13,Rejected,49,43,False,[]
+CL0425,C188,Medical Malpractice,15094.99,2023-07-01,Approved,52,92,False,['CL0425_1_doc.pdf']
+CL0426,C189,Commercial Dispute,26445.19,2024-03-26,Pending,13,2,False,"['CL0426_1_doc.pdf', 'CL0426_2_doc.pdf']"
+CL0427,C189,Personal Injury,1905.7,2023-08-10,Rejected,92,66,True,"['CL0427_1_doc.pdf', 'CL0427_2_doc.pdf']"
+CL0428,C189,Personal Injury,34130.17,2023-06-26,Pending,68,5,False,[]
+CL0429,C190,Family Law,8017.8,2023-08-18,Approved,70,12,False,[]
+CL0430,C190,Family Law,27460.65,2024-03-27,Rejected,3,8,False,[]
+CL0431,C190,Property Damage,37107.31,2024-05-18,Rejected,50,6,False,"['CL0431_1_doc.pdf', 'CL0431_2_doc.pdf', 'CL0431_3_doc.pdf']"
+CL0432,C190,Family Law,9270.71,2023-08-29,Pending,79,43,False,[]
+CL0433,C191,Motor Vehicle Accident,30614.18,2023-06-22,Pending,0,74,False,[]
+CL0434,C191,Personal Injury,29261.16,2024-05-27,Pending,81,63,False,['CL0434_1_doc.pdf']
+CL0435,C192,Motor Vehicle Accident,22060.76,2023-11-17,Rejected,87,31,False,['CL0435_1_doc.pdf']
+CL0436,C192,Employment Dispute,5673.27,2024-04-02,Pending,83,74,False,[]
+CL0437,C192,Property Damage,35936.05,2024-04-04,Pending,92,9,False,"['CL0437_1_doc.pdf', 'CL0437_2_doc.pdf', 'CL0437_3_doc.pdf']"
+CL0438,C192,Personal Injury,47426.42,2023-11-25,Rejected,86,67,False,[]
+CL0439,C194,Commercial Dispute,17695.57,2024-05-19,Rejected,36,52,False,"['CL0439_1_doc.pdf', 'CL0439_2_doc.pdf', 'CL0439_3_doc.pdf']"
+CL0440,C194,Motor Vehicle Accident,36596.51,2024-01-18,Rejected,80,57,False,['CL0440_1_doc.pdf']
+CL0441,C194,Debt Collection,4695.21,2024-01-09,Pending,60,84,False,"['CL0441_1_doc.pdf', 'CL0441_2_doc.pdf']"
+CL0442,C195,Family Law,8958.44,2023-07-09,Approved,61,24,False,['CL0442_1_doc.pdf']
+CL0443,C195,Property Damage,36211.84,2024-01-08,Approved,22,45,False,"['CL0443_1_doc.pdf', 'CL0443_2_doc.pdf']"
+CL0444,C195,Family Law,44503.45,2023-07-29,Approved,60,96,False,"['CL0444_1_doc.pdf', 'CL0444_2_doc.pdf']"
+CL0445,C195,Employment Dispute,9911.78,2023-06-14,Rejected,97,40,False,['CL0445_1_doc.pdf']
+CL0446,C196,Debt Collection,10574.0,2024-04-20,Pending,75,14,False,"['CL0446_1_doc.pdf', 'CL0446_2_doc.pdf']"
+CL0447,C196,Employment Dispute,11804.97,2023-11-10,Pending,58,76,False,['CL0447_1_doc.pdf']
+CL0448,C196,Personal Injury,28603.76,2024-03-23,Pending,28,46,False,"['CL0448_1_doc.pdf', 'CL0448_2_doc.pdf']"
+CL0449,C197,Debt Collection,31201.56,2023-12-25,Approved,65,87,False,"['CL0449_1_doc.pdf', 'CL0449_2_doc.pdf', 'CL0449_3_doc.pdf']"
+CL0450,C197,Employment Dispute,38061.22,2023-11-20,Rejected,94,69,False,['CL0450_1_doc.pdf']
+CL0451,C197,Debt Collection,42945.36,2024-04-04,Pending,4,79,False,[]
+CL0452,C198,Debt Collection,44221.89,2024-02-25,Rejected,9,0,False,[]
+CL0453,C198,Medical Malpractice,8132.97,2023-06-09,Pending,70,97,False,[]
+CL0454,C199,Property Damage,41190.08,2024-05-05,Approved,94,51,False,"['CL0454_1_doc.pdf', 'CL0454_2_doc.pdf']"
+CL0455,C199,Motor Vehicle Accident,48407.92,2023-10-22,Pending,90,1,False,[]
+CL0456,C199,Family Law,43298.72,2024-01-25,Rejected,13,100,False,[]
+CL0457,C201,Motor Vehicle Accident,13570.93,2023-11-07,Pending,18,35,False,[]
+CL0458,C201,Family Law,45062.42,2023-12-17,Pending,55,16,False,[]
+CL0459,C201,Debt Collection,48668.62,2023-12-14,Approved,78,0,False,['CL0459_1_doc.pdf']
+CL0460,C201,Debt Collection,41710.6,2023-06-03,Approved,8,49,False,"['CL0460_1_doc.pdf', 'CL0460_2_doc.pdf', 'CL0460_3_doc.pdf']"
+CL0461,C204,Employment Dispute,1828.62,2024-05-18,Rejected,31,8,False,"['CL0461_1_doc.pdf', 'CL0461_2_doc.pdf', 'CL0461_3_doc.pdf']"
+CL0462,C204,Personal Injury,19955.9,2024-04-13,Rejected,82,10,False,"['CL0462_1_doc.pdf', 'CL0462_2_doc.pdf', 'CL0462_3_doc.pdf']"
+CL0463,C204,Commercial Dispute,42818.11,2023-12-14,Rejected,44,17,False,"['CL0463_1_doc.pdf', 'CL0463_2_doc.pdf']"
+CL0464,C204,Property Damage,17379.6,2024-01-01,Pending,64,94,False,['CL0464_1_doc.pdf']
+CL0465,C205,Medical Malpractice,14759.0,2024-01-28,Approved,60,50,True,"['CL0465_1_doc.pdf', 'CL0465_2_doc.pdf']"
+CL0466,C206,Commercial Dispute,21561.16,2023-08-09,Pending,59,36,False,"['CL0466_1_doc.pdf', 'CL0466_2_doc.pdf', 'CL0466_3_doc.pdf']"
+CL0467,C206,Medical Malpractice,16467.07,2024-05-30,Pending,48,51,False,"['CL0467_1_doc.pdf', 'CL0467_2_doc.pdf']"
+CL0468,C208,Property Damage,35580.76,2024-02-20,Pending,80,46,False,"['CL0468_1_doc.pdf', 'CL0468_2_doc.pdf']"
+CL0469,C208,Debt Collection,4412.89,2023-10-03,Rejected,53,82,False,['CL0469_1_doc.pdf']
+CL0470,C209,Commercial Dispute,10074.12,2024-04-21,Rejected,64,55,False,"['CL0470_1_doc.pdf', 'CL0470_2_doc.pdf']"
+CL0471,C212,Property Damage,13037.09,2023-12-14,Rejected,27,5,False,"['CL0471_1_doc.pdf', 'CL0471_2_doc.pdf', 'CL0471_3_doc.pdf']"
+CL0472,C212,Employment Dispute,5517.16,2024-04-25,Pending,18,57,False,"['CL0472_1_doc.pdf', 'CL0472_2_doc.pdf']"
+CL0473,C212,Employment Dispute,16970.87,2023-12-08,Approved,81,40,False,"['CL0473_1_doc.pdf', 'CL0473_2_doc.pdf', 'CL0473_3_doc.pdf']"
+CL0474,C212,Debt Collection,1120.5,2024-02-22,Approved,39,26,False,[]
+CL0475,C213,Motor Vehicle Accident,4349.65,2024-05-10,Pending,0,99,False,"['CL0475_1_doc.pdf', 'CL0475_2_doc.pdf']"
+CL0476,C213,Debt Collection,25935.34,2024-03-22,Pending,9,82,False,"['CL0476_1_doc.pdf', 'CL0476_2_doc.pdf']"
+CL0477,C213,Employment Dispute,14770.77,2024-05-25,Pending,62,42,False,"['CL0477_1_doc.pdf', 'CL0477_2_doc.pdf', 'CL0477_3_doc.pdf']"
+CL0478,C214,Personal Injury,49153.43,2023-06-25,Approved,85,57,False,"['CL0478_1_doc.pdf', 'CL0478_2_doc.pdf', 'CL0478_3_doc.pdf']"
+CL0479,C216,Commercial Dispute,140.59,2023-12-25,Pending,45,26,False,[]
+CL0480,C216,Property Damage,35476.82,2024-01-24,Approved,6,77,False,['CL0480_1_doc.pdf']
+CL0481,C216,Family Law,42832.95,2023-12-21,Rejected,81,35,False,"['CL0481_1_doc.pdf', 'CL0481_2_doc.pdf']"
+CL0482,C218,Family Law,8924.88,2024-05-03,Approved,45,67,False,"['CL0482_1_doc.pdf', 'CL0482_2_doc.pdf']"
+CL0483,C219,Property Damage,38165.62,2024-05-19,Rejected,54,59,False,"['CL0483_1_doc.pdf', 'CL0483_2_doc.pdf', 'CL0483_3_doc.pdf']"
+CL0484,C219,Medical Malpractice,29391.72,2024-02-29,Pending,22,45,False,[]
+CL0485,C220,Medical Malpractice,10337.14,2024-03-07,Rejected,37,24,False,[]
+CL0486,C222,Commercial Dispute,38906.63,2024-01-29,Approved,79,10,False,"['CL0486_1_doc.pdf', 'CL0486_2_doc.pdf', 'CL0486_3_doc.pdf']"
+CL0487,C222,Medical Malpractice,1130.28,2023-07-31,Pending,1,35,False,"['CL0487_1_doc.pdf', 'CL0487_2_doc.pdf', 'CL0487_3_doc.pdf']"
+CL0488,C222,Medical Malpractice,17964.98,2023-07-30,Pending,82,74,True,[]
+CL0489,C222,Employment Dispute,17918.08,2023-12-28,Approved,60,69,True,[]
+CL0490,C223,Employment Dispute,1901.1,2023-07-25,Approved,76,78,False,['CL0490_1_doc.pdf']
+CL0491,C224,Family Law,17760.33,2023-11-28,Pending,97,22,False,['CL0491_1_doc.pdf']
+CL0492,C224,Motor Vehicle Accident,22238.47,2023-08-14,Rejected,88,93,False,"['CL0492_1_doc.pdf', 'CL0492_2_doc.pdf', 'CL0492_3_doc.pdf']"
+CL0493,C226,Property Damage,30108.5,2024-03-18,Rejected,46,27,False,['CL0493_1_doc.pdf']
+CL0494,C226,Commercial Dispute,38613.87,2023-08-19,Approved,100,77,True,[]
+CL0495,C227,Commercial Dispute,28224.03,2023-08-26,Approved,0,26,False,['CL0495_1_doc.pdf']
+CL0496,C227,Family Law,37246.92,2024-01-14,Rejected,42,69,False,[]
+CL0497,C228,Employment Dispute,45456.76,2023-12-28,Pending,100,97,False,[]
+CL0498,C228,Commercial Dispute,16465.23,2023-12-21,Approved,43,22,False,[]
+CL0499,C229,Personal Injury,12882.76,2023-07-28,Pending,23,44,False,['CL0499_1_doc.pdf']
+CL0500,C230,Commercial Dispute,30201.17,2023-10-08,Pending,51,90,False,[]
+CL0501,C230,Employment Dispute,6769.84,2023-08-25,Approved,62,53,False,"['CL0501_1_doc.pdf', 'CL0501_2_doc.pdf', 'CL0501_3_doc.pdf']"
+CL0502,C230,Debt Collection,20658.45,2023-10-27,Rejected,76,4,False,[]
+CL0503,C231,Personal Injury,39050.42,2024-01-17,Approved,61,93,False,"['CL0503_1_doc.pdf', 'CL0503_2_doc.pdf', 'CL0503_3_doc.pdf']"
+CL0504,C231,Commercial Dispute,49467.43,2023-10-19,Approved,71,23,True,[]
+CL0505,C231,Family Law,41246.53,2024-04-02,Approved,73,75,False,"['CL0505_1_doc.pdf', 'CL0505_2_doc.pdf', 'CL0505_3_doc.pdf']"
+CL0506,C232,Motor Vehicle Accident,36707.33,2023-09-10,Rejected,31,21,False,"['CL0506_1_doc.pdf', 'CL0506_2_doc.pdf', 'CL0506_3_doc.pdf']"
+CL0507,C233,Commercial Dispute,7269.55,2023-07-14,Approved,89,6,False,['CL0507_1_doc.pdf']
+CL0508,C233,Medical Malpractice,18739.04,2024-03-17,Approved,52,50,False,[]
+CL0509,C234,Medical Malpractice,18495.01,2023-11-15,Approved,85,57,False,"['CL0509_1_doc.pdf', 'CL0509_2_doc.pdf']"
+CL0510,C234,Employment Dispute,44798.14,2024-05-06,Rejected,83,95,False,[]
+CL0511,C234,Employment Dispute,30580.45,2023-07-30,Approved,90,16,False,['CL0511_1_doc.pdf']
+CL0512,C235,Property Damage,48494.61,2024-01-03,Approved,2,29,False,[]
+CL0513,C235,Property Damage,39261.22,2023-06-07,Rejected,44,82,False,[]
+CL0514,C236,Debt Collection,8687.91,2024-04-17,Pending,69,0,False,"['CL0514_1_doc.pdf', 'CL0514_2_doc.pdf', 'CL0514_3_doc.pdf']"
+CL0515,C239,Employment Dispute,23330.02,2023-11-26,Pending,7,41,False,[]
+CL0516,C240,Medical Malpractice,3686.94,2024-01-20,Rejected,33,35,False,"['CL0516_1_doc.pdf', 'CL0516_2_doc.pdf', 'CL0516_3_doc.pdf']"
+CL0517,C240,Employment Dispute,41574.25,2023-09-15,Approved,84,85,False,"['CL0517_1_doc.pdf', 'CL0517_2_doc.pdf']"
+CL0518,C241,Personal Injury,43984.46,2023-07-13,Approved,51,50,True,[]
+CL0519,C242,Personal Injury,42826.08,2023-06-23,Pending,32,24,True,"['CL0519_1_doc.pdf', 'CL0519_2_doc.pdf', 'CL0519_3_doc.pdf']"
+CL0520,C242,Personal Injury,45495.0,2024-03-24,Pending,94,14,False,"['CL0520_1_doc.pdf', 'CL0520_2_doc.pdf']"
+CL0521,C243,Medical Malpractice,28874.46,2024-03-03,Rejected,52,2,False,"['CL0521_1_doc.pdf', 'CL0521_2_doc.pdf']"
+CL0522,C245,Personal Injury,9146.34,2023-08-09,Pending,36,3,False,"['CL0522_1_doc.pdf', 'CL0522_2_doc.pdf']"
+CL0523,C245,Motor Vehicle Accident,3978.27,2023-11-11,Pending,36,31,False,[]
+CL0524,C246,Employment Dispute,40041.65,2024-01-02,Approved,35,29,False,['CL0524_1_doc.pdf']
+CL0525,C246,Personal Injury,16869.88,2023-06-25,Rejected,29,85,False,[]
+CL0526,C246,Medical Malpractice,24698.18,2023-11-22,Rejected,38,23,False,"['CL0526_1_doc.pdf', 'CL0526_2_doc.pdf', 'CL0526_3_doc.pdf']"
+CL0527,C247,Commercial Dispute,40970.74,2023-10-10,Approved,1,46,False,"['CL0527_1_doc.pdf', 'CL0527_2_doc.pdf']"
+CL0528,C247,Employment Dispute,4941.52,2023-12-30,Rejected,51,16,False,[]
+CL0529,C247,Commercial Dispute,28679.65,2024-05-25,Pending,78,45,False,['CL0529_1_doc.pdf']
+CL0530,C247,Motor Vehicle Accident,35906.51,2024-04-10,Rejected,0,56,True,"['CL0530_1_doc.pdf', 'CL0530_2_doc.pdf', 'CL0530_3_doc.pdf']"
+CL0531,C248,Motor Vehicle Accident,25166.57,2023-07-12,Approved,56,52,False,[]
+CL0532,C248,Family Law,28937.91,2023-11-10,Rejected,100,34,False,['CL0532_1_doc.pdf']
+CL0533,C248,Family Law,35941.88,2024-02-09,Approved,46,59,False,[]
+CL0534,C248,Property Damage,28527.95,2023-10-31,Rejected,39,87,False,[]
+CL0535,C249,Property Damage,48720.56,2023-07-21,Approved,50,20,False,"['CL0535_1_doc.pdf', 'CL0535_2_doc.pdf']"
+CL0536,C249,Medical Malpractice,28348.48,2023-09-05,Approved,21,77,False,"['CL0536_1_doc.pdf', 'CL0536_2_doc.pdf']"
+CL0537,C249,Property Damage,30292.02,2023-08-01,Approved,68,99,False,"['CL0537_1_doc.pdf', 'CL0537_2_doc.pdf', 'CL0537_3_doc.pdf']"
+CL0538,C249,Employment Dispute,14791.09,2023-08-28,Pending,21,28,False,"['CL0538_1_doc.pdf', 'CL0538_2_doc.pdf']"
+CL0539,C250,Commercial Dispute,9280.16,2024-05-15,Pending,11,30,False,['CL0539_1_doc.pdf']
+CL0540,C250,Debt Collection,14927.67,2023-10-19,Rejected,13,25,False,['CL0540_1_doc.pdf']
+CL0541,C250,Property Damage,29125.0,2024-05-02,Approved,48,29,False,"['CL0541_1_doc.pdf', 'CL0541_2_doc.pdf']"
+CL0542,C250,Medical Malpractice,8067.21,2023-07-11,Pending,45,63,False,['CL0542_1_doc.pdf']
+CL0543,C251,Family Law,1994.79,2023-11-29,Approved,35,41,False,['CL0543_1_doc.pdf']
+CL0544,C251,Motor Vehicle Accident,30418.94,2023-07-10,Pending,75,3,False,[]
+CL0545,C251,Personal Injury,34921.71,2024-02-12,Rejected,27,82,False,"['CL0545_1_doc.pdf', 'CL0545_2_doc.pdf']"
+CL0546,C252,Debt Collection,10929.11,2024-04-04,Rejected,10,34,False,[]
+CL0547,C252,Personal Injury,26172.55,2023-11-02,Rejected,25,100,False,"['CL0547_1_doc.pdf', 'CL0547_2_doc.pdf', 'CL0547_3_doc.pdf']"
+CL0548,C252,Employment Dispute,27052.05,2024-04-09,Pending,29,96,False,[]
+CL0549,C254,Family Law,38213.11,2024-01-15,Rejected,24,28,False,['CL0549_1_doc.pdf']
+CL0550,C254,Personal Injury,24012.61,2023-06-11,Approved,67,7,False,[]
+CL0551,C254,Property Damage,41584.23,2023-10-28,Rejected,63,10,False,[]
+CL0552,C254,Personal Injury,48881.65,2023-10-31,Approved,51,26,False,[]
+CL0553,C255,Motor Vehicle Accident,9708.99,2023-08-09,Rejected,93,12,False,[]
+CL0554,C255,Debt Collection,940.94,2023-09-10,Rejected,95,24,False,[]
+CL0555,C257,Family Law,33050.42,2023-09-15,Rejected,9,48,False,"['CL0555_1_doc.pdf', 'CL0555_2_doc.pdf', 'CL0555_3_doc.pdf']"
+CL0556,C257,Employment Dispute,14966.37,2024-04-13,Rejected,66,58,False,[]
+CL0557,C258,Property Damage,30092.12,2024-03-06,Rejected,95,3,False,['CL0557_1_doc.pdf']
+CL0558,C258,Medical Malpractice,3233.64,2024-01-16,Approved,80,50,False,[]
+CL0559,C258,Motor Vehicle Accident,30108.66,2024-03-19,Pending,86,48,False,[]
+CL0560,C258,Medical Malpractice,20369.33,2023-06-16,Approved,24,38,False,"['CL0560_1_doc.pdf', 'CL0560_2_doc.pdf', 'CL0560_3_doc.pdf']"
+CL0561,C259,Employment Dispute,21798.45,2023-12-25,Pending,77,39,False,['CL0561_1_doc.pdf']
+CL0562,C259,Medical Malpractice,34020.19,2024-04-07,Rejected,69,80,False,[]
+CL0563,C259,Property Damage,7960.26,2024-05-27,Approved,25,21,False,"['CL0563_1_doc.pdf', 'CL0563_2_doc.pdf']"
+CL0564,C260,Personal Injury,7754.51,2023-09-18,Pending,41,78,False,"['CL0564_1_doc.pdf', 'CL0564_2_doc.pdf']"
+CL0565,C260,Employment Dispute,31145.09,2024-03-28,Approved,0,7,False,[]
+CL0566,C260,Property Damage,31777.42,2024-01-13,Pending,82,9,False,[]
+CL0567,C261,Employment Dispute,13477.02,2023-11-11,Pending,87,35,True,['CL0567_1_doc.pdf']
+CL0568,C261,Commercial Dispute,46171.3,2024-01-02,Rejected,37,11,False,"['CL0568_1_doc.pdf', 'CL0568_2_doc.pdf', 'CL0568_3_doc.pdf']"
+CL0569,C262,Family Law,5880.88,2023-09-09,Rejected,57,17,False,[]
+CL0570,C262,Property Damage,20089.75,2023-11-18,Pending,48,20,False,['CL0570_1_doc.pdf']
+CL0571,C262,Family Law,24401.42,2023-11-10,Pending,37,35,False,['CL0571_1_doc.pdf']
+CL0572,C262,Property Damage,29499.7,2023-06-20,Approved,73,4,False,"['CL0572_1_doc.pdf', 'CL0572_2_doc.pdf']"
+CL0573,C263,Employment Dispute,6261.59,2024-04-25,Rejected,53,44,True,"['CL0573_1_doc.pdf', 'CL0573_2_doc.pdf', 'CL0573_3_doc.pdf']"
+CL0574,C263,Employment Dispute,18709.83,2024-02-09,Rejected,34,74,False,"['CL0574_1_doc.pdf', 'CL0574_2_doc.pdf', 'CL0574_3_doc.pdf']"
+CL0575,C263,Personal Injury,47209.01,2023-10-05,Approved,98,59,False,['CL0575_1_doc.pdf']
+CL0576,C264,Medical Malpractice,22956.06,2023-09-12,Rejected,91,77,False,"['CL0576_1_doc.pdf', 'CL0576_2_doc.pdf', 'CL0576_3_doc.pdf']"
+CL0577,C265,Debt Collection,26940.89,2023-07-10,Rejected,29,29,True,[]
+CL0578,C265,Medical Malpractice,17499.75,2023-06-02,Approved,5,84,False,['CL0578_1_doc.pdf']
+CL0579,C265,Family Law,25641.79,2023-07-08,Pending,22,20,False,['CL0579_1_doc.pdf']
+CL0580,C265,Employment Dispute,10152.13,2023-06-29,Approved,42,38,False,[]
+CL0581,C266,Property Damage,3964.32,2023-07-18,Pending,88,20,False,"['CL0581_1_doc.pdf', 'CL0581_2_doc.pdf']"
+CL0582,C266,Personal Injury,46989.83,2024-04-25,Rejected,6,55,True,['CL0582_1_doc.pdf']
+CL0583,C266,Commercial Dispute,31282.99,2023-06-22,Rejected,43,27,False,['CL0583_1_doc.pdf']
+CL0584,C266,Debt Collection,12329.47,2024-02-07,Approved,100,38,False,"['CL0584_1_doc.pdf', 'CL0584_2_doc.pdf']"
+CL0585,C267,Commercial Dispute,35340.57,2023-10-18,Approved,91,31,True,"['CL0585_1_doc.pdf', 'CL0585_2_doc.pdf', 'CL0585_3_doc.pdf']"
+CL0586,C267,Debt Collection,5681.27,2024-04-24,Rejected,79,28,False,['CL0586_1_doc.pdf']
+CL0587,C268,Commercial Dispute,34664.14,2023-09-17,Rejected,82,9,False,"['CL0587_1_doc.pdf', 'CL0587_2_doc.pdf']"
+CL0588,C268,Commercial Dispute,8564.28,2024-03-02,Approved,48,26,True,[]
+CL0589,C268,Debt Collection,16612.11,2024-03-20,Rejected,86,19,False,"['CL0589_1_doc.pdf', 'CL0589_2_doc.pdf', 'CL0589_3_doc.pdf']"
+CL0590,C268,Debt Collection,46972.48,2024-02-28,Rejected,30,9,False,[]
+CL0591,C269,Debt Collection,49503.06,2023-11-24,Pending,32,48,False,[]
+CL0592,C270,Family Law,9463.16,2024-02-12,Pending,68,31,False,['CL0592_1_doc.pdf']
+CL0593,C271,Motor Vehicle Accident,45038.33,2024-04-29,Approved,65,47,False,[]
+CL0594,C271,Property Damage,2930.46,2023-10-03,Rejected,9,16,False,['CL0594_1_doc.pdf']
+CL0595,C271,Motor Vehicle Accident,13172.73,2023-07-17,Rejected,39,22,False,[]
+CL0596,C271,Personal Injury,33806.69,2023-09-17,Pending,22,34,False,[]
+CL0597,C272,Property Damage,6203.6,2023-11-02,Approved,61,31,False,"['CL0597_1_doc.pdf', 'CL0597_2_doc.pdf']"
+CL0598,C272,Property Damage,26617.33,2024-03-24,Rejected,27,76,False,"['CL0598_1_doc.pdf', 'CL0598_2_doc.pdf', 'CL0598_3_doc.pdf']"
+CL0599,C272,Personal Injury,39096.26,2023-06-13,Rejected,62,3,False,[]
+CL0600,C272,Personal Injury,18084.85,2024-05-17,Approved,37,18,False,['CL0600_1_doc.pdf']
+CL0601,C273,Family Law,34867.39,2023-11-13,Approved,25,100,False,['CL0601_1_doc.pdf']
+CL0602,C273,Family Law,10127.07,2023-08-13,Approved,45,48,False,"['CL0602_1_doc.pdf', 'CL0602_2_doc.pdf', 'CL0602_3_doc.pdf']"
+CL0603,C273,Personal Injury,42252.38,2024-01-30,Approved,81,86,False,"['CL0603_1_doc.pdf', 'CL0603_2_doc.pdf', 'CL0603_3_doc.pdf']"
+CL0604,C273,Personal Injury,18746.5,2024-01-29,Pending,84,5,True,"['CL0604_1_doc.pdf', 'CL0604_2_doc.pdf']"
+CL0605,C274,Employment Dispute,32865.76,2024-02-18,Pending,11,45,True,"['CL0605_1_doc.pdf', 'CL0605_2_doc.pdf', 'CL0605_3_doc.pdf']"
+CL0606,C274,Family Law,46795.0,2023-06-12,Pending,83,11,False,[]
+CL0607,C275,Medical Malpractice,46176.03,2023-07-22,Approved,92,93,False,[]
+CL0608,C275,Personal Injury,25493.59,2024-02-22,Pending,94,10,False,"['CL0608_1_doc.pdf', 'CL0608_2_doc.pdf', 'CL0608_3_doc.pdf']"
+CL0609,C275,Family Law,41351.74,2024-01-28,Approved,77,40,False,[]
+CL0610,C275,Employment Dispute,27928.44,2023-09-24,Pending,20,69,False,['CL0610_1_doc.pdf']
+CL0611,C276,Employment Dispute,34050.86,2024-01-19,Rejected,4,0,False,"['CL0611_1_doc.pdf', 'CL0611_2_doc.pdf', 'CL0611_3_doc.pdf']"
+CL0612,C276,Family Law,29877.69,2024-01-13,Rejected,27,43,True,"['CL0612_1_doc.pdf', 'CL0612_2_doc.pdf', 'CL0612_3_doc.pdf']"
+CL0613,C276,Commercial Dispute,18391.53,2024-03-23,Rejected,49,21,False,"['CL0613_1_doc.pdf', 'CL0613_2_doc.pdf', 'CL0613_3_doc.pdf']"
+CL0614,C278,Motor Vehicle Accident,1330.93,2023-08-16,Rejected,7,56,False,[]
+CL0615,C278,Medical Malpractice,34319.89,2024-05-01,Pending,69,95,False,[]
+CL0616,C278,Motor Vehicle Accident,19512.37,2024-02-03,Approved,41,19,False,"['CL0616_1_doc.pdf', 'CL0616_2_doc.pdf']"
+CL0617,C279,Commercial Dispute,23667.83,2023-12-25,Pending,91,48,False,"['CL0617_1_doc.pdf', 'CL0617_2_doc.pdf']"
+CL0618,C279,Debt Collection,23530.11,2024-05-16,Approved,40,28,False,[]
+CL0619,C279,Debt Collection,16954.48,2024-04-28,Rejected,83,65,False,"['CL0619_1_doc.pdf', 'CL0619_2_doc.pdf']"
+CL0620,C279,Commercial Dispute,45377.59,2024-05-16,Pending,12,60,False,[]
+CL0621,C280,Motor Vehicle Accident,2668.72,2023-10-25,Pending,85,23,True,"['CL0621_1_doc.pdf', 'CL0621_2_doc.pdf']"
+CL0622,C280,Medical Malpractice,29274.68,2024-01-30,Rejected,92,70,False,[]
+CL0623,C280,Motor Vehicle Accident,24172.65,2024-05-01,Rejected,22,69,False,"['CL0623_1_doc.pdf', 'CL0623_2_doc.pdf', 'CL0623_3_doc.pdf']"
+CL0624,C281,Family Law,43595.76,2023-10-08,Approved,23,76,False,"['CL0624_1_doc.pdf', 'CL0624_2_doc.pdf', 'CL0624_3_doc.pdf']"
+CL0625,C281,Debt Collection,33590.47,2024-01-22,Approved,43,56,False,"['CL0625_1_doc.pdf', 'CL0625_2_doc.pdf', 'CL0625_3_doc.pdf']"
+CL0626,C283,Motor Vehicle Accident,31883.72,2024-04-15,Approved,12,33,False,[]
+CL0627,C283,Motor Vehicle Accident,27906.62,2024-01-05,Pending,84,1,False,['CL0627_1_doc.pdf']
+CL0628,C284,Motor Vehicle Accident,19084.75,2023-06-02,Approved,93,23,False,[]
+CL0629,C284,Personal Injury,37501.86,2024-02-09,Rejected,42,52,False,"['CL0629_1_doc.pdf', 'CL0629_2_doc.pdf']"
+CL0630,C284,Employment Dispute,24771.68,2024-03-08,Approved,52,27,False,"['CL0630_1_doc.pdf', 'CL0630_2_doc.pdf', 'CL0630_3_doc.pdf']"
+CL0631,C285,Property Damage,22253.78,2024-03-21,Rejected,18,93,False,"['CL0631_1_doc.pdf', 'CL0631_2_doc.pdf', 'CL0631_3_doc.pdf']"
+CL0632,C285,Medical Malpractice,37057.12,2024-01-28,Pending,1,15,False,[]
+CL0633,C287,Property Damage,40325.22,2023-12-24,Pending,24,1,False,"['CL0633_1_doc.pdf', 'CL0633_2_doc.pdf']"
+CL0634,C287,Personal Injury,18162.94,2023-11-11,Pending,76,57,True,[]
+CL0635,C287,Personal Injury,28313.83,2023-12-12,Pending,52,22,False,['CL0635_1_doc.pdf']
+CL0636,C288,Property Damage,28540.98,2023-09-15,Rejected,32,83,False,[]
+CL0637,C288,Medical Malpractice,2685.27,2024-03-04,Rejected,19,46,False,"['CL0637_1_doc.pdf', 'CL0637_2_doc.pdf']"
+CL0638,C288,Personal Injury,3894.03,2024-04-14,Pending,18,29,False,[]
+CL0639,C289,Family Law,25760.95,2023-08-25,Pending,33,41,False,"['CL0639_1_doc.pdf', 'CL0639_2_doc.pdf', 'CL0639_3_doc.pdf']"
+CL0640,C289,Debt Collection,49031.55,2024-05-12,Approved,84,81,False,['CL0640_1_doc.pdf']
+CL0641,C289,Commercial Dispute,12056.41,2023-11-27,Rejected,45,76,False,"['CL0641_1_doc.pdf', 'CL0641_2_doc.pdf', 'CL0641_3_doc.pdf']"
+CL0642,C290,Motor Vehicle Accident,11712.33,2023-07-04,Pending,31,71,False,[]
+CL0643,C290,Employment Dispute,31177.5,2023-12-02,Pending,96,29,False,"['CL0643_1_doc.pdf', 'CL0643_2_doc.pdf', 'CL0643_3_doc.pdf']"
+CL0644,C290,Commercial Dispute,27565.01,2023-10-18,Approved,83,56,False,"['CL0644_1_doc.pdf', 'CL0644_2_doc.pdf', 'CL0644_3_doc.pdf']"
+CL0645,C291,Debt Collection,34264.46,2024-01-22,Approved,4,46,True,"['CL0645_1_doc.pdf', 'CL0645_2_doc.pdf']"
+CL0646,C292,Commercial Dispute,48083.95,2023-12-12,Pending,51,81,True,"['CL0646_1_doc.pdf', 'CL0646_2_doc.pdf']"
+CL0647,C292,Personal Injury,13652.92,2023-10-12,Pending,80,72,False,"['CL0647_1_doc.pdf', 'CL0647_2_doc.pdf', 'CL0647_3_doc.pdf']"
+CL0648,C294,Employment Dispute,33479.41,2023-11-13,Rejected,63,67,False,['CL0648_1_doc.pdf']
+CL0649,C294,Debt Collection,31976.56,2023-10-01,Rejected,11,79,False,['CL0649_1_doc.pdf']
+CL0650,C294,Family Law,46245.95,2023-11-06,Approved,87,82,False,"['CL0650_1_doc.pdf', 'CL0650_2_doc.pdf']"
+CL0651,C295,Medical Malpractice,8568.79,2023-08-31,Approved,22,0,False,[]
+CL0652,C295,Property Damage,28064.28,2023-07-20,Approved,6,36,False,"['CL0652_1_doc.pdf', 'CL0652_2_doc.pdf', 'CL0652_3_doc.pdf']"
+CL0653,C296,Employment Dispute,35499.61,2023-07-18,Pending,88,21,False,"['CL0653_1_doc.pdf', 'CL0653_2_doc.pdf', 'CL0653_3_doc.pdf']"
+CL0654,C297,Family Law,28244.69,2024-02-23,Pending,39,5,False,[]
+CL0655,C297,Debt Collection,47256.26,2023-10-05,Rejected,5,43,False,['CL0655_1_doc.pdf']
+CL0656,C298,Family Law,14681.26,2024-01-13,Pending,98,12,False,"['CL0656_1_doc.pdf', 'CL0656_2_doc.pdf']"
+CL0657,C298,Commercial Dispute,20236.06,2023-11-20,Rejected,60,86,False,"['CL0657_1_doc.pdf', 'CL0657_2_doc.pdf', 'CL0657_3_doc.pdf']"
+CL0658,C298,Medical Malpractice,26431.12,2023-10-28,Pending,29,56,False,"['CL0658_1_doc.pdf', 'CL0658_2_doc.pdf']"
+CL0659,C299,Employment Dispute,5697.96,2023-11-25,Approved,84,52,False,[]
+CL0660,C299,Debt Collection,13475.14,2023-08-19,Pending,63,43,False,"['CL0660_1_doc.pdf', 'CL0660_2_doc.pdf', 'CL0660_3_doc.pdf']"
+CL0661,C299,Personal Injury,9396.12,2023-08-18,Approved,75,24,False,"['CL0661_1_doc.pdf', 'CL0661_2_doc.pdf', 'CL0661_3_doc.pdf']"
+CL0662,C299,Personal Injury,7345.79,2024-02-02,Rejected,39,50,False,"['CL0662_1_doc.pdf', 'CL0662_2_doc.pdf']"
+CL0663,C301,Employment Dispute,42533.34,2023-11-09,Approved,78,56,False,[]
+CL0664,C301,Property Damage,14635.57,2023-12-22,Pending,71,7,False,"['CL0664_1_doc.pdf', 'CL0664_2_doc.pdf']"
+CL0665,C301,Medical Malpractice,15143.79,2023-08-09,Rejected,30,48,False,[]
+CL0666,C302,Medical Malpractice,41792.57,2023-08-31,Pending,79,58,False,"['CL0666_1_doc.pdf', 'CL0666_2_doc.pdf', 'CL0666_3_doc.pdf']"
+CL0667,C302,Commercial Dispute,31023.91,2024-04-19,Pending,79,15,False,['CL0667_1_doc.pdf']
+CL0668,C302,Property Damage,32105.1,2024-02-28,Pending,23,35,False,['CL0668_1_doc.pdf']
+CL0669,C302,Property Damage,44628.91,2024-05-17,Pending,62,82,True,"['CL0669_1_doc.pdf', 'CL0669_2_doc.pdf']"
+CL0670,C303,Motor Vehicle Accident,28476.4,2023-10-14,Rejected,29,68,False,[]
+CL0671,C303,Medical Malpractice,6478.34,2023-12-08,Pending,21,3,False,"['CL0671_1_doc.pdf', 'CL0671_2_doc.pdf', 'CL0671_3_doc.pdf']"
+CL0672,C303,Employment Dispute,42941.13,2024-05-28,Rejected,27,15,True,[]
+CL0673,C303,Property Damage,17323.13,2023-06-13,Pending,68,37,False,"['CL0673_1_doc.pdf', 'CL0673_2_doc.pdf']"
+CL0674,C304,Family Law,15406.16,2024-04-07,Rejected,14,60,False,"['CL0674_1_doc.pdf', 'CL0674_2_doc.pdf']"
+CL0675,C304,Family Law,6452.08,2024-01-13,Rejected,5,92,False,[]
+CL0676,C304,Motor Vehicle Accident,3867.73,2023-11-22,Pending,83,84,False,"['CL0676_1_doc.pdf', 'CL0676_2_doc.pdf']"
+CL0677,C305,Family Law,26998.45,2023-08-16,Approved,15,62,False,['CL0677_1_doc.pdf']
+CL0678,C306,Employment Dispute,25377.03,2024-04-02,Pending,97,5,False,[]
+CL0679,C306,Property Damage,46754.66,2024-03-26,Approved,27,49,False,[]
+CL0680,C306,Commercial Dispute,48746.29,2023-06-05,Pending,35,63,False,['CL0680_1_doc.pdf']
+CL0681,C306,Property Damage,1165.44,2023-11-04,Approved,14,99,False,"['CL0681_1_doc.pdf', 'CL0681_2_doc.pdf', 'CL0681_3_doc.pdf']"
+CL0682,C307,Personal Injury,27251.94,2023-06-03,Rejected,66,89,False,[]
+CL0683,C307,Motor Vehicle Accident,4566.49,2024-04-06,Pending,0,46,False,[]
+CL0684,C307,Personal Injury,42532.46,2024-03-28,Rejected,1,54,False,['CL0684_1_doc.pdf']
+CL0685,C308,Personal Injury,16102.27,2023-09-03,Rejected,61,78,True,[]
+CL0686,C308,Medical Malpractice,41445.04,2023-09-03,Approved,86,96,False,"['CL0686_1_doc.pdf', 'CL0686_2_doc.pdf']"
+CL0687,C309,Family Law,13182.32,2024-04-22,Approved,68,80,False,"['CL0687_1_doc.pdf', 'CL0687_2_doc.pdf']"
+CL0688,C310,Personal Injury,23934.01,2023-06-10,Approved,71,37,False,"['CL0688_1_doc.pdf', 'CL0688_2_doc.pdf', 'CL0688_3_doc.pdf']"
+CL0689,C310,Motor Vehicle Accident,31855.22,2024-02-14,Approved,36,42,False,"['CL0689_1_doc.pdf', 'CL0689_2_doc.pdf']"
+CL0690,C310,Medical Malpractice,22092.95,2024-05-28,Approved,74,80,False,['CL0690_1_doc.pdf']
+CL0691,C311,Commercial Dispute,29094.07,2023-07-24,Approved,45,4,True,[]
+CL0692,C311,Debt Collection,11468.82,2023-10-18,Pending,8,60,False,['CL0692_1_doc.pdf']
+CL0693,C311,Commercial Dispute,21150.92,2023-06-29,Approved,36,91,False,"['CL0693_1_doc.pdf', 'CL0693_2_doc.pdf', 'CL0693_3_doc.pdf']"
+CL0694,C312,Motor Vehicle Accident,34858.64,2023-06-07,Rejected,27,16,False,"['CL0694_1_doc.pdf', 'CL0694_2_doc.pdf', 'CL0694_3_doc.pdf']"
+CL0695,C312,Medical Malpractice,11897.33,2023-07-05,Approved,45,35,False,['CL0695_1_doc.pdf']
+CL0696,C312,Debt Collection,10479.21,2024-01-19,Rejected,74,32,False,"['CL0696_1_doc.pdf', 'CL0696_2_doc.pdf']"
+CL0697,C313,Commercial Dispute,10661.22,2024-04-21,Pending,79,82,False,['CL0697_1_doc.pdf']
+CL0698,C315,Medical Malpractice,420.8,2024-05-05,Rejected,70,61,False,"['CL0698_1_doc.pdf', 'CL0698_2_doc.pdf']"
+CL0699,C316,Commercial Dispute,11862.73,2023-07-05,Pending,6,6,False,['CL0699_1_doc.pdf']
+CL0700,C316,Medical Malpractice,2796.07,2024-04-23,Pending,18,28,False,[]
+CL0701,C316,Motor Vehicle Accident,8446.97,2023-08-06,Approved,46,83,False,['CL0701_1_doc.pdf']
+CL0702,C316,Commercial Dispute,41710.32,2023-11-20,Approved,50,96,False,['CL0702_1_doc.pdf']
+CL0703,C318,Property Damage,39396.95,2023-07-05,Rejected,8,18,True,[]
+CL0704,C318,Property Damage,29791.86,2023-08-19,Rejected,66,59,False,"['CL0704_1_doc.pdf', 'CL0704_2_doc.pdf', 'CL0704_3_doc.pdf']"
+CL0705,C318,Family Law,35001.83,2023-07-06,Rejected,9,61,False,"['CL0705_1_doc.pdf', 'CL0705_2_doc.pdf', 'CL0705_3_doc.pdf']"
+CL0706,C318,Commercial Dispute,13827.98,2023-08-03,Rejected,63,1,False,"['CL0706_1_doc.pdf', 'CL0706_2_doc.pdf', 'CL0706_3_doc.pdf']"
+CL0707,C319,Personal Injury,1097.44,2024-04-23,Approved,4,55,False,"['CL0707_1_doc.pdf', 'CL0707_2_doc.pdf']"
+CL0708,C319,Commercial Dispute,16329.52,2024-05-29,Rejected,56,88,False,[]
+CL0709,C320,Medical Malpractice,39845.18,2024-04-15,Rejected,27,13,False,[]
+CL0710,C320,Employment Dispute,49683.72,2023-07-10,Approved,95,76,False,['CL0710_1_doc.pdf']
+CL0711,C320,Debt Collection,24975.08,2023-10-11,Rejected,31,0,False,"['CL0711_1_doc.pdf', 'CL0711_2_doc.pdf', 'CL0711_3_doc.pdf']"
+CL0712,C321,Employment Dispute,48905.83,2023-07-26,Approved,100,13,False,"['CL0712_1_doc.pdf', 'CL0712_2_doc.pdf', 'CL0712_3_doc.pdf']"
+CL0713,C321,Family Law,9999.68,2024-01-28,Rejected,83,10,False,[]
+CL0714,C322,Medical Malpractice,22326.83,2023-08-09,Rejected,44,51,True,"['CL0714_1_doc.pdf', 'CL0714_2_doc.pdf', 'CL0714_3_doc.pdf']"
+CL0715,C322,Employment Dispute,43097.17,2023-09-28,Pending,24,9,False,"['CL0715_1_doc.pdf', 'CL0715_2_doc.pdf']"
+CL0716,C322,Motor Vehicle Accident,33256.8,2024-02-12,Pending,96,38,False,"['CL0716_1_doc.pdf', 'CL0716_2_doc.pdf']"
+CL0717,C324,Property Damage,45039.62,2023-09-30,Rejected,100,38,False,[]
+CL0718,C325,Employment Dispute,8128.7,2024-01-21,Approved,13,15,False,[]
+CL0719,C326,Motor Vehicle Accident,25056.65,2024-05-08,Approved,84,71,False,"['CL0719_1_doc.pdf', 'CL0719_2_doc.pdf']"
+CL0720,C326,Property Damage,27455.93,2023-10-20,Approved,93,16,False,"['CL0720_1_doc.pdf', 'CL0720_2_doc.pdf']"
+CL0721,C327,Commercial Dispute,41851.82,2023-08-08,Approved,5,3,False,"['CL0721_1_doc.pdf', 'CL0721_2_doc.pdf']"
+CL0722,C327,Employment Dispute,10436.0,2024-02-13,Pending,72,38,False,"['CL0722_1_doc.pdf', 'CL0722_2_doc.pdf']"
+CL0723,C328,Medical Malpractice,31124.45,2023-08-02,Approved,39,92,False,"['CL0723_1_doc.pdf', 'CL0723_2_doc.pdf', 'CL0723_3_doc.pdf']"
+CL0724,C328,Commercial Dispute,6893.35,2024-04-26,Approved,19,43,False,[]
+CL0725,C329,Property Damage,35955.03,2024-03-04,Rejected,84,5,False,"['CL0725_1_doc.pdf', 'CL0725_2_doc.pdf', 'CL0725_3_doc.pdf']"
+CL0726,C329,Personal Injury,34216.86,2024-03-24,Pending,36,49,False,['CL0726_1_doc.pdf']
+CL0727,C329,Medical Malpractice,42099.35,2024-03-02,Rejected,45,74,False,[]
+CL0728,C329,Motor Vehicle Accident,31735.94,2024-02-17,Pending,38,1,False,"['CL0728_1_doc.pdf', 'CL0728_2_doc.pdf']"
+CL0729,C330,Family Law,27870.33,2024-03-01,Pending,37,78,False,"['CL0729_1_doc.pdf', 'CL0729_2_doc.pdf']"
+CL0730,C330,Motor Vehicle Accident,15101.54,2024-03-14,Approved,51,36,False,"['CL0730_1_doc.pdf', 'CL0730_2_doc.pdf', 'CL0730_3_doc.pdf']"
+CL0731,C330,Property Damage,26727.1,2023-12-13,Rejected,92,97,False,['CL0731_1_doc.pdf']
+CL0732,C330,Commercial Dispute,31539.3,2023-07-27,Pending,71,83,False,"['CL0732_1_doc.pdf', 'CL0732_2_doc.pdf']"
+CL0733,C332,Debt Collection,31664.5,2024-03-18,Pending,97,55,False,['CL0733_1_doc.pdf']
+CL0734,C332,Employment Dispute,487.18,2023-11-05,Pending,55,26,False,"['CL0734_1_doc.pdf', 'CL0734_2_doc.pdf']"
+CL0735,C332,Debt Collection,36486.58,2024-01-06,Pending,44,80,False,[]
+CL0736,C333,Motor Vehicle Accident,3984.74,2024-03-02,Approved,11,18,False,[]
+CL0737,C334,Motor Vehicle Accident,21573.69,2023-08-03,Pending,12,6,False,"['CL0737_1_doc.pdf', 'CL0737_2_doc.pdf']"
+CL0738,C334,Employment Dispute,1834.28,2024-03-10,Pending,35,76,False,['CL0738_1_doc.pdf']
+CL0739,C335,Medical Malpractice,25808.47,2023-09-04,Approved,30,14,False,"['CL0739_1_doc.pdf', 'CL0739_2_doc.pdf', 'CL0739_3_doc.pdf']"
+CL0740,C335,Motor Vehicle Accident,26245.1,2024-02-01,Approved,37,1,False,"['CL0740_1_doc.pdf', 'CL0740_2_doc.pdf', 'CL0740_3_doc.pdf']"
+CL0741,C335,Commercial Dispute,8720.96,2024-05-27,Pending,2,59,False,"['CL0741_1_doc.pdf', 'CL0741_2_doc.pdf', 'CL0741_3_doc.pdf']"
+CL0742,C336,Employment Dispute,28494.03,2024-01-23,Approved,40,69,False,"['CL0742_1_doc.pdf', 'CL0742_2_doc.pdf']"
+CL0743,C336,Commercial Dispute,7921.65,2023-08-13,Pending,89,7,False,"['CL0743_1_doc.pdf', 'CL0743_2_doc.pdf']"
+CL0744,C336,Commercial Dispute,5041.71,2023-10-13,Approved,78,14,False,"['CL0744_1_doc.pdf', 'CL0744_2_doc.pdf', 'CL0744_3_doc.pdf']"
+CL0745,C337,Property Damage,19719.85,2023-11-18,Pending,57,53,False,"['CL0745_1_doc.pdf', 'CL0745_2_doc.pdf']"
+CL0746,C338,Motor Vehicle Accident,31461.62,2023-10-14,Pending,85,60,False,[]
+CL0747,C338,Property Damage,47419.74,2024-04-12,Approved,52,73,False,['CL0747_1_doc.pdf']
+CL0748,C338,Employment Dispute,18295.27,2023-12-22,Approved,55,73,False,['CL0748_1_doc.pdf']
+CL0749,C339,Family Law,2754.44,2023-12-01,Approved,20,51,False,['CL0749_1_doc.pdf']
+CL0750,C339,Debt Collection,39646.34,2023-12-19,Rejected,37,24,False,[]
+CL0751,C339,Debt Collection,19851.03,2024-03-15,Rejected,58,36,False,['CL0751_1_doc.pdf']
+CL0752,C340,Motor Vehicle Accident,8486.28,2024-04-09,Pending,39,2,False,"['CL0752_1_doc.pdf', 'CL0752_2_doc.pdf']"
+CL0753,C340,Personal Injury,32244.35,2023-07-27,Pending,55,89,False,"['CL0753_1_doc.pdf', 'CL0753_2_doc.pdf', 'CL0753_3_doc.pdf']"
+CL0754,C340,Family Law,17223.06,2023-09-11,Approved,95,69,False,"['CL0754_1_doc.pdf', 'CL0754_2_doc.pdf']"
+CL0755,C341,Commercial Dispute,43175.92,2023-08-07,Pending,41,93,True,"['CL0755_1_doc.pdf', 'CL0755_2_doc.pdf']"
+CL0756,C341,Commercial Dispute,3768.51,2023-09-20,Approved,17,20,False,"['CL0756_1_doc.pdf', 'CL0756_2_doc.pdf']"
+CL0757,C341,Family Law,8066.29,2023-06-10,Rejected,12,76,False,['CL0757_1_doc.pdf']
+CL0758,C341,Motor Vehicle Accident,49938.9,2024-03-14,Pending,9,22,False,[]
+CL0759,C342,Property Damage,40707.03,2024-05-07,Pending,80,100,True,"['CL0759_1_doc.pdf', 'CL0759_2_doc.pdf', 'CL0759_3_doc.pdf']"
+CL0760,C342,Family Law,49466.74,2024-05-19,Approved,75,46,False,"['CL0760_1_doc.pdf', 'CL0760_2_doc.pdf', 'CL0760_3_doc.pdf']"
+CL0761,C342,Commercial Dispute,35963.49,2023-10-01,Approved,76,41,False,[]
+CL0762,C342,Commercial Dispute,21829.31,2023-06-12,Approved,19,21,False,[]
+CL0763,C343,Debt Collection,22254.81,2023-07-14,Rejected,65,53,False,"['CL0763_1_doc.pdf', 'CL0763_2_doc.pdf', 'CL0763_3_doc.pdf']"
+CL0764,C343,Commercial Dispute,32108.98,2023-09-19,Pending,1,68,False,"['CL0764_1_doc.pdf', 'CL0764_2_doc.pdf', 'CL0764_3_doc.pdf']"
+CL0765,C343,Medical Malpractice,48315.96,2024-04-07,Rejected,3,40,False,[]
+CL0766,C345,Personal Injury,44870.93,2023-09-16,Pending,71,12,False,"['CL0766_1_doc.pdf', 'CL0766_2_doc.pdf']"
+CL0767,C346,Medical Malpractice,48730.04,2023-12-23,Approved,42,40,False,[]
+CL0768,C346,Property Damage,4173.99,2023-10-29,Rejected,40,19,False,[]
+CL0769,C346,Employment Dispute,27178.49,2024-04-28,Rejected,2,82,False,['CL0769_1_doc.pdf']
+CL0770,C346,Motor Vehicle Accident,44355.52,2024-02-10,Rejected,39,5,False,"['CL0770_1_doc.pdf', 'CL0770_2_doc.pdf', 'CL0770_3_doc.pdf']"
+CL0771,C347,Family Law,22286.68,2024-04-09,Rejected,93,19,False,"['CL0771_1_doc.pdf', 'CL0771_2_doc.pdf', 'CL0771_3_doc.pdf']"
+CL0772,C347,Medical Malpractice,39193.2,2024-02-11,Rejected,33,86,True,['CL0772_1_doc.pdf']
+CL0773,C347,Property Damage,34660.14,2023-06-27,Pending,96,17,False,[]
+CL0774,C348,Medical Malpractice,25875.52,2024-04-05,Approved,8,87,False,[]
+CL0775,C348,Employment Dispute,733.48,2024-01-21,Pending,43,87,False,"['CL0775_1_doc.pdf', 'CL0775_2_doc.pdf']"
+CL0776,C349,Family Law,18104.86,2024-04-17,Approved,47,7,False,['CL0776_1_doc.pdf']
+CL0777,C350,Commercial Dispute,44677.86,2023-10-13,Pending,55,25,False,"['CL0777_1_doc.pdf', 'CL0777_2_doc.pdf']"
+CL0778,C350,Employment Dispute,30530.73,2023-12-13,Approved,35,88,False,['CL0778_1_doc.pdf']
+CL0779,C350,Employment Dispute,36729.95,2024-02-08,Approved,35,63,False,['CL0779_1_doc.pdf']
+CL0780,C351,Employment Dispute,36145.77,2024-01-15,Pending,67,82,True,[]
+CL0781,C351,Debt Collection,15781.7,2023-10-19,Approved,49,46,False,"['CL0781_1_doc.pdf', 'CL0781_2_doc.pdf', 'CL0781_3_doc.pdf']"
+CL0782,C351,Personal Injury,25316.44,2023-07-20,Rejected,20,41,False,[]
+CL0783,C352,Debt Collection,40500.94,2023-09-11,Rejected,63,95,False,"['CL0783_1_doc.pdf', 'CL0783_2_doc.pdf', 'CL0783_3_doc.pdf']"
+CL0784,C352,Commercial Dispute,18463.95,2023-10-21,Approved,84,51,False,"['CL0784_1_doc.pdf', 'CL0784_2_doc.pdf', 'CL0784_3_doc.pdf']"
+CL0785,C353,Personal Injury,19873.16,2024-04-26,Approved,89,94,False,[]
+CL0786,C353,Family Law,40644.68,2024-02-01,Rejected,70,5,False,"['CL0786_1_doc.pdf', 'CL0786_2_doc.pdf']"
+CL0787,C353,Medical Malpractice,48354.56,2023-06-15,Pending,52,53,False,[]
+CL0788,C354,Family Law,19040.2,2023-10-22,Approved,26,84,False,[]
+CL0789,C354,Medical Malpractice,20342.74,2023-11-13,Approved,42,9,False,"['CL0789_1_doc.pdf', 'CL0789_2_doc.pdf']"
+CL0790,C355,Motor Vehicle Accident,47867.2,2023-06-26,Pending,76,81,False,[]
+CL0791,C355,Medical Malpractice,25235.28,2024-05-29,Pending,92,66,False,['CL0791_1_doc.pdf']
+CL0792,C355,Commercial Dispute,10407.13,2023-07-13,Rejected,66,83,False,"['CL0792_1_doc.pdf', 'CL0792_2_doc.pdf', 'CL0792_3_doc.pdf']"
+CL0793,C356,Debt Collection,6519.6,2023-08-15,Rejected,21,6,False,['CL0793_1_doc.pdf']
+CL0794,C356,Personal Injury,26675.9,2023-09-14,Approved,7,29,False,"['CL0794_1_doc.pdf', 'CL0794_2_doc.pdf', 'CL0794_3_doc.pdf']"
+CL0795,C356,Debt Collection,4608.51,2024-01-14,Rejected,12,26,False,[]
+CL0796,C356,Medical Malpractice,13737.15,2023-07-08,Approved,65,78,False,[]
+CL0797,C357,Motor Vehicle Accident,39957.79,2023-12-23,Rejected,99,76,False,['CL0797_1_doc.pdf']
+CL0798,C357,Personal Injury,39282.2,2024-05-04,Approved,90,60,False,"['CL0798_1_doc.pdf', 'CL0798_2_doc.pdf']"
+CL0799,C358,Property Damage,27099.47,2023-07-29,Approved,30,69,False,"['CL0799_1_doc.pdf', 'CL0799_2_doc.pdf']"
+CL0800,C359,Medical Malpractice,10672.74,2023-08-12,Approved,61,16,False,"['CL0800_1_doc.pdf', 'CL0800_2_doc.pdf', 'CL0800_3_doc.pdf']"
+CL0801,C359,Commercial Dispute,21681.71,2024-02-25,Pending,40,8,False,[]
+CL0802,C359,Medical Malpractice,8760.53,2023-07-11,Rejected,76,90,False,"['CL0802_1_doc.pdf', 'CL0802_2_doc.pdf', 'CL0802_3_doc.pdf']"
+CL0803,C361,Employment Dispute,41685.3,2024-02-26,Rejected,62,41,False,"['CL0803_1_doc.pdf', 'CL0803_2_doc.pdf', 'CL0803_3_doc.pdf']"
+CL0804,C362,Employment Dispute,39856.65,2023-07-04,Pending,22,3,False,"['CL0804_1_doc.pdf', 'CL0804_2_doc.pdf']"
+CL0805,C362,Family Law,49715.42,2023-09-28,Approved,75,97,False,"['CL0805_1_doc.pdf', 'CL0805_2_doc.pdf', 'CL0805_3_doc.pdf']"
+CL0806,C363,Commercial Dispute,49406.71,2023-10-08,Pending,4,30,False,[]
+CL0807,C363,Debt Collection,16010.0,2023-06-09,Rejected,71,57,False,"['CL0807_1_doc.pdf', 'CL0807_2_doc.pdf', 'CL0807_3_doc.pdf']"
+CL0808,C363,Family Law,32079.34,2024-05-17,Pending,25,30,False,"['CL0808_1_doc.pdf', 'CL0808_2_doc.pdf']"
+CL0809,C366,Property Damage,41636.98,2023-07-16,Approved,3,11,False,['CL0809_1_doc.pdf']
+CL0810,C367,Commercial Dispute,19575.4,2023-12-20,Pending,1,89,False,"['CL0810_1_doc.pdf', 'CL0810_2_doc.pdf', 'CL0810_3_doc.pdf']"
+CL0811,C368,Commercial Dispute,29872.28,2023-11-10,Rejected,44,46,True,[]
+CL0812,C368,Debt Collection,11492.81,2023-07-07,Pending,26,62,False,['CL0812_1_doc.pdf']
+CL0813,C368,Employment Dispute,5903.94,2024-01-25,Approved,71,65,False,"['CL0813_1_doc.pdf', 'CL0813_2_doc.pdf', 'CL0813_3_doc.pdf']"
+CL0814,C368,Personal Injury,11774.3,2024-02-24,Pending,11,11,False,"['CL0814_1_doc.pdf', 'CL0814_2_doc.pdf']"
+CL0815,C369,Family Law,9188.74,2023-07-17,Rejected,53,52,False,"['CL0815_1_doc.pdf', 'CL0815_2_doc.pdf']"
+CL0816,C369,Commercial Dispute,15274.7,2023-09-15,Pending,19,53,False,['CL0816_1_doc.pdf']
+CL0817,C369,Employment Dispute,27873.35,2023-10-03,Rejected,50,9,False,"['CL0817_1_doc.pdf', 'CL0817_2_doc.pdf', 'CL0817_3_doc.pdf']"
+CL0818,C369,Employment Dispute,21661.61,2024-05-14,Approved,82,58,True,['CL0818_1_doc.pdf']
+CL0819,C371,Motor Vehicle Accident,23770.68,2024-03-04,Pending,0,58,False,['CL0819_1_doc.pdf']
+CL0820,C372,Commercial Dispute,26064.64,2024-01-21,Approved,26,65,False,[]
+CL0821,C372,Commercial Dispute,42479.65,2023-09-08,Approved,41,67,False,[]
+CL0822,C372,Employment Dispute,3286.51,2023-06-30,Rejected,98,50,False,['CL0822_1_doc.pdf']
+CL0823,C374,Family Law,21681.48,2024-02-02,Pending,30,7,False,[]
+CL0824,C374,Medical Malpractice,2553.59,2024-03-07,Pending,75,74,False,['CL0824_1_doc.pdf']
+CL0825,C374,Employment Dispute,16221.13,2023-12-22,Rejected,19,32,False,['CL0825_1_doc.pdf']
+CL0826,C374,Property Damage,30997.21,2024-03-31,Pending,35,67,False,"['CL0826_1_doc.pdf', 'CL0826_2_doc.pdf', 'CL0826_3_doc.pdf']"
+CL0827,C375,Medical Malpractice,4378.25,2023-07-02,Rejected,39,68,False,[]
+CL0828,C375,Debt Collection,16580.78,2024-03-26,Rejected,47,83,False,[]
+CL0829,C376,Family Law,4416.02,2024-01-01,Pending,61,18,False,[]
+CL0830,C376,Property Damage,47670.37,2023-08-16,Rejected,40,66,False,[]
+CL0831,C377,Debt Collection,12604.32,2023-07-27,Approved,80,89,False,['CL0831_1_doc.pdf']
+CL0832,C377,Personal Injury,7684.28,2023-11-03,Rejected,1,42,False,"['CL0832_1_doc.pdf', 'CL0832_2_doc.pdf']"
+CL0833,C378,Family Law,13272.71,2023-10-07,Approved,23,42,False,[]
+CL0834,C378,Medical Malpractice,16131.38,2023-08-20,Approved,14,83,False,['CL0834_1_doc.pdf']
+CL0835,C378,Employment Dispute,10721.47,2023-12-22,Rejected,38,26,False,[]
+CL0836,C379,Motor Vehicle Accident,25103.87,2024-01-24,Pending,5,80,False,['CL0836_1_doc.pdf']
+CL0837,C379,Motor Vehicle Accident,8555.46,2023-08-04,Rejected,97,17,False,[]
+CL0838,C380,Employment Dispute,16934.59,2023-08-29,Rejected,2,70,False,[]
+CL0839,C381,Commercial Dispute,42143.94,2024-01-01,Pending,16,37,False,"['CL0839_1_doc.pdf', 'CL0839_2_doc.pdf']"
+CL0840,C381,Family Law,16264.28,2024-04-06,Approved,8,95,False,"['CL0840_1_doc.pdf', 'CL0840_2_doc.pdf', 'CL0840_3_doc.pdf']"
+CL0841,C381,Motor Vehicle Accident,46666.94,2024-03-28,Approved,49,47,False,[]
+CL0842,C382,Motor Vehicle Accident,47858.09,2023-09-17,Rejected,49,48,False,[]
+CL0843,C382,Motor Vehicle Accident,3543.73,2023-06-08,Pending,80,75,False,"['CL0843_1_doc.pdf', 'CL0843_2_doc.pdf']"
+CL0844,C382,Motor Vehicle Accident,7412.59,2024-02-23,Pending,80,18,False,[]
+CL0845,C382,Personal Injury,37248.46,2023-09-04,Pending,45,22,False,"['CL0845_1_doc.pdf', 'CL0845_2_doc.pdf']"
+CL0846,C383,Medical Malpractice,15655.81,2023-09-19,Rejected,49,41,False,['CL0846_1_doc.pdf']
+CL0847,C384,Personal Injury,23277.82,2024-03-24,Pending,14,59,True,"['CL0847_1_doc.pdf', 'CL0847_2_doc.pdf']"
+CL0848,C384,Employment Dispute,41444.17,2023-06-02,Approved,54,93,False,['CL0848_1_doc.pdf']
+CL0849,C384,Family Law,5623.48,2023-10-12,Approved,89,3,False,"['CL0849_1_doc.pdf', 'CL0849_2_doc.pdf', 'CL0849_3_doc.pdf']"
+CL0850,C385,Motor Vehicle Accident,29148.72,2023-09-18,Approved,57,18,False,"['CL0850_1_doc.pdf', 'CL0850_2_doc.pdf']"
+CL0851,C387,Property Damage,41252.06,2023-06-06,Rejected,44,60,False,[]
+CL0852,C387,Commercial Dispute,26225.89,2023-12-18,Approved,5,55,False,"['CL0852_1_doc.pdf', 'CL0852_2_doc.pdf']"
+CL0853,C387,Personal Injury,33484.09,2024-04-06,Pending,10,34,False,"['CL0853_1_doc.pdf', 'CL0853_2_doc.pdf', 'CL0853_3_doc.pdf']"
+CL0854,C389,Property Damage,3565.54,2024-03-12,Pending,38,13,False,"['CL0854_1_doc.pdf', 'CL0854_2_doc.pdf']"
+CL0855,C389,Medical Malpractice,43381.05,2023-08-07,Pending,37,52,False,['CL0855_1_doc.pdf']
+CL0856,C389,Debt Collection,31707.56,2023-09-16,Rejected,80,57,False,['CL0856_1_doc.pdf']
+CL0857,C390,Personal Injury,30640.55,2024-03-03,Rejected,61,13,False,"['CL0857_1_doc.pdf', 'CL0857_2_doc.pdf']"
+CL0858,C391,Property Damage,32591.4,2024-03-19,Approved,84,82,False,"['CL0858_1_doc.pdf', 'CL0858_2_doc.pdf']"
+CL0859,C393,Personal Injury,6976.95,2023-10-15,Approved,23,90,False,"['CL0859_1_doc.pdf', 'CL0859_2_doc.pdf']"
+CL0860,C393,Motor Vehicle Accident,25779.6,2024-04-09,Pending,39,49,False,['CL0860_1_doc.pdf']
+CL0861,C393,Family Law,17526.09,2024-03-10,Rejected,20,40,False,"['CL0861_1_doc.pdf', 'CL0861_2_doc.pdf', 'CL0861_3_doc.pdf']"
+CL0862,C393,Property Damage,10238.02,2023-07-13,Pending,31,99,False,[]
+CL0863,C394,Debt Collection,25846.41,2023-10-06,Pending,11,40,False,"['CL0863_1_doc.pdf', 'CL0863_2_doc.pdf']"
+CL0864,C394,Employment Dispute,8372.17,2023-07-29,Rejected,3,71,False,[]
+CL0865,C395,Commercial Dispute,33184.26,2024-01-02,Rejected,50,33,False,['CL0865_1_doc.pdf']
+CL0866,C395,Employment Dispute,34736.26,2024-01-24,Pending,76,62,False,[]
+CL0867,C395,Family Law,37421.38,2023-10-27,Rejected,79,93,False,"['CL0867_1_doc.pdf', 'CL0867_2_doc.pdf']"
+CL0868,C395,Motor Vehicle Accident,9828.19,2024-05-07,Approved,42,69,False,"['CL0868_1_doc.pdf', 'CL0868_2_doc.pdf', 'CL0868_3_doc.pdf']"
+CL0869,C396,Personal Injury,35690.64,2023-12-26,Approved,7,70,True,"['CL0869_1_doc.pdf', 'CL0869_2_doc.pdf', 'CL0869_3_doc.pdf']"
+CL0870,C397,Property Damage,27699.67,2023-09-16,Rejected,14,95,False,[]
+CL0871,C398,Property Damage,7426.13,2024-01-27,Approved,22,80,False,"['CL0871_1_doc.pdf', 'CL0871_2_doc.pdf', 'CL0871_3_doc.pdf']"
+CL0872,C400,Motor Vehicle Accident,9192.94,2023-10-03,Approved,95,72,False,"['CL0872_1_doc.pdf', 'CL0872_2_doc.pdf', 'CL0872_3_doc.pdf']"
+CL0873,C401,Debt Collection,25394.7,2023-07-22,Approved,5,62,False,['CL0873_1_doc.pdf']
+CL0874,C401,Motor Vehicle Accident,34956.23,2023-08-07,Pending,15,80,False,[]
+CL0875,C401,Property Damage,21491.18,2023-07-16,Pending,67,87,True,[]
+CL0876,C402,Employment Dispute,17649.35,2024-02-01,Rejected,22,49,False,"['CL0876_1_doc.pdf', 'CL0876_2_doc.pdf', 'CL0876_3_doc.pdf']"
+CL0877,C402,Motor Vehicle Accident,898.59,2023-07-04,Rejected,75,95,False,"['CL0877_1_doc.pdf', 'CL0877_2_doc.pdf']"
+CL0878,C402,Motor Vehicle Accident,25725.63,2023-06-30,Approved,24,26,False,[]
+CL0879,C402,Family Law,8888.32,2023-10-30,Rejected,16,46,False,"['CL0879_1_doc.pdf', 'CL0879_2_doc.pdf']"
+CL0880,C403,Property Damage,1411.69,2023-10-08,Approved,42,92,False,[]
+CL0881,C403,Property Damage,19216.92,2023-06-30,Rejected,100,12,False,"['CL0881_1_doc.pdf', 'CL0881_2_doc.pdf']"
+CL0882,C403,Family Law,36256.85,2023-12-21,Rejected,20,29,False,[]
+CL0883,C404,Medical Malpractice,20094.33,2023-08-03,Approved,37,41,False,['CL0883_1_doc.pdf']
+CL0884,C404,Employment Dispute,22300.68,2024-05-01,Approved,0,54,False,['CL0884_1_doc.pdf']
+CL0885,C404,Property Damage,43976.94,2024-02-25,Approved,91,68,False,"['CL0885_1_doc.pdf', 'CL0885_2_doc.pdf']"
+CL0886,C405,Family Law,4337.29,2023-07-14,Rejected,95,47,False,"['CL0886_1_doc.pdf', 'CL0886_2_doc.pdf', 'CL0886_3_doc.pdf']"
+CL0887,C406,Medical Malpractice,40221.91,2023-11-23,Pending,58,43,False,"['CL0887_1_doc.pdf', 'CL0887_2_doc.pdf', 'CL0887_3_doc.pdf']"
+CL0888,C406,Family Law,45771.3,2023-10-04,Pending,72,25,False,"['CL0888_1_doc.pdf', 'CL0888_2_doc.pdf', 'CL0888_3_doc.pdf']"
+CL0889,C406,Commercial Dispute,12021.88,2023-10-17,Pending,52,13,False,[]
+CL0890,C406,Family Law,29938.35,2023-10-07,Approved,79,82,False,"['CL0890_1_doc.pdf', 'CL0890_2_doc.pdf']"
+CL0891,C407,Family Law,8215.14,2024-05-19,Rejected,8,4,False,[]
+CL0892,C407,Personal Injury,24133.91,2023-06-22,Pending,62,35,False,[]
+CL0893,C409,Personal Injury,8171.91,2024-04-07,Approved,50,88,False,"['CL0893_1_doc.pdf', 'CL0893_2_doc.pdf']"
+CL0894,C409,Medical Malpractice,17825.81,2024-04-25,Rejected,26,25,False,"['CL0894_1_doc.pdf', 'CL0894_2_doc.pdf']"
+CL0895,C409,Motor Vehicle Accident,35051.55,2023-07-12,Rejected,36,61,False,"['CL0895_1_doc.pdf', 'CL0895_2_doc.pdf']"
+CL0896,C409,Property Damage,48272.65,2024-02-15,Approved,76,86,False,"['CL0896_1_doc.pdf', 'CL0896_2_doc.pdf', 'CL0896_3_doc.pdf']"
+CL0897,C411,Property Damage,7940.04,2023-12-20,Rejected,59,72,False,[]
+CL0898,C411,Motor Vehicle Accident,22492.49,2023-06-28,Approved,42,26,False,"['CL0898_1_doc.pdf', 'CL0898_2_doc.pdf']"
+CL0899,C411,Property Damage,22170.32,2023-10-12,Approved,54,74,False,"['CL0899_1_doc.pdf', 'CL0899_2_doc.pdf', 'CL0899_3_doc.pdf']"
+CL0900,C413,Property Damage,6108.47,2023-09-02,Pending,29,79,False,[]
+CL0901,C414,Debt Collection,44836.86,2023-12-06,Pending,3,20,False,"['CL0901_1_doc.pdf', 'CL0901_2_doc.pdf', 'CL0901_3_doc.pdf']"
+CL0902,C414,Medical Malpractice,7471.6,2023-12-31,Rejected,33,98,False,['CL0902_1_doc.pdf']
+CL0903,C414,Commercial Dispute,20205.07,2023-12-25,Pending,46,94,False,[]
+CL0904,C414,Debt Collection,12879.98,2023-10-28,Pending,36,33,False,"['CL0904_1_doc.pdf', 'CL0904_2_doc.pdf']"
+CL0905,C415,Family Law,23675.36,2023-09-29,Rejected,91,21,False,[]
+CL0906,C415,Personal Injury,34281.45,2024-01-05,Rejected,63,80,False,"['CL0906_1_doc.pdf', 'CL0906_2_doc.pdf']"
+CL0907,C415,Employment Dispute,40772.11,2024-04-06,Approved,78,46,False,[]
+CL0908,C416,Personal Injury,40493.24,2023-11-01,Pending,63,39,False,"['CL0908_1_doc.pdf', 'CL0908_2_doc.pdf']"
+CL0909,C416,Commercial Dispute,15543.21,2024-05-25,Pending,82,34,False,[]
+CL0910,C417,Personal Injury,18752.65,2024-04-15,Pending,18,29,False,"['CL0910_1_doc.pdf', 'CL0910_2_doc.pdf', 'CL0910_3_doc.pdf']"
+CL0911,C419,Property Damage,40069.36,2023-11-20,Pending,53,52,False,[]
+CL0912,C419,Debt Collection,36568.88,2023-06-25,Approved,85,46,False,[]
+CL0913,C419,Medical Malpractice,44144.94,2024-04-23,Rejected,72,22,False,"['CL0913_1_doc.pdf', 'CL0913_2_doc.pdf']"
+CL0914,C420,Medical Malpractice,19851.04,2024-01-25,Approved,16,60,False,"['CL0914_1_doc.pdf', 'CL0914_2_doc.pdf']"
+CL0915,C420,Employment Dispute,9394.37,2023-08-04,Rejected,18,94,False,['CL0915_1_doc.pdf']
+CL0916,C420,Medical Malpractice,34254.53,2023-06-18,Approved,30,59,False,[]
+CL0917,C421,Medical Malpractice,21644.85,2024-03-23,Pending,5,99,False,['CL0917_1_doc.pdf']
+CL0918,C423,Employment Dispute,21620.29,2024-01-20,Rejected,22,9,False,"['CL0918_1_doc.pdf', 'CL0918_2_doc.pdf', 'CL0918_3_doc.pdf']"
+CL0919,C423,Medical Malpractice,25401.44,2023-06-29,Approved,88,45,False,[]
+CL0920,C425,Personal Injury,15499.89,2023-08-17,Rejected,47,37,False,[]
+CL0921,C425,Commercial Dispute,19114.35,2024-04-22,Rejected,41,25,False,"['CL0921_1_doc.pdf', 'CL0921_2_doc.pdf', 'CL0921_3_doc.pdf']"
+CL0922,C426,Medical Malpractice,7102.67,2024-05-10,Pending,68,45,False,"['CL0922_1_doc.pdf', 'CL0922_2_doc.pdf']"
+CL0923,C427,Debt Collection,16190.7,2023-12-11,Approved,88,84,False,"['CL0923_1_doc.pdf', 'CL0923_2_doc.pdf']"
+CL0924,C427,Employment Dispute,31019.7,2023-10-10,Pending,95,61,True,"['CL0924_1_doc.pdf', 'CL0924_2_doc.pdf', 'CL0924_3_doc.pdf']"
+CL0925,C428,Employment Dispute,28629.22,2024-03-11,Pending,83,68,False,['CL0925_1_doc.pdf']
+CL0926,C428,Motor Vehicle Accident,13558.89,2023-11-23,Pending,99,60,False,"['CL0926_1_doc.pdf', 'CL0926_2_doc.pdf']"
+CL0927,C428,Personal Injury,27096.4,2024-01-19,Pending,87,82,False,[]
+CL0928,C428,Property Damage,31529.68,2024-02-10,Rejected,72,14,False,[]
+CL0929,C429,Family Law,48374.18,2024-01-18,Pending,78,31,True,[]
+CL0930,C429,Family Law,45467.32,2023-09-07,Approved,38,25,False,"['CL0930_1_doc.pdf', 'CL0930_2_doc.pdf', 'CL0930_3_doc.pdf']"
+CL0931,C429,Commercial Dispute,36319.88,2024-01-28,Approved,45,94,False,"['CL0931_1_doc.pdf', 'CL0931_2_doc.pdf']"
+CL0932,C429,Employment Dispute,25724.89,2023-12-29,Rejected,45,97,False,"['CL0932_1_doc.pdf', 'CL0932_2_doc.pdf', 'CL0932_3_doc.pdf']"
+CL0933,C430,Debt Collection,35717.52,2024-04-08,Rejected,80,41,False,"['CL0933_1_doc.pdf', 'CL0933_2_doc.pdf']"
+CL0934,C430,Employment Dispute,41129.12,2023-07-07,Approved,65,98,False,[]
+CL0935,C430,Commercial Dispute,378.69,2023-11-09,Approved,54,51,False,[]
+CL0936,C431,Property Damage,18144.08,2024-04-29,Approved,38,4,False,[]
+CL0937,C431,Motor Vehicle Accident,14679.05,2024-02-19,Approved,87,54,False,"['CL0937_1_doc.pdf', 'CL0937_2_doc.pdf', 'CL0937_3_doc.pdf']"
+CL0938,C431,Property Damage,46317.96,2023-08-12,Pending,41,37,True,"['CL0938_1_doc.pdf', 'CL0938_2_doc.pdf', 'CL0938_3_doc.pdf']"
+CL0939,C431,Family Law,842.73,2024-01-30,Approved,93,70,False,"['CL0939_1_doc.pdf', 'CL0939_2_doc.pdf', 'CL0939_3_doc.pdf']"
+CL0940,C432,Property Damage,47561.17,2023-10-09,Pending,98,12,False,['CL0940_1_doc.pdf']
+CL0941,C432,Personal Injury,18208.63,2023-09-06,Pending,37,88,False,[]
+CL0942,C432,Debt Collection,33246.14,2024-03-23,Pending,59,89,False,"['CL0942_1_doc.pdf', 'CL0942_2_doc.pdf']"
+CL0943,C433,Commercial Dispute,35844.18,2024-02-09,Pending,53,75,False,[]
+CL0944,C433,Property Damage,24153.27,2024-01-10,Approved,96,79,False,"['CL0944_1_doc.pdf', 'CL0944_2_doc.pdf']"
+CL0945,C433,Commercial Dispute,19667.44,2024-05-18,Pending,61,18,True,[]
+CL0946,C434,Employment Dispute,13300.35,2023-06-07,Pending,99,73,False,"['CL0946_1_doc.pdf', 'CL0946_2_doc.pdf']"
+CL0947,C436,Property Damage,22349.69,2023-07-27,Rejected,28,4,False,['CL0947_1_doc.pdf']
+CL0948,C436,Personal Injury,1381.01,2024-05-08,Rejected,6,33,False,['CL0948_1_doc.pdf']
+CL0949,C436,Family Law,32953.31,2024-04-27,Rejected,92,80,False,['CL0949_1_doc.pdf']
+CL0950,C436,Commercial Dispute,23082.56,2024-03-26,Approved,23,33,False,[]
+CL0951,C437,Personal Injury,1060.33,2024-03-08,Rejected,21,75,False,"['CL0951_1_doc.pdf', 'CL0951_2_doc.pdf']"
+CL0952,C438,Commercial Dispute,4752.02,2023-08-18,Pending,9,25,False,[]
+CL0953,C439,Employment Dispute,25991.48,2024-03-01,Rejected,2,27,False,['CL0953_1_doc.pdf']
+CL0954,C440,Property Damage,39125.28,2024-02-05,Pending,24,38,False,"['CL0954_1_doc.pdf', 'CL0954_2_doc.pdf', 'CL0954_3_doc.pdf']"
+CL0955,C440,Family Law,45549.64,2023-10-10,Approved,0,2,False,"['CL0955_1_doc.pdf', 'CL0955_2_doc.pdf', 'CL0955_3_doc.pdf']"
+CL0956,C441,Motor Vehicle Accident,12431.61,2023-06-06,Approved,98,3,False,"['CL0956_1_doc.pdf', 'CL0956_2_doc.pdf']"
+CL0957,C441,Personal Injury,20167.97,2023-09-02,Rejected,83,66,False,"['CL0957_1_doc.pdf', 'CL0957_2_doc.pdf', 'CL0957_3_doc.pdf']"
+CL0958,C441,Property Damage,43130.52,2024-01-14,Rejected,83,36,False,"['CL0958_1_doc.pdf', 'CL0958_2_doc.pdf', 'CL0958_3_doc.pdf']"
+CL0959,C441,Family Law,41814.0,2023-10-26,Pending,9,99,False,['CL0959_1_doc.pdf']
+CL0960,C442,Debt Collection,5070.06,2023-10-24,Pending,97,88,False,"['CL0960_1_doc.pdf', 'CL0960_2_doc.pdf']"
+CL0961,C443,Personal Injury,47843.4,2024-02-23,Rejected,55,67,True,"['CL0961_1_doc.pdf', 'CL0961_2_doc.pdf', 'CL0961_3_doc.pdf']"
+CL0962,C445,Debt Collection,13994.1,2023-08-10,Rejected,97,9,True,"['CL0962_1_doc.pdf', 'CL0962_2_doc.pdf']"
+CL0963,C445,Property Damage,14384.21,2023-11-04,Rejected,66,62,False,[]
+CL0964,C445,Commercial Dispute,40614.02,2023-11-20,Pending,80,13,False,"['CL0964_1_doc.pdf', 'CL0964_2_doc.pdf', 'CL0964_3_doc.pdf']"
+CL0965,C446,Employment Dispute,1193.17,2024-02-03,Rejected,84,31,False,"['CL0965_1_doc.pdf', 'CL0965_2_doc.pdf']"
+CL0966,C446,Medical Malpractice,6689.05,2024-02-20,Pending,70,15,False,[]
+CL0967,C446,Family Law,22132.58,2024-02-07,Rejected,3,30,False,"['CL0967_1_doc.pdf', 'CL0967_2_doc.pdf']"
+CL0968,C447,Motor Vehicle Accident,43893.68,2024-05-25,Approved,4,72,False,"['CL0968_1_doc.pdf', 'CL0968_2_doc.pdf']"
+CL0969,C448,Debt Collection,30176.36,2024-05-17,Rejected,46,34,False,"['CL0969_1_doc.pdf', 'CL0969_2_doc.pdf']"
+CL0970,C449,Commercial Dispute,18432.21,2024-05-21,Approved,32,35,False,"['CL0970_1_doc.pdf', 'CL0970_2_doc.pdf', 'CL0970_3_doc.pdf']"
+CL0971,C450,Employment Dispute,26193.0,2023-12-12,Pending,67,88,False,[]
+CL0972,C450,Motor Vehicle Accident,21885.07,2023-08-08,Approved,87,36,False,[]
+CL0973,C450,Property Damage,44125.1,2024-02-26,Approved,15,13,False,[]
+CL0974,C451,Debt Collection,2789.56,2024-01-02,Approved,83,41,False,[]
+CL0975,C451,Debt Collection,15905.71,2024-04-15,Pending,37,85,False,[]
+CL0976,C451,Medical Malpractice,34426.29,2024-03-14,Pending,76,60,False,"['CL0976_1_doc.pdf', 'CL0976_2_doc.pdf', 'CL0976_3_doc.pdf']"
+CL0977,C452,Property Damage,4454.09,2024-02-16,Approved,51,46,False,"['CL0977_1_doc.pdf', 'CL0977_2_doc.pdf', 'CL0977_3_doc.pdf']"
+CL0978,C452,Employment Dispute,7548.77,2024-04-15,Rejected,15,89,False,"['CL0978_1_doc.pdf', 'CL0978_2_doc.pdf']"
+CL0979,C452,Employment Dispute,42537.6,2023-11-19,Approved,16,57,False,[]
+CL0980,C453,Personal Injury,4022.25,2024-04-17,Approved,76,93,False,['CL0980_1_doc.pdf']
+CL0981,C453,Debt Collection,16729.85,2024-04-13,Pending,22,29,False,[]
+CL0982,C454,Employment Dispute,29265.97,2024-01-11,Pending,1,75,False,[]
+CL0983,C455,Debt Collection,46825.47,2023-11-10,Rejected,99,12,False,"['CL0983_1_doc.pdf', 'CL0983_2_doc.pdf']"
+CL0984,C455,Employment Dispute,24223.82,2023-07-30,Approved,45,84,False,"['CL0984_1_doc.pdf', 'CL0984_2_doc.pdf']"
+CL0985,C455,Family Law,10441.61,2024-03-08,Approved,79,98,False,"['CL0985_1_doc.pdf', 'CL0985_2_doc.pdf', 'CL0985_3_doc.pdf']"
+CL0986,C456,Employment Dispute,39442.24,2023-11-30,Pending,100,76,False,"['CL0986_1_doc.pdf', 'CL0986_2_doc.pdf']"
+CL0987,C456,Commercial Dispute,39416.67,2023-06-01,Approved,96,22,False,['CL0987_1_doc.pdf']
+CL0988,C456,Employment Dispute,48424.93,2023-11-30,Approved,60,13,False,[]
+CL0989,C457,Medical Malpractice,4197.99,2024-03-23,Pending,16,77,False,"['CL0989_1_doc.pdf', 'CL0989_2_doc.pdf', 'CL0989_3_doc.pdf']"
+CL0990,C457,Motor Vehicle Accident,47981.95,2024-01-16,Approved,53,34,True,"['CL0990_1_doc.pdf', 'CL0990_2_doc.pdf']"
+CL0991,C457,Employment Dispute,43440.22,2023-12-28,Rejected,32,64,False,[]
+CL0992,C459,Family Law,25805.15,2023-06-28,Approved,86,56,False,"['CL0992_1_doc.pdf', 'CL0992_2_doc.pdf']"
+CL0993,C459,Employment Dispute,18823.84,2024-05-30,Rejected,82,57,False,[]
+CL0994,C459,Motor Vehicle Accident,22810.3,2023-06-25,Approved,71,47,False,"['CL0994_1_doc.pdf', 'CL0994_2_doc.pdf', 'CL0994_3_doc.pdf']"
+CL0995,C459,Motor Vehicle Accident,6333.7,2023-07-17,Approved,11,12,False,[]
+CL0996,C460,Debt Collection,24701.18,2023-12-19,Rejected,61,25,True,"['CL0996_1_doc.pdf', 'CL0996_2_doc.pdf']"
+CL0997,C460,Commercial Dispute,32049.24,2023-08-02,Approved,60,6,False,[]
+CL0998,C460,Commercial Dispute,27462.95,2024-02-28,Pending,61,90,False,['CL0998_1_doc.pdf']
+CL0999,C463,Commercial Dispute,11130.26,2023-10-23,Rejected,28,22,False,"['CL0999_1_doc.pdf', 'CL0999_2_doc.pdf', 'CL0999_3_doc.pdf']"
+CL1000,C463,Motor Vehicle Accident,31849.44,2023-07-23,Pending,23,24,False,[]
+CL1001,C463,Medical Malpractice,45337.24,2023-06-19,Approved,59,29,False,"['CL1001_1_doc.pdf', 'CL1001_2_doc.pdf']"
+CL1002,C463,Commercial Dispute,33069.27,2023-08-26,Approved,36,35,False,[]
+CL1003,C464,Family Law,117.08,2023-10-14,Approved,20,46,False,[]
+CL1004,C464,Family Law,49192.36,2023-06-19,Rejected,36,53,False,['CL1004_1_doc.pdf']
+CL1005,C464,Personal Injury,29208.36,2024-02-23,Pending,48,29,False,"['CL1005_1_doc.pdf', 'CL1005_2_doc.pdf']"
+CL1006,C465,Debt Collection,49774.27,2023-11-01,Pending,19,87,False,"['CL1006_1_doc.pdf', 'CL1006_2_doc.pdf']"
+CL1007,C466,Family Law,17054.43,2023-11-20,Rejected,61,2,False,['CL1007_1_doc.pdf']
+CL1008,C466,Debt Collection,49947.83,2023-08-29,Rejected,24,4,False,[]
+CL1009,C467,Debt Collection,11588.12,2023-07-16,Pending,99,24,False,[]
+CL1010,C467,Medical Malpractice,26925.98,2024-05-02,Pending,38,58,False,['CL1010_1_doc.pdf']
+CL1011,C468,Motor Vehicle Accident,40974.0,2024-01-20,Approved,45,54,False,"['CL1011_1_doc.pdf', 'CL1011_2_doc.pdf']"
+CL1012,C468,Employment Dispute,23200.72,2023-07-18,Pending,28,65,False,"['CL1012_1_doc.pdf', 'CL1012_2_doc.pdf']"
+CL1013,C468,Medical Malpractice,49254.23,2024-05-12,Rejected,26,57,False,"['CL1013_1_doc.pdf', 'CL1013_2_doc.pdf', 'CL1013_3_doc.pdf']"
+CL1014,C468,Debt Collection,17841.06,2023-11-03,Approved,63,14,False,"['CL1014_1_doc.pdf', 'CL1014_2_doc.pdf']"
+CL1015,C470,Debt Collection,18371.49,2023-09-09,Rejected,20,44,False,"['CL1015_1_doc.pdf', 'CL1015_2_doc.pdf']"
+CL1016,C470,Personal Injury,3754.24,2023-11-09,Pending,31,23,False,"['CL1016_1_doc.pdf', 'CL1016_2_doc.pdf']"
+CL1017,C470,Personal Injury,38517.32,2023-11-27,Pending,29,41,False,[]
+CL1018,C470,Medical Malpractice,16394.03,2023-12-29,Approved,81,75,False,['CL1018_1_doc.pdf']
+CL1019,C471,Employment Dispute,43913.28,2023-09-25,Rejected,61,39,False,"['CL1019_1_doc.pdf', 'CL1019_2_doc.pdf']"
+CL1020,C471,Personal Injury,37535.57,2024-04-08,Pending,92,94,False,[]
+CL1021,C471,Personal Injury,31953.98,2024-05-27,Approved,20,45,False,['CL1021_1_doc.pdf']
+CL1022,C472,Commercial Dispute,25904.71,2024-05-23,Pending,77,63,True,"['CL1022_1_doc.pdf', 'CL1022_2_doc.pdf', 'CL1022_3_doc.pdf']"
+CL1023,C473,Debt Collection,41690.25,2024-02-02,Rejected,61,40,False,['CL1023_1_doc.pdf']
+CL1024,C473,Property Damage,45793.69,2023-09-01,Pending,79,13,False,['CL1024_1_doc.pdf']
+CL1025,C473,Commercial Dispute,16779.08,2023-07-17,Pending,45,22,False,[]
+CL1026,C473,Property Damage,27112.69,2023-09-28,Rejected,35,52,False,[]
+CL1027,C474,Personal Injury,31647.3,2023-09-08,Approved,28,76,False,['CL1027_1_doc.pdf']
+CL1028,C474,Commercial Dispute,43401.68,2024-02-10,Rejected,31,94,False,[]
+CL1029,C475,Medical Malpractice,8192.24,2023-07-20,Rejected,94,78,False,"['CL1029_1_doc.pdf', 'CL1029_2_doc.pdf']"
+CL1030,C475,Commercial Dispute,20063.31,2023-08-23,Rejected,100,56,False,"['CL1030_1_doc.pdf', 'CL1030_2_doc.pdf']"
+CL1031,C476,Personal Injury,19148.93,2023-10-26,Pending,91,13,False,"['CL1031_1_doc.pdf', 'CL1031_2_doc.pdf', 'CL1031_3_doc.pdf']"
+CL1032,C477,Employment Dispute,27489.36,2024-04-15,Approved,70,69,False,"['CL1032_1_doc.pdf', 'CL1032_2_doc.pdf', 'CL1032_3_doc.pdf']"
+CL1033,C477,Family Law,40804.65,2023-10-06,Rejected,90,90,False,"['CL1033_1_doc.pdf', 'CL1033_2_doc.pdf', 'CL1033_3_doc.pdf']"
+CL1034,C477,Commercial Dispute,34792.88,2023-06-07,Pending,22,5,False,[]
+CL1035,C477,Personal Injury,45039.31,2024-04-26,Pending,48,74,False,"['CL1035_1_doc.pdf', 'CL1035_2_doc.pdf']"
+CL1036,C478,Commercial Dispute,19440.61,2023-08-29,Pending,37,1,False,"['CL1036_1_doc.pdf', 'CL1036_2_doc.pdf']"
+CL1037,C479,Debt Collection,41504.19,2024-04-07,Pending,68,45,False,"['CL1037_1_doc.pdf', 'CL1037_2_doc.pdf', 'CL1037_3_doc.pdf']"
+CL1038,C479,Family Law,37407.08,2023-12-13,Approved,50,73,False,['CL1038_1_doc.pdf']
+CL1039,C479,Motor Vehicle Accident,5504.92,2023-12-23,Pending,40,16,False,"['CL1039_1_doc.pdf', 'CL1039_2_doc.pdf', 'CL1039_3_doc.pdf']"
+CL1040,C479,Debt Collection,18486.54,2023-12-30,Rejected,26,47,False,"['CL1040_1_doc.pdf', 'CL1040_2_doc.pdf', 'CL1040_3_doc.pdf']"
+CL1041,C480,Family Law,49221.4,2024-03-21,Pending,36,5,False,"['CL1041_1_doc.pdf', 'CL1041_2_doc.pdf']"
+CL1042,C481,Medical Malpractice,6905.72,2024-05-18,Pending,75,37,False,"['CL1042_1_doc.pdf', 'CL1042_2_doc.pdf']"
+CL1043,C482,Motor Vehicle Accident,27426.21,2024-04-05,Pending,4,78,False,"['CL1043_1_doc.pdf', 'CL1043_2_doc.pdf']"
+CL1044,C483,Medical Malpractice,34053.31,2023-12-24,Approved,16,87,False,[]
+CL1045,C484,Commercial Dispute,23852.9,2023-06-30,Approved,68,86,False,['CL1045_1_doc.pdf']
+CL1046,C484,Motor Vehicle Accident,6736.31,2024-01-09,Approved,52,97,False,['CL1046_1_doc.pdf']
+CL1047,C484,Debt Collection,38166.29,2024-04-04,Pending,56,16,False,"['CL1047_1_doc.pdf', 'CL1047_2_doc.pdf']"
+CL1048,C486,Commercial Dispute,12580.65,2024-05-16,Approved,64,11,False,"['CL1048_1_doc.pdf', 'CL1048_2_doc.pdf']"
+CL1049,C486,Personal Injury,18453.74,2023-08-04,Approved,63,85,False,['CL1049_1_doc.pdf']
+CL1050,C486,Debt Collection,8684.18,2024-03-14,Rejected,78,62,False,[]
+CL1051,C486,Employment Dispute,13087.82,2024-03-31,Pending,82,54,False,"['CL1051_1_doc.pdf', 'CL1051_2_doc.pdf', 'CL1051_3_doc.pdf']"
+CL1052,C488,Employment Dispute,7674.18,2024-05-31,Approved,87,62,True,[]
+CL1053,C489,Medical Malpractice,9149.06,2024-01-31,Approved,60,36,False,[]
+CL1054,C489,Debt Collection,4232.55,2024-04-04,Pending,44,74,False,"['CL1054_1_doc.pdf', 'CL1054_2_doc.pdf']"
+CL1055,C489,Medical Malpractice,45268.9,2023-11-22,Rejected,53,51,False,"['CL1055_1_doc.pdf', 'CL1055_2_doc.pdf', 'CL1055_3_doc.pdf']"
+CL1056,C489,Personal Injury,10753.19,2024-04-02,Pending,70,16,False,"['CL1056_1_doc.pdf', 'CL1056_2_doc.pdf', 'CL1056_3_doc.pdf']"
+CL1057,C490,Personal Injury,12761.68,2023-06-14,Rejected,63,18,False,"['CL1057_1_doc.pdf', 'CL1057_2_doc.pdf']"
+CL1058,C491,Family Law,22349.62,2023-10-06,Approved,75,92,False,['CL1058_1_doc.pdf']
+CL1059,C491,Debt Collection,35541.67,2023-10-06,Pending,11,17,True,"['CL1059_1_doc.pdf', 'CL1059_2_doc.pdf', 'CL1059_3_doc.pdf']"
+CL1060,C491,Debt Collection,31267.53,2023-07-11,Pending,12,74,False,"['CL1060_1_doc.pdf', 'CL1060_2_doc.pdf']"
+CL1061,C492,Family Law,18636.12,2024-03-09,Pending,31,22,False,"['CL1061_1_doc.pdf', 'CL1061_2_doc.pdf']"
+CL1062,C493,Medical Malpractice,27091.46,2024-01-01,Approved,98,90,False,['CL1062_1_doc.pdf']
+CL1063,C494,Employment Dispute,43915.08,2023-09-03,Rejected,56,60,True,[]
+CL1064,C497,Debt Collection,3666.84,2023-09-11,Rejected,93,70,False,"['CL1064_1_doc.pdf', 'CL1064_2_doc.pdf']"
+CL1065,C497,Employment Dispute,29132.45,2023-06-09,Pending,21,60,False,[]
+CL1066,C497,Property Damage,16298.59,2023-09-26,Rejected,70,38,False,"['CL1066_1_doc.pdf', 'CL1066_2_doc.pdf']"
+CL1067,C499,Commercial Dispute,15973.98,2023-08-22,Pending,24,25,False,"['CL1067_1_doc.pdf', 'CL1067_2_doc.pdf']"
+CL1068,C499,Personal Injury,8328.4,2023-06-24,Pending,94,26,False,"['CL1068_1_doc.pdf', 'CL1068_2_doc.pdf', 'CL1068_3_doc.pdf']"
+CL1069,C500,Employment Dispute,15269.71,2024-01-21,Rejected,94,78,False,[]
+CL1070,C500,Medical Malpractice,45020.59,2023-07-11,Pending,72,85,False,"['CL1070_1_doc.pdf', 'CL1070_2_doc.pdf', 'CL1070_3_doc.pdf']"

@@ -1,0 +1,350 @@
+clientId,actionType,actionDate,outcome,outcome_encoded
+C001,Invite to Webinar,2023-08-27,Churned,0
+C001,Offer Discount,2023-06-09,Stayed,1
+C003,Provide Educational Content,2024-01-18,Stayed,1
+C007,Send Follow-up Survey,2023-11-15,Churned,0
+C010,Invite to Webinar,2024-01-04,Churned,0
+C010,Offer Discount,2023-08-17,Stayed,1
+C011,Offer Discount,2023-09-24,Stayed,1
+C011,Offer Discount,2024-05-10,Stayed,1
+C012,Offer Discount,2023-11-08,Stayed,1
+C014,Provide Educational Content,2023-10-31,Churned,0
+C014,Schedule Call,2023-11-09,Stayed,1
+C016,Offer Discount,2023-10-28,Churned,0
+C019,Send Personalized Email,2023-09-07,Churned,0
+C019,Invite to Webinar,2023-06-01,Churned,0
+C021,Send Follow-up Survey,2023-12-24,Churned,0
+C022,Provide Educational Content,2023-08-30,Stayed,1
+C022,Send Personalized Email,2024-04-02,Stayed,1
+C028,Offer Discount,2023-06-22,Churned,0
+C028,Invite to Webinar,2023-09-15,Churned,0
+C030,Schedule Call,2024-04-30,Churned,0
+C030,Schedule Call,2023-07-13,Stayed,1
+C031,Provide Educational Content,2024-01-21,Churned,0
+C042,Schedule Call,2024-03-20,Churned,0
+C042,Provide Educational Content,2024-05-26,Stayed,1
+C043,Offer Discount,2023-08-17,Stayed,1
+C044,Send Personalized Email,2023-12-02,Stayed,1
+C044,Offer Discount,2023-09-12,Churned,0
+C046,Offer Discount,2024-05-02,Stayed,1
+C046,Send Follow-up Survey,2023-06-23,Churned,0
+C048,Offer Discount,2023-12-10,Stayed,1
+C049,Offer Discount,2023-12-04,Stayed,1
+C050,Invite to Webinar,2023-11-25,Churned,0
+C051,Send Follow-up Survey,2023-10-02,Churned,0
+C051,Invite to Webinar,2023-12-13,Churned,0
+C053,Send Follow-up Survey,2023-07-30,Churned,0
+C054,Offer Discount,2023-07-11,Churned,0
+C055,Invite to Webinar,2023-06-15,Churned,0
+C056,Offer Discount,2024-01-13,Stayed,1
+C058,Send Personalized Email,2023-07-01,Churned,0
+C060,Schedule Call,2024-05-26,Churned,0
+C060,Offer Discount,2023-10-27,Churned,0
+C061,Provide Educational Content,2023-10-16,Churned,0
+C061,Schedule Call,2023-06-29,Stayed,1
+C063,Provide Educational Content,2023-09-29,Stayed,1
+C064,Send Follow-up Survey,2024-01-05,Churned,0
+C069,Offer Discount,2023-12-05,Stayed,1
+C069,Offer Discount,2024-02-17,Churned,0
+C070,Send Personalized Email,2023-07-18,Churned,0
+C070,Send Follow-up Survey,2023-06-27,Stayed,1
+C072,Invite to Webinar,2024-05-21,Churned,0
+C072,Send Personalized Email,2023-08-05,Stayed,1
+C073,Provide Educational Content,2023-12-27,Churned,0
+C073,Invite to Webinar,2023-11-19,Churned,0
+C075,Invite to Webinar,2024-05-30,Churned,0
+C075,Offer Discount,2024-01-14,Churned,0
+C079,Offer Discount,2023-06-12,Stayed,1
+C079,Provide Educational Content,2024-05-27,Stayed,1
+C080,Schedule Call,2024-02-15,Churned,0
+C082,Schedule Call,2024-03-12,Churned,0
+C084,Invite to Webinar,2023-06-13,Churned,0
+C089,Send Personalized Email,2023-07-14,Churned,0
+C092,Offer Discount,2024-01-23,Stayed,1
+C092,Provide Educational Content,2024-01-28,Churned,0
+C093,Send Personalized Email,2023-12-30,Churned,0
+C093,Send Follow-up Survey,2024-04-10,Churned,0
+C094,Provide Educational Content,2023-06-17,Churned,0
+C094,Send Follow-up Survey,2023-11-29,Churned,0
+C098,Provide Educational Content,2024-02-14,Stayed,1
+C099,Invite to Webinar,2023-12-13,Churned,0
+C105,Send Personalized Email,2024-04-11,Stayed,1
+C105,Schedule Call,2023-09-03,Stayed,1
+C109,Offer Discount,2023-07-19,Churned,0
+C109,Schedule Call,2023-06-09,Stayed,1
+C111,Offer Discount,2023-09-25,Stayed,1
+C112,Send Personalized Email,2024-03-31,Churned,0
+C113,Provide Educational Content,2023-11-07,Churned,0
+C115,Send Personalized Email,2023-09-27,Churned,0
+C115,Offer Discount,2024-05-30,Churned,0
+C120,Provide Educational Content,2023-10-20,Churned,0
+C120,Send Follow-up Survey,2023-09-16,Stayed,1
+C121,Provide Educational Content,2024-01-19,Churned,0
+C121,Send Personalized Email,2023-06-28,Churned,0
+C122,Schedule Call,2024-05-19,Stayed,1
+C122,Invite to Webinar,2023-10-04,Stayed,1
+C125,Send Follow-up Survey,2024-01-11,Churned,0
+C127,Send Personalized Email,2023-11-21,Stayed,1
+C128,Send Follow-up Survey,2024-03-24,Stayed,1
+C136,Offer Discount,2024-03-22,Stayed,1
+C136,Invite to Webinar,2023-06-16,Churned,0
+C140,Invite to Webinar,2023-08-01,Churned,0
+C143,Offer Discount,2024-05-09,Churned,0
+C149,Offer Discount,2024-04-18,Churned,0
+C149,Provide Educational Content,2023-06-09,Churned,0
+C150,Schedule Call,2024-03-07,Churned,0
+C151,Schedule Call,2024-05-23,Stayed,1
+C153,Schedule Call,2023-09-19,Stayed,1
+C158,Schedule Call,2024-03-23,Stayed,1
+C159,Send Follow-up Survey,2024-01-04,Churned,0
+C159,Schedule Call,2024-02-12,Churned,0
+C160,Send Follow-up Survey,2023-09-21,Churned,0
+C162,Schedule Call,2023-09-25,Stayed,1
+C162,Send Personalized Email,2024-01-09,Stayed,1
+C164,Provide Educational Content,2023-10-07,Churned,0
+C164,Schedule Call,2023-11-28,Churned,0
+C167,Send Follow-up Survey,2023-08-19,Churned,0
+C169,Invite to Webinar,2023-10-22,Churned,0
+C169,Invite to Webinar,2023-07-24,Stayed,1
+C172,Send Follow-up Survey,2023-10-27,Churned,0
+C173,Offer Discount,2023-06-30,Churned,0
+C173,Send Follow-up Survey,2024-01-01,Stayed,1
+C174,Send Follow-up Survey,2023-12-14,Churned,0
+C174,Send Personalized Email,2024-02-23,Churned,0
+C177,Invite to Webinar,2023-07-25,Stayed,1
+C177,Schedule Call,2023-09-17,Stayed,1
+C178,Offer Discount,2024-01-16,Stayed,1
+C179,Send Follow-up Survey,2023-07-11,Churned,0
+C180,Offer Discount,2023-12-13,Stayed,1
+C183,Send Follow-up Survey,2024-03-09,Churned,0
+C185,Schedule Call,2024-01-03,Churned,0
+C186,Send Personalized Email,2023-12-07,Stayed,1
+C186,Invite to Webinar,2023-12-21,Stayed,1
+C188,Send Personalized Email,2024-04-18,Churned,0
+C188,Provide Educational Content,2023-12-31,Churned,0
+C190,Invite to Webinar,2023-08-12,Stayed,1
+C190,Send Personalized Email,2023-11-29,Churned,0
+C191,Send Personalized Email,2023-09-08,Stayed,1
+C191,Schedule Call,2023-06-26,Stayed,1
+C193,Send Personalized Email,2023-10-16,Churned,0
+C193,Offer Discount,2024-04-04,Churned,0
+C196,Invite to Webinar,2024-03-25,Churned,0
+C197,Offer Discount,2023-09-27,Churned,0
+C199,Send Follow-up Survey,2024-03-27,Churned,0
+C199,Offer Discount,2023-11-07,Stayed,1
+C201,Provide Educational Content,2024-02-14,Churned,0
+C203,Send Personalized Email,2024-04-03,Stayed,1
+C205,Offer Discount,2024-05-14,Churned,0
+C205,Offer Discount,2024-04-17,Stayed,1
+C207,Offer Discount,2024-04-03,Stayed,1
+C207,Schedule Call,2023-08-31,Stayed,1
+C208,Send Personalized Email,2023-06-22,Stayed,1
+C209,Schedule Call,2023-08-14,Stayed,1
+C210,Send Follow-up Survey,2023-10-13,Churned,0
+C210,Send Follow-up Survey,2023-08-23,Stayed,1
+C212,Send Follow-up Survey,2023-06-12,Churned,0
+C214,Send Personalized Email,2023-11-25,Churned,0
+C215,Send Personalized Email,2023-08-26,Stayed,1
+C216,Offer Discount,2023-11-11,Churned,0
+C216,Offer Discount,2023-07-20,Stayed,1
+C224,Offer Discount,2023-07-12,Stayed,1
+C224,Send Follow-up Survey,2024-02-16,Churned,0
+C225,Send Follow-up Survey,2023-09-21,Churned,0
+C225,Send Personalized Email,2023-08-16,Churned,0
+C226,Invite to Webinar,2024-01-09,Churned,0
+C226,Offer Discount,2023-09-02,Stayed,1
+C231,Send Personalized Email,2024-02-15,Churned,0
+C231,Provide Educational Content,2024-03-14,Stayed,1
+C232,Send Personalized Email,2023-08-02,Churned,0
+C232,Send Personalized Email,2024-03-05,Churned,0
+C234,Invite to Webinar,2024-02-10,Churned,0
+C234,Send Follow-up Survey,2023-12-30,Churned,0
+C238,Send Follow-up Survey,2024-04-07,Churned,0
+C241,Offer Discount,2024-03-30,Stayed,1
+C242,Send Personalized Email,2024-05-06,Stayed,1
+C244,Offer Discount,2023-12-07,Stayed,1
+C247,Send Follow-up Survey,2023-12-06,Churned,0
+C247,Send Follow-up Survey,2023-09-03,Stayed,1
+C251,Send Personalized Email,2024-01-21,Stayed,1
+C251,Schedule Call,2024-05-03,Churned,0
+C253,Schedule Call,2024-03-28,Stayed,1
+C253,Schedule Call,2023-07-06,Stayed,1
+C255,Provide Educational Content,2024-04-01,Churned,0
+C255,Schedule Call,2023-12-24,Stayed,1
+C257,Send Personalized Email,2023-09-24,Stayed,1
+C258,Provide Educational Content,2023-08-14,Churned,0
+C258,Provide Educational Content,2023-07-13,Churned,0
+C259,Offer Discount,2023-09-28,Stayed,1
+C261,Send Follow-up Survey,2023-09-05,Churned,0
+C261,Invite to Webinar,2024-02-05,Stayed,1
+C263,Provide Educational Content,2024-04-23,Stayed,1
+C263,Send Follow-up Survey,2023-12-09,Churned,0
+C267,Offer Discount,2023-08-08,Churned,0
+C268,Provide Educational Content,2023-06-20,Churned,0
+C270,Provide Educational Content,2024-01-21,Churned,0
+C273,Schedule Call,2023-07-30,Churned,0
+C273,Schedule Call,2024-04-15,Stayed,1
+C276,Send Personalized Email,2023-07-03,Churned,0
+C276,Offer Discount,2023-06-23,Stayed,1
+C278,Schedule Call,2024-05-30,Stayed,1
+C278,Offer Discount,2023-08-23,Churned,0
+C280,Send Personalized Email,2024-05-24,Stayed,1
+C284,Send Follow-up Survey,2023-10-14,Churned,0
+C284,Offer Discount,2023-08-28,Stayed,1
+C285,Invite to Webinar,2023-09-20,Stayed,1
+C286,Invite to Webinar,2023-07-01,Churned,0
+C287,Provide Educational Content,2024-01-09,Stayed,1
+C287,Provide Educational Content,2024-03-22,Churned,0
+C289,Send Follow-up Survey,2024-04-22,Stayed,1
+C289,Schedule Call,2023-06-27,Stayed,1
+C291,Schedule Call,2023-07-15,Stayed,1
+C291,Schedule Call,2023-12-06,Stayed,1
+C293,Offer Discount,2024-02-06,Churned,0
+C293,Schedule Call,2023-09-01,Churned,0
+C294,Invite to Webinar,2023-12-21,Stayed,1
+C294,Schedule Call,2023-12-23,Stayed,1
+C300,Offer Discount,2024-04-06,Stayed,1
+C302,Send Personalized Email,2024-02-27,Stayed,1
+C302,Schedule Call,2024-04-28,Stayed,1
+C304,Schedule Call,2023-09-01,Stayed,1
+C304,Send Personalized Email,2024-03-13,Churned,0
+C305,Offer Discount,2024-01-10,Stayed,1
+C306,Invite to Webinar,2024-03-17,Churned,0
+C306,Send Personalized Email,2023-08-28,Churned,0
+C308,Offer Discount,2023-09-10,Churned,0
+C309,Send Follow-up Survey,2023-09-03,Stayed,1
+C309,Send Personalized Email,2023-10-26,Stayed,1
+C311,Provide Educational Content,2024-02-10,Churned,0
+C312,Send Follow-up Survey,2024-04-28,Stayed,1
+C313,Send Follow-up Survey,2023-07-06,Churned,0
+C313,Send Follow-up Survey,2023-09-02,Stayed,1
+C314,Send Follow-up Survey,2023-10-02,Churned,0
+C314,Offer Discount,2023-11-10,Stayed,1
+C316,Offer Discount,2023-09-15,Stayed,1
+C317,Send Follow-up Survey,2024-04-01,Churned,0
+C318,Offer Discount,2023-11-15,Churned,0
+C318,Send Personalized Email,2023-12-18,Churned,0
+C322,Provide Educational Content,2024-02-26,Stayed,1
+C322,Offer Discount,2023-10-25,Stayed,1
+C326,Offer Discount,2023-07-08,Stayed,1
+C328,Send Personalized Email,2023-12-26,Stayed,1
+C328,Offer Discount,2023-07-15,Churned,0
+C335,Schedule Call,2024-02-08,Churned,0
+C336,Invite to Webinar,2023-10-23,Stayed,1
+C338,Invite to Webinar,2024-03-27,Churned,0
+C338,Send Follow-up Survey,2024-02-09,Churned,0
+C340,Provide Educational Content,2024-01-07,Churned,0
+C340,Offer Discount,2023-09-13,Stayed,1
+C343,Offer Discount,2023-12-22,Stayed,1
+C344,Send Follow-up Survey,2023-08-05,Stayed,1
+C346,Schedule Call,2023-07-19,Stayed,1
+C349,Provide Educational Content,2023-06-24,Stayed,1
+C349,Provide Educational Content,2024-01-21,Stayed,1
+C354,Schedule Call,2024-01-16,Stayed,1
+C356,Invite to Webinar,2023-06-04,Stayed,1
+C356,Schedule Call,2023-06-24,Stayed,1
+C360,Offer Discount,2023-07-23,Stayed,1
+C362,Invite to Webinar,2023-09-13,Churned,0
+C363,Invite to Webinar,2024-04-25,Churned,0
+C363,Invite to Webinar,2023-06-02,Churned,0
+C367,Offer Discount,2023-10-20,Stayed,1
+C372,Offer Discount,2023-09-24,Stayed,1
+C374,Offer Discount,2024-04-22,Stayed,1
+C376,Provide Educational Content,2024-05-05,Churned,0
+C376,Provide Educational Content,2024-03-17,Churned,0
+C377,Invite to Webinar,2023-09-01,Churned,0
+C377,Send Personalized Email,2023-07-01,Churned,0
+C380,Provide Educational Content,2024-03-07,Churned,0
+C380,Offer Discount,2023-07-22,Stayed,1
+C385,Send Personalized Email,2023-12-24,Churned,0
+C388,Invite to Webinar,2024-01-16,Churned,0
+C391,Offer Discount,2023-08-10,Churned,0
+C393,Offer Discount,2023-08-11,Churned,0
+C394,Offer Discount,2023-10-12,Churned,0
+C394,Send Follow-up Survey,2024-04-28,Stayed,1
+C397,Send Follow-up Survey,2023-10-08,Churned,0
+C398,Invite to Webinar,2023-07-18,Stayed,1
+C399,Schedule Call,2023-09-04,Churned,0
+C401,Send Follow-up Survey,2023-09-27,Churned,0
+C401,Send Personalized Email,2024-03-28,Churned,0
+C404,Schedule Call,2023-08-29,Churned,0
+C407,Send Follow-up Survey,2023-07-07,Churned,0
+C407,Provide Educational Content,2023-07-20,Stayed,1
+C409,Offer Discount,2024-01-31,Stayed,1
+C410,Provide Educational Content,2023-09-15,Churned,0
+C410,Send Personalized Email,2023-11-27,Churned,0
+C412,Send Follow-up Survey,2024-04-27,Churned,0
+C413,Send Personalized Email,2023-08-03,Churned,0
+C413,Send Follow-up Survey,2023-11-23,Stayed,1
+C414,Invite to Webinar,2024-05-07,Churned,0
+C414,Send Follow-up Survey,2023-07-07,Churned,0
+C416,Offer Discount,2024-01-20,Stayed,1
+C416,Invite to Webinar,2023-10-12,Churned,0
+C418,Schedule Call,2024-02-12,Churned,0
+C419,Provide Educational Content,2024-05-05,Stayed,1
+C420,Schedule Call,2024-05-24,Churned,0
+C420,Schedule Call,2023-09-14,Stayed,1
+C421,Send Follow-up Survey,2023-12-24,Stayed,1
+C421,Offer Discount,2023-06-02,Stayed,1
+C422,Invite to Webinar,2023-07-14,Stayed,1
+C422,Schedule Call,2023-11-07,Stayed,1
+C427,Send Personalized Email,2024-04-19,Churned,0
+C427,Send Follow-up Survey,2023-06-29,Churned,0
+C428,Send Follow-up Survey,2023-09-16,Stayed,1
+C428,Send Personalized Email,2023-08-30,Stayed,1
+C429,Offer Discount,2023-08-27,Stayed,1
+C429,Provide Educational Content,2024-05-14,Churned,0
+C431,Schedule Call,2024-03-22,Stayed,1
+C432,Schedule Call,2024-05-28,Stayed,1
+C433,Offer Discount,2024-01-08,Stayed,1
+C433,Send Personalized Email,2023-07-13,Stayed,1
+C435,Send Follow-up Survey,2023-07-13,Stayed,1
+C435,Schedule Call,2023-07-04,Stayed,1
+C436,Send Follow-up Survey,2023-12-25,Stayed,1
+C437,Schedule Call,2024-05-08,Churned,0
+C437,Send Follow-up Survey,2024-01-20,Churned,0
+C441,Schedule Call,2023-09-25,Stayed,1
+C442,Invite to Webinar,2023-10-10,Churned,0
+C444,Send Personalized Email,2023-11-11,Churned,0
+C444,Provide Educational Content,2023-11-19,Stayed,1
+C445,Send Personalized Email,2023-12-13,Churned,0
+C446,Offer Discount,2024-01-28,Stayed,1
+C446,Invite to Webinar,2024-03-29,Churned,0
+C453,Send Follow-up Survey,2023-10-09,Churned,0
+C454,Offer Discount,2023-12-10,Stayed,1
+C454,Invite to Webinar,2023-10-09,Stayed,1
+C455,Schedule Call,2024-01-28,Stayed,1
+C457,Provide Educational Content,2023-08-22,Stayed,1
+C457,Send Personalized Email,2023-10-31,Stayed,1
+C459,Offer Discount,2023-08-20,Stayed,1
+C459,Provide Educational Content,2023-10-15,Churned,0
+C461,Invite to Webinar,2023-11-07,Stayed,1
+C462,Provide Educational Content,2024-01-14,Churned,0
+C462,Provide Educational Content,2024-05-15,Churned,0
+C463,Invite to Webinar,2024-01-25,Churned,0
+C464,Send Follow-up Survey,2023-07-24,Churned,0
+C466,Provide Educational Content,2023-07-09,Churned,0
+C466,Provide Educational Content,2024-03-30,Churned,0
+C470,Schedule Call,2023-11-15,Stayed,1
+C471,Offer Discount,2023-09-11,Stayed,1
+C473,Provide Educational Content,2024-03-13,Stayed,1
+C474,Offer Discount,2023-07-19,Churned,0
+C479,Offer Discount,2024-01-08,Churned,0
+C479,Offer Discount,2024-03-03,Stayed,1
+C480,Provide Educational Content,2023-09-12,Stayed,1
+C480,Invite to Webinar,2024-05-10,Churned,0
+C485,Schedule Call,2023-06-12,Stayed,1
+C485,Send Personalized Email,2023-08-13,Churned,0
+C488,Provide Educational Content,2024-03-07,Stayed,1
+C488,Send Personalized Email,2024-01-05,Churned,0
+C489,Send Follow-up Survey,2023-07-24,Churned,0
+C489,Send Personalized Email,2023-08-04,Churned,0
+C490,Offer Discount,2024-05-09,Stayed,1
+C491,Schedule Call,2023-07-09,Stayed,1
+C491,Send Personalized Email,2023-06-16,Churned,0
+C492,Provide Educational Content,2023-09-07,Churned,0
+C494,Invite to Webinar,2024-04-11,Churned,0
+C496,Offer Discount,2023-06-19,Stayed,1
+C496,Send Follow-up Survey,2024-03-30,Churned,0
+C499,Offer Discount,2023-12-03,Churned,0
+C500,Provide Educational Content,2023-07-05,Churned,0

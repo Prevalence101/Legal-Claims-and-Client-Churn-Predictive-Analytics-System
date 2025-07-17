@@ -1,0 +1,72 @@
+clients:
+| Column                    | Description                                                                |
+| ------------------------- | -------------------------------------------------------------------------- |
+| `id`                      | Unique client identifier (e.g., C001)                                      |
+| `fullName`                | Full name of the client                                                    |
+| `email`                   | Email address                                                              |
+| `phoneNumber`             | Phone number in Zimbabwean format (e.g., +263 712345678)                   |
+| `address`                 | Full street address and city                                               |
+| `age`                     | Age of the client                                                          |
+| `gender`                  | Gender of the client (Male/Female)                                         |
+| `location`                | City or town in Zimbabwe (e.g., Harare, Bulawayo)                          |
+| `registrationDate`        | Date the client registered with the service                                |
+| `engagementScore`         | Numeric value (0–100) representing how actively the client uses services   |
+| `churnProbability`        | Predicted likelihood (in %) of client churning                             |
+| `category`                | Client classification (`Loyal`, `At-Risk`, `High-Value`, `Low-Engagement`) |
+| `sentimentScore`          | NLP-derived sentiment (`Positive`, `Neutral`, `Negative`)                  |
+| `riskScore`               | Combined score (0–100) factoring churn, claims, and fraud signals          |
+| `retentionRecommendation` | Suggested action to retain this client (e.g., “Offer Discount”)            |
+| `fraudFlagged`            | Boolean (`true`/`false`) if the client is flagged for fraud                |
+
+claims:
+| Column                 | Description                                                         |
+| ---------------------- | ------------------------------------------------------------------- |
+| `id`                   | Unique claim identifier (e.g., CL0001)                              |
+| `clientId`             | ID of the client who filed the claim (foreign key to `clients.id`)  |
+| `claimType`            | Type of claim (e.g., Personal Injury, Family Law, Property Damage)  |
+| `claimAmount`          | Monetary value of the claim in USD                                  |
+| `submissionDate`       | Date when the claim was submitted                                   |
+| `claimStatus`          | Status of the claim (`Pending`, `Approved`, `Rejected`)             |
+| `claimProbability`     | Predicted likelihood of this client filing a claim (0–100%)         |
+| `fraudLikelihoodScore` | Model-generated fraud likelihood score (0–100%)                     |
+| `isFraudFlagged`       | Boolean (`true`/`false`) if the claim is flagged for possible fraud |
+
+interaction_logs:
+| Column            | Description                                 |
+| ----------------- | ------------------------------------------- |
+| `clientId`        | ID of the client                            |
+| `interactionType` | e.g., Login, Viewed Dashboard, Opened Email |
+| `timestamp`       | Date and time of the interaction            |
+
+
+feedback:
+| Column             | Description                                      |
+| ------------------ | ------------------------------------------------ |
+| `clientId`         | Linked to the client                             |
+| `submittedAt`      | When the feedback was submitted                  |
+| `feedbackText`     | Raw feedback text                                |
+| `labeledSentiment` | Label for training (Positive, Neutral, Negative) |
+
+retention_actions:
+| Column       | Description                         |
+| ------------ | ----------------------------------- |
+| `clientId`   | Client receiving the action         |
+| `actionType` | e.g., Offer Discount, Schedule Call |
+| `actionDate` | When the action occurred            |
+| `outcome`    | Result: Stayed or Churned           |
+
+fraud_labels:
+| Column           | Description                               |
+| ---------------- | ----------------------------------------- |
+| `claimId`        | Linked to the claim                       |
+| `flaggedDate`    | When the claim was flagged                |
+| `confirmedFraud` | Boolean: whether it was proven fraudulent |
+
+client_claim_summary:
+| Column               | Description               |
+| -------------------- | ------------------------- |
+| `clientId`           | Client ID                 |
+| `totalClaims`        | Number of claims filed    |
+| `averageClaimAmount` | Average claim value       |
+| `lastClaimDate`      | Date of most recent claim |
+

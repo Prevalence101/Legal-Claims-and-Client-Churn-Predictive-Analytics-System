@@ -1,0 +1,34 @@
+1. Client Churn Prediction Model
+Purpose: Predict which clients will leave
+Model: XGBoost
+Output: Churn probability, risk category
+
+2. Claims Submission Forecasting Model
+Purpose: Predict when clients will file claims
+Model: XGBoost
+Output: Claim probability, type of claim
+
+3. Client Segmentation Model
+Purpose: Group clients based on behavior and risk
+Model: K-Means
+Output: Client categories (Loyal, At-Risk, etc)
+
+4. Sentiment Analysis Model
+Purpose: Analyze client feedback and complaints
+Model: VADER
+Output: Sentiment score (Positive, Neutral, Negative)
+
+5. Risk Scoring Model
+Purpose: Assign a churn and claim risk score
+Model: Ensemble Model (XGBoost + Clustering + NLP)
+Output: Risk score (0-100), retention recommendations
+
+6. Fraud Detection Model
+Purpose: Identify fraudulent legal claims
+Model: Isolation Forest
+Output: Fraud likelihood score, flagged claims
+
+7. Real-Time Recommendation Model
+Purpose: Suggest best retention actions
+Model: Collaborative Filtering 
+

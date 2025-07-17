@@ -1,0 +1,501 @@
+id,fullName,email,phoneNumber,address,age,gender,location,registrationDate,engagementScore,churnProbability,category,sentimentScore,riskScore,retentionRecommendation,fraudFlagged
+C001,Munashe Sibanda,munashe.sibanda5@example.co.zw,+263 719439315,"106 Leopold Takawira St, Kadoma",34,Male,Kadoma,2021-09-03,40,59.44,At-Risk,Neutral,0,Send Personalized Email,False
+C002,Blessing Zwane,blessing.zwane15@example.co.zw,+263 730191417,"46 George Silundika Ave, Mutare",22,Male,Mutare,2021-07-11,87,64.57,High-Value,Negative,38,No Action Required,False
+C003,Rufaro Makoni,rufaro.makoni25@example.co.zw,+263 737012608,"29 George Silundika Ave, Masvingo",47,Female,Masvingo,2023-03-23,46,69.06,At-Risk,Positive,90,Offer Discount,False
+C004,Admire Chigudu,admire.chigudu87@example.co.zw,+263 780396719,"82 Robert Mugabe Rd, Harare",57,Male,Harare,2021-06-24,92,2.5,Loyal,Negative,8,No Action Required,False
+C005,Shamiso Chigudu,shamiso.chigudu44@example.co.zw,+263 715029340,"176 Fife Ave, Chinhoyi",48,Female,Chinhoyi,2021-08-27,67,34.94,High-Value,Neutral,82,No Action Required,False
+C006,Pride Gatawa,pride.gatawa97@example.co.zw,+263 736946350,"34 Fifth St, Kadoma",36,Male,Kadoma,2021-10-29,75,65.96,Loyal,Negative,90,No Action Required,False
+C007,Tapiwa Musara,tapiwa.musara9@example.co.zw,+263 780600007,"164 Samora Machel Ave, Mutare",32,Male,Mutare,2022-03-17,55,82.28,At-Risk,Negative,40,Offer Discount,False
+C008,Takudzwa Nkomo,takudzwa.nkomo82@example.co.zw,+263 788884165,"164 Samora Machel Ave, Kwekwe",50,Male,Kwekwe,2021-08-28,95,36.72,High-Value,Negative,53,No Action Required,False
+C009,Tatenda Masuku,tatenda.masuku50@example.co.zw,+263 746902257,"127 Union Ave, Mutare",25,Female,Mutare,2022-09-25,39,22.71,High-Value,Negative,95,No Action Required,False
+C010,Shamiso Mguni,shamiso.mguni26@example.co.zw,+263 773267679,"16 Fife Ave, Kwekwe",53,Female,Kwekwe,2022-02-22,44,40.61,At-Risk,Positive,97,Offer Discount,False
+C011,Liberty Muchinguri,liberty.muchinguri60@example.co.zw,+263 733660826,"90 Fife Ave, Mutare",20,Male,Mutare,2023-05-01,19,72.19,Low-Engagement,Positive,35,Provide Educational Content,False
+C012,Walter Marufu,walter.marufu23@example.co.zw,+263 716622028,"6 Borrowdale Rd, Mutare",28,Male,Mutare,2022-03-27,80,55.84,Loyal,Neutral,59,No Action Required,False
+C013,Tapiwa Gatawa,tapiwa.gatawa77@example.co.zw,+263 782246128,"198 Jason Moyo Ave, Mutare",29,Male,Mutare,2022-07-29,89,88.43,Loyal,Positive,20,No Action Required,False
+C014,Munashe Nyathi,munashe.nyathi5@example.co.zw,+263 783248503,"32 Union Ave, Mutare",65,Male,Mutare,2022-09-27,16,41.65,At-Risk,Negative,20,Send Personalized Email,False
+C015,Chiedza Muchinguri,chiedza.muchinguri35@example.co.zw,+263 733876555,"10 Union Ave, Mutare",60,Female,Mutare,2022-06-05,89,73.9,Loyal,Negative,15,No Action Required,False
+C016,Takudzwa Muchena,takudzwa.muchena13@example.co.zw,+263 787881057,"107 Enterprise Rd, Rusape",18,Male,Rusape,2023-04-05,40,43.98,At-Risk,Negative,99,Send Personalized Email,False
+C017,Tawanda Mutare,tawanda.mutare37@example.co.zw,+263 713104947,"160 Borrowdale Rd, Rusape",19,Male,Rusape,2021-06-26,38,24.94,High-Value,Neutral,52,No Action Required,False
+C018,Blessing Marufu,blessing.marufu44@example.co.zw,+263 730413409,"13 Enterprise Rd, Rusape",21,Male,Rusape,2021-10-23,69,19.57,High-Value,Negative,15,No Action Required,False
+C019,Tafadzwa Nyathi,tafadzwa.nyathi54@example.co.zw,+263 741535767,"172 George Silundika Ave, Bindura",53,Male,Bindura,2023-05-18,16,73.54,Low-Engagement,Neutral,69,Provide Educational Content,False
+C020,Farai Khumalo,farai.khumalo95@example.co.zw,+263 781491573,"90 Enterprise Rd, Harare",30,Male,Harare,2022-08-21,80,31.3,High-Value,Positive,99,No Action Required,False
+C021,Prosper Chitima,prosper.chitima59@example.co.zw,+263 785478898,"38 Nelson Mandela Ave, Mutare",30,Male,Mutare,2021-09-01,39,96.28,At-Risk,Neutral,58,Offer Discount,False
+C022,Simba Chirwa,simba.chirwa93@example.co.zw,+263 772513870,"31 Third St, Harare",64,Male,Harare,2021-11-06,1,42.81,At-Risk,Positive,76,Offer Discount,False
+C023,Anesu Siziba,anesu.siziba66@example.co.zw,+263 772727847,"135 George Silundika Ave, Bindura",31,Male,Bindura,2022-05-13,35,34.46,Loyal,Positive,79,No Action Required,False
+C024,Liberty Chirwa,liberty.chirwa90@example.co.zw,+263 733340112,"149 Enterprise Rd, Kadoma",19,Male,Kadoma,2023-02-07,96,19.46,Loyal,Neutral,13,No Action Required,False
+C025,Tinashe Chitima,tinashe.chitima53@example.co.zw,+263 737927511,"73 Fife Ave, Gwanda",39,Male,Gwanda,2021-09-01,46,10.84,Loyal,Negative,37,No Action Required,False
+C026,Blessing Mudenda,blessing.mudenda89@example.co.zw,+263 740275436,"32 Leopold Takawira St, Victoria Falls",53,Male,Victoria Falls,2022-08-25,71,97.44,High-Value,Positive,75,No Action Required,False
+C027,Blessing Muchena,blessing.muchena84@example.co.zw,+263 711760884,"193 Leopold Takawira St, Kadoma",54,Male,Kadoma,2022-07-25,83,88.0,High-Value,Positive,0,No Action Required,False
+C028,Nomusa Musara,nomusa.musara3@example.co.zw,+263 777976128,"69 George Silundika Ave, Bindura",51,Female,Bindura,2022-04-09,25,92.09,Low-Engagement,Positive,21,Provide Educational Content,False
+C029,Sekai Mabhena,sekai.mabhena40@example.co.zw,+263 774230755,"45 Fife Ave, Mutare",41,Female,Mutare,2021-09-03,56,19.2,High-Value,Positive,75,No Action Required,False
+C030,Lisa Musara,lisa.musara84@example.co.zw,+263 745577787,"32 Leopold Takawira St, Mutare",63,Female,Mutare,2022-06-26,53,58.76,At-Risk,Positive,20,Offer Discount,False
+C031,Brenda Chitima,brenda.chitima23@example.co.zw,+263 730416430,"145 George Silundika Ave, Masvingo",48,Female,Masvingo,2021-10-01,1,90.37,Low-Engagement,Negative,31,Provide Educational Content,False
+C032,Takudzwa Chitima,takudzwa.chitima12@example.co.zw,+263 732967865,"24 Borrowdale Rd, Bulawayo",47,Male,Bulawayo,2022-07-22,90,40.1,High-Value,Negative,68,No Action Required,False
+C033,Blessing Chikwanda,blessing.chikwanda97@example.co.zw,+263 730173320,"104 Fife Ave, Rusape",52,Male,Rusape,2022-04-13,24,36.61,High-Value,Positive,67,No Action Required,False
+C034,Tafadzwa Zwane,tafadzwa.zwane13@example.co.zw,+263 740117333,"15 Robert Mugabe Rd, Gweru",54,Male,Gweru,2022-04-09,90,2.36,Loyal,Positive,90,No Action Required,False
+C035,Pride Mabhena,pride.mabhena25@example.co.zw,+263 733850214,"3 Samora Machel Ave, Kadoma",39,Male,Kadoma,2021-08-23,19,30.09,Loyal,Positive,54,No Action Required,False
+C036,Tapiwa Mandaza,tapiwa.mandaza78@example.co.zw,+263 781202049,"104 Fifth St, Kadoma",26,Male,Kadoma,2023-02-18,76,6.68,High-Value,Negative,8,No Action Required,False
+C037,Tapiwa Chigudu,tapiwa.chigudu46@example.co.zw,+263 738855707,"26 Borrowdale Rd, Victoria Falls",65,Male,Victoria Falls,2023-02-26,93,23.18,High-Value,Positive,26,No Action Required,False
+C038,Innocent Mabhena,innocent.mabhena48@example.co.zw,+263 745211358,"55 Leopold Takawira St, Kadoma",57,Male,Kadoma,2021-08-19,6,13.9,High-Value,Neutral,89,No Action Required,False
+C039,Liberty Chigudu,liberty.chigudu70@example.co.zw,+263 787401319,"2 George Silundika Ave, Gweru",25,Male,Gweru,2022-08-25,81,46.85,Loyal,Positive,56,No Action Required,False
+C040,Memory Nkomo,memory.nkomo38@example.co.zw,+263 777355695,"72 Robert Mugabe Rd, Bulawayo",39,Female,Bulawayo,2022-11-06,52,1.13,Loyal,Positive,38,No Action Required,False
+C041,Liberty Mathe,liberty.mathe58@example.co.zw,+263 771867761,"63 Fife Ave, Rusape",54,Male,Rusape,2021-06-23,72,81.3,High-Value,Positive,79,No Action Required,False
+C042,Mercy Moyo,mercy.moyo17@example.co.zw,+263 747458756,"162 Enterprise Rd, Victoria Falls",56,Female,Victoria Falls,2022-04-08,2,72.47,Low-Engagement,Positive,37,Send Follow-up Survey,False
+C043,Sekai Ncube,sekai.ncube21@example.co.zw,+263 717715493,"152 Fife Ave, Gwanda",23,Female,Gwanda,2023-01-31,60,91.06,At-Risk,Positive,44,Offer Discount,False
+C044,Pride Dlamini,pride.dlamini21@example.co.zw,+263 738645551,"97 George Silundika Ave, Harare",51,Male,Harare,2022-10-04,10,51.99,At-Risk,Neutral,66,Offer Discount,False
+C045,Kudakwashe Khumalo,kudakwashe.khumalo99@example.co.zw,+263 783188260,"24 Jason Moyo Ave, Mutare",43,Male,Mutare,2021-11-24,26,7.47,Loyal,Negative,74,No Action Required,False
+C046,Tendai Shumba,tendai.shumba3@example.co.zw,+263 735781443,"41 Third St, Masvingo",22,Female,Masvingo,2021-07-07,18,87.43,Low-Engagement,Neutral,52,Send Follow-up Survey,False
+C047,Nomusa Mabhena,nomusa.mabhena52@example.co.zw,+263 789455451,"19 Fife Ave, Masvingo",38,Female,Masvingo,2022-07-22,98,80.37,High-Value,Negative,88,No Action Required,False
+C048,Chido Mashingaidze,chido.mashingaidze98@example.co.zw,+263 748944116,"190 Robert Mugabe Rd, Masvingo",30,Female,Masvingo,2023-05-09,34,83.77,At-Risk,Negative,13,Offer Discount,False
+C049,Tafadzwa Nyathi,tafadzwa.nyathi38@example.co.zw,+263 733911187,"156 Leopold Takawira St, Gweru",64,Male,Gweru,2022-03-10,47,96.4,At-Risk,Positive,40,Offer Discount,False
+C050,Innocent Muchena,innocent.muchena92@example.co.zw,+263 710657538,"90 Fife Ave, Bulawayo",64,Male,Bulawayo,2023-02-08,67,86.32,At-Risk,Positive,32,Offer Discount,False
+C051,Tendai Siziba,tendai.siziba63@example.co.zw,+263 711362544,"161 George Silundika Ave, Gweru",60,Female,Gweru,2022-09-24,44,83.43,At-Risk,Negative,54,Send Personalized Email,False
+C052,Nomusa Chirwa,nomusa.chirwa13@example.co.zw,+263 780930800,"172 Simon Mazorodze Rd, Masvingo",63,Female,Masvingo,2021-10-20,91,18.14,Loyal,Neutral,14,No Action Required,False
+C053,Rufaro Chirwa,rufaro.chirwa27@example.co.zw,+263 778049171,"182 Robert Mugabe Rd, Victoria Falls",52,Female,Victoria Falls,2023-02-18,18,46.28,At-Risk,Negative,0,Offer Discount,False
+C054,Simba Sibanda,simba.sibanda96@example.co.zw,+263 730549242,"97 Robert Mugabe Rd, Kadoma",24,Male,Kadoma,2023-01-01,20,85.68,Low-Engagement,Positive,71,Send Follow-up Survey,False
+C055,Tsitsi Mupanduki,tsitsi.mupanduki45@example.co.zw,+263 775887785,"28 Fifth St, Kwekwe",44,Female,Kwekwe,2023-02-20,16,45.63,At-Risk,Neutral,33,Offer Discount,False
+C056,Nyarai Khumalo,nyarai.khumalo4@example.co.zw,+263 738746370,"104 Fifth St, Harare",51,Female,Harare,2021-12-07,35,53.76,At-Risk,Positive,29,Schedule Call,False
+C057,Rudo Zwane,rudo.zwane54@example.co.zw,+263 738266044,"177 Samora Machel Ave, Rusape",64,Female,Rusape,2022-03-19,40,0.69,Loyal,Positive,67,No Action Required,False
+C058,Blessing Mhlanga,blessing.mhlanga31@example.co.zw,+263 773984568,"186 Fifth St, Victoria Falls",20,Male,Victoria Falls,2022-04-04,21,84.08,Low-Engagement,Negative,40,Send Follow-up Survey,False
+C059,Fadzai Marufu,fadzai.marufu88@example.co.zw,+263 773984376,"119 Samora Machel Ave, Kwekwe",34,Female,Kwekwe,2023-01-04,82,44.37,High-Value,Neutral,30,No Action Required,False
+C060,Chido Moyo,chido.moyo46@example.co.zw,+263 743648468,"100 Borrowdale Rd, Gwanda",51,Female,Gwanda,2022-12-07,11,62.57,Low-Engagement,Neutral,39,Provide Educational Content,False
+C061,Memory Zinyama,memory.zinyama74@example.co.zw,+263 740391730,"62 Samora Machel Ave, Mutare",18,Female,Mutare,2021-08-30,11,69.0,Low-Engagement,Negative,74,Provide Educational Content,False
+C062,Rufaro Dlamini,rufaro.dlamini99@example.co.zw,+263 743731646,"151 Samora Machel Ave, Kadoma",20,Female,Kadoma,2023-03-09,5,14.66,Loyal,Positive,18,No Action Required,False
+C063,Tatenda Mathe,tatenda.mathe56@example.co.zw,+263 779112284,"88 Union Ave, Kwekwe",63,Female,Kwekwe,2022-09-01,55,48.65,At-Risk,Negative,97,Send Personalized Email,False
+C064,Tendai Nkomo,tendai.nkomo17@example.co.zw,+263 785174434,"195 Third St, Masvingo",47,Male,Masvingo,2021-08-30,37,93.09,At-Risk,Negative,36,Schedule Call,True
+C065,Lisa Shumba,lisa.shumba28@example.co.zw,+263 736663987,"114 Samora Machel Ave, Gweru",43,Female,Gweru,2023-02-12,63,13.77,High-Value,Negative,64,No Action Required,False
+C066,Nompilo Muchena,nompilo.muchena92@example.co.zw,+263 732939803,"40 Borrowdale Rd, Chinhoyi",18,Female,Chinhoyi,2021-10-17,71,37.83,High-Value,Negative,95,No Action Required,False
+C067,Mercy Marufu,mercy.marufu89@example.co.zw,+263 784740215,"59 Jason Moyo Ave, Chinhoyi",27,Female,Chinhoyi,2022-05-27,85,96.47,High-Value,Positive,58,No Action Required,True
+C068,Brenda Nkomo,brenda.nkomo49@example.co.zw,+263 783253310,"94 Samora Machel Ave, Rusape",46,Female,Rusape,2023-03-09,1,22.76,Loyal,Negative,20,No Action Required,False
+C069,Fadzai Chitima,fadzai.chitima16@example.co.zw,+263 712198352,"20 Fifth St, Chinhoyi",45,Female,Chinhoyi,2022-03-20,76,16.01,High-Value,Negative,52,No Action Required,False
+C070,Shamiso Masuku,shamiso.masuku90@example.co.zw,+263 734770961,"125 Jason Moyo Ave, Bindura",37,Female,Bindura,2022-06-12,59,63.73,At-Risk,Negative,32,Schedule Call,False
+C071,Fadzai Mhlanga,fadzai.mhlanga75@example.co.zw,+263 735944346,"109 Union Ave, Rusape",29,Female,Rusape,2023-02-05,96,36.37,Loyal,Neutral,54,No Action Required,False
+C072,Pride Ncube,pride.ncube80@example.co.zw,+263 710393230,"197 Nelson Mandela Ave, Harare",57,Male,Harare,2022-01-01,29,97.15,Low-Engagement,Positive,71,Provide Educational Content,False
+C073,Simba Khumalo,simba.khumalo32@example.co.zw,+263 744933215,"2 Fife Ave, Kwekwe",35,Male,Kwekwe,2022-07-17,43,81.97,At-Risk,Negative,71,Schedule Call,False
+C074,Farai Sibanda,farai.sibanda97@example.co.zw,+263 781890318,"9 Union Ave, Bindura",33,Male,Bindura,2021-07-04,8,35.65,Loyal,Negative,42,No Action Required,False
+C075,Nomusa Nkomo,nomusa.nkomo8@example.co.zw,+263 742423172,"44 Nelson Mandela Ave, Chinhoyi",57,Female,Chinhoyi,2022-05-30,67,60.6,At-Risk,Negative,2,Send Personalized Email,False
+C076,Tawanda Muchinguri,tawanda.muchinguri38@example.co.zw,+263 781452172,"148 Enterprise Rd, Gwanda",64,Male,Gwanda,2021-11-11,87,14.19,Loyal,Negative,77,No Action Required,False
+C077,Blessing Mhlanga,blessing.mhlanga56@example.co.zw,+263 737437940,"125 Leopold Takawira St, Gweru",55,Male,Gweru,2022-06-11,93,54.22,Loyal,Positive,26,No Action Required,False
+C078,Sekai Zwane,sekai.zwane57@example.co.zw,+263 780337406,"44 Third St, Harare",43,Female,Harare,2022-05-20,22,11.78,Loyal,Neutral,1,No Action Required,False
+C079,Tendai Gatawa,tendai.gatawa38@example.co.zw,+263 749141057,"122 George Silundika Ave, Chinhoyi",22,Male,Chinhoyi,2021-09-13,0,49.85,At-Risk,Negative,8,Send Personalized Email,True
+C080,Tanaka Gumbo,tanaka.gumbo19@example.co.zw,+263 734950696,"85 Nelson Mandela Ave, Harare",59,Male,Harare,2023-03-21,83,10.61,Loyal,Positive,32,No Action Required,False
+C081,Brenda Marufu,brenda.marufu63@example.co.zw,+263 782663815,"39 Fifth St, Bulawayo",36,Female,Bulawayo,2022-03-08,8,32.96,High-Value,Positive,43,No Action Required,False
+C082,Chido Dube,chido.dube92@example.co.zw,+263 774653653,"147 Samora Machel Ave, Bindura",50,Female,Bindura,2021-08-18,47,80.17,At-Risk,Negative,72,Offer Discount,False
+C083,Walter Sibanda,walter.sibanda60@example.co.zw,+263 719704889,"79 Samora Machel Ave, Gwanda",43,Male,Gwanda,2022-03-16,93,18.8,Loyal,Negative,28,No Action Required,False
+C084,Walter Siziba,walter.siziba77@example.co.zw,+263 733406836,"176 Jason Moyo Ave, Rusape",41,Male,Rusape,2021-06-22,37,77.49,At-Risk,Negative,66,Schedule Call,False
+C085,Faith Mhlanga,faith.mhlanga60@example.co.zw,+263 717832942,"55 Union Ave, Mutare",35,Female,Mutare,2022-11-06,12,25.66,High-Value,Negative,42,No Action Required,False
+C086,Lisa Mabhena,lisa.mabhena75@example.co.zw,+263 734400374,"158 Enterprise Rd, Chinhoyi",40,Female,Chinhoyi,2021-11-18,97,31.51,Loyal,Positive,79,No Action Required,False
+C087,Innocent Musara,innocent.musara97@example.co.zw,+263 739396047,"151 Borrowdale Rd, Kwekwe",60,Male,Kwekwe,2022-12-22,80,9.42,Loyal,Negative,73,No Action Required,False
+C088,Tinashe Gumbo,tinashe.gumbo59@example.co.zw,+263 774717369,"8 Robert Mugabe Rd, Gwanda",40,Male,Gwanda,2022-02-17,74,85.89,Loyal,Neutral,13,No Action Required,False
+C089,Mercy Gumbo,mercy.gumbo99@example.co.zw,+263 710510057,"189 Borrowdale Rd, Mutare",52,Female,Mutare,2023-04-03,24,78.6,Low-Engagement,Positive,59,Send Follow-up Survey,False
+C090,Liberty Muchena,liberty.muchena78@example.co.zw,+263 742077220,"7 Samora Machel Ave, Mutare",26,Male,Mutare,2021-12-08,57,5.79,Loyal,Negative,68,No Action Required,False
+C091,Tariro Chikwanda,tariro.chikwanda70@example.co.zw,+263 745781930,"103 Third St, Gweru",30,Female,Gweru,2022-08-20,57,13.93,High-Value,Positive,2,No Action Required,False
+C092,Farai Mutare,farai.mutare66@example.co.zw,+263 781800769,"178 Samora Machel Ave, Bulawayo",27,Male,Bulawayo,2022-10-26,55,81.2,At-Risk,Negative,40,Send Personalized Email,False
+C093,Brenda Siziba,brenda.siziba48@example.co.zw,+263 716045016,"128 Enterprise Rd, Bindura",39,Female,Bindura,2022-01-28,69,76.78,At-Risk,Neutral,80,Schedule Call,False
+C094,Prosper Masuku,prosper.masuku41@example.co.zw,+263 779496677,"188 Samora Machel Ave, Mutare",22,Male,Mutare,2021-11-22,30,80.5,Low-Engagement,Neutral,60,Provide Educational Content,False
+C095,Pride Chirwa,pride.chirwa2@example.co.zw,+263 714767235,"87 Robert Mugabe Rd, Bulawayo",50,Male,Bulawayo,2023-03-10,36,7.85,High-Value,Neutral,89,No Action Required,False
+C096,Nompilo Sibanda,nompilo.sibanda46@example.co.zw,+263 785749490,"127 Robert Mugabe Rd, Victoria Falls",44,Female,Victoria Falls,2022-06-15,31,0.49,Loyal,Positive,7,No Action Required,False
+C097,Chiedza Mupanduki,chiedza.mupanduki37@example.co.zw,+263 777624632,"119 Union Ave, Kwekwe",27,Female,Kwekwe,2023-03-15,76,22.01,High-Value,Positive,40,No Action Required,False
+C098,Prosper Chikwanda,prosper.chikwanda97@example.co.zw,+263 713250508,"138 Borrowdale Rd, Victoria Falls",57,Male,Victoria Falls,2022-12-17,65,66.98,At-Risk,Neutral,84,Offer Discount,False
+C099,Anesu Sibanda,anesu.sibanda54@example.co.zw,+263 711461486,"82 Nelson Mandela Ave, Kwekwe",47,Male,Kwekwe,2021-11-25,35,54.0,At-Risk,Positive,86,Offer Discount,True
+C100,Rudo Shumba,rudo.shumba30@example.co.zw,+263 717108096,"161 Robert Mugabe Rd, Kadoma",21,Female,Kadoma,2023-03-18,78,95.96,Loyal,Negative,79,No Action Required,False
+C101,Munashe Mudenda,munashe.mudenda35@example.co.zw,+263 719125493,"86 Simon Mazorodze Rd, Bindura",32,Male,Bindura,2023-03-21,91,93.63,High-Value,Neutral,42,No Action Required,False
+C102,Pride Mupanduki,pride.mupanduki26@example.co.zw,+263 789232278,"113 Borrowdale Rd, Kwekwe",37,Male,Kwekwe,2021-11-19,41,14.83,High-Value,Positive,97,No Action Required,False
+C103,Tafadzwa Nkomo,tafadzwa.nkomo55@example.co.zw,+263 781717511,"33 Enterprise Rd, Gweru",20,Male,Gweru,2021-10-23,37,17.59,High-Value,Positive,30,No Action Required,False
+C104,Brenda Masuku,brenda.masuku2@example.co.zw,+263 747775191,"96 Nelson Mandela Ave, Kwekwe",55,Female,Kwekwe,2023-02-28,31,9.33,High-Value,Positive,78,No Action Required,False
+C105,Munashe Mabhena,munashe.mabhena11@example.co.zw,+263 772193981,"192 Jason Moyo Ave, Chinhoyi",58,Male,Chinhoyi,2021-10-01,69,77.9,At-Risk,Neutral,50,Send Personalized Email,False
+C106,Pride Mashingaidze,pride.mashingaidze79@example.co.zw,+263 717913168,"195 Borrowdale Rd, Bindura",55,Male,Bindura,2023-01-14,98,12.93,Loyal,Neutral,36,No Action Required,False
+C107,Walter Sibanda,walter.sibanda13@example.co.zw,+263 737949532,"197 Robert Mugabe Rd, Kwekwe",25,Male,Kwekwe,2022-07-10,81,27.61,High-Value,Negative,6,No Action Required,False
+C108,Mercy Mashingaidze,mercy.mashingaidze65@example.co.zw,+263 786476434,"113 Samora Machel Ave, Victoria Falls",52,Female,Victoria Falls,2022-03-18,95,98.01,Loyal,Negative,68,No Action Required,False
+C109,Farai Ncube,farai.ncube40@example.co.zw,+263 780308460,"165 Leopold Takawira St, Kadoma",57,Male,Kadoma,2022-09-09,92,83.53,High-Value,Negative,99,No Action Required,False
+C110,Fadzai Gatawa,fadzai.gatawa75@example.co.zw,+263 716324262,"78 Union Ave, Bindura",19,Female,Bindura,2023-04-26,97,96.29,High-Value,Positive,86,No Action Required,False
+C111,Lisa Chirwa,lisa.chirwa43@example.co.zw,+263 776806174,"11 George Silundika Ave, Victoria Falls",65,Female,Victoria Falls,2021-10-17,58,54.42,At-Risk,Neutral,9,Send Personalized Email,False
+C112,Prosper Marufu,prosper.marufu7@example.co.zw,+263 771602088,"22 Samora Machel Ave, Harare",38,Male,Harare,2022-02-23,18,76.87,Low-Engagement,Neutral,42,Send Follow-up Survey,False
+C113,Tariro Mashingaidze,tariro.mashingaidze95@example.co.zw,+263 742004511,"111 Enterprise Rd, Kadoma",39,Female,Kadoma,2022-04-12,56,42.51,At-Risk,Negative,58,Schedule Call,False
+C114,Mercy Gatawa,mercy.gatawa79@example.co.zw,+263 781958135,"128 Third St, Chinhoyi",49,Female,Chinhoyi,2021-09-20,55,21.66,High-Value,Negative,80,No Action Required,False
+C115,Faith Mudenda,faith.mudenda26@example.co.zw,+263 749779437,"78 Robert Mugabe Rd, Kadoma",41,Female,Kadoma,2023-04-17,43,86.67,At-Risk,Neutral,56,Schedule Call,False
+C116,Fadzai Sibanda,fadzai.sibanda26@example.co.zw,+263 739484716,"45 Third St, Kwekwe",38,Female,Kwekwe,2022-11-08,77,31.4,High-Value,Neutral,67,No Action Required,False
+C117,Tsitsi Ndlovu,tsitsi.ndlovu73@example.co.zw,+263 749007156,"171 Nelson Mandela Ave, Victoria Falls",34,Female,Victoria Falls,2023-01-30,86,70.06,High-Value,Positive,48,No Action Required,False
+C118,Liberty Mavhunga,liberty.mavhunga81@example.co.zw,+263 738063000,"53 Fifth St, Mutare",32,Male,Mutare,2022-03-29,49,27.82,Loyal,Neutral,72,No Action Required,False
+C119,Tsitsi Chirwa,tsitsi.chirwa9@example.co.zw,+263 747141408,"184 Borrowdale Rd, Bulawayo",32,Female,Bulawayo,2022-12-16,60,21.46,Loyal,Negative,51,No Action Required,False
+C120,Prosper Chirwa,prosper.chirwa39@example.co.zw,+263 718047449,"40 George Silundika Ave, Rusape",57,Male,Rusape,2021-08-28,99,0.16,Loyal,Neutral,58,No Action Required,False
+C121,Liberty Mupanduki,liberty.mupanduki70@example.co.zw,+263 775222038,"163 Robert Mugabe Rd, Chinhoyi",45,Male,Chinhoyi,2023-05-20,87,73.47,Loyal,Negative,78,No Action Required,False
+C122,Precious Muchena,precious.muchena76@example.co.zw,+263 713205772,"83 Fifth St, Mutare",46,Female,Mutare,2022-05-26,18,43.26,At-Risk,Positive,21,Offer Discount,False
+C123,Munashe Ndlovu,munashe.ndlovu75@example.co.zw,+263 743946692,"150 Fife Ave, Victoria Falls",18,Male,Victoria Falls,2021-08-21,86,2.53,Loyal,Neutral,96,No Action Required,False
+C124,Innocent Dlamini,innocent.dlamini49@example.co.zw,+263 741851021,"133 Union Ave, Masvingo",32,Male,Masvingo,2022-08-08,55,19.1,High-Value,Negative,95,No Action Required,False
+C125,Kudakwashe Gumbo,kudakwashe.gumbo85@example.co.zw,+263 745902928,"101 Fife Ave, Kadoma",30,Male,Kadoma,2022-06-21,63,77.31,At-Risk,Neutral,54,Send Personalized Email,False
+C126,Tariro Zinyama,tariro.zinyama38@example.co.zw,+263 774614810,"80 Third St, Bindura",40,Female,Bindura,2022-03-26,82,86.94,Loyal,Negative,67,No Action Required,False
+C127,Pride Ncube,pride.ncube40@example.co.zw,+263 742885970,"25 Third St, Harare",65,Male,Harare,2022-09-16,45,66.85,At-Risk,Positive,91,Send Personalized Email,False
+C128,Faith Chigwedere,faith.chigwedere53@example.co.zw,+263 734138893,"7 Borrowdale Rd, Bindura",24,Female,Bindura,2022-03-29,33,66.59,At-Risk,Neutral,96,Offer Discount,False
+C129,Farai Ndlovu,farai.ndlovu72@example.co.zw,+263 739790522,"41 Borrowdale Rd, Kwekwe",49,Male,Kwekwe,2022-07-07,87,97.42,High-Value,Neutral,4,No Action Required,False
+C130,Tapiwa Mhlanga,tapiwa.mhlanga59@example.co.zw,+263 773644957,"183 Third St, Kwekwe",63,Male,Kwekwe,2021-08-05,81,73.15,Loyal,Positive,100,No Action Required,False
+C131,Tsitsi Chikwanda,tsitsi.chikwanda5@example.co.zw,+263 786689955,"37 Union Ave, Gwanda",25,Female,Gwanda,2021-12-14,78,72.18,Loyal,Negative,88,No Action Required,False
+C132,Tawanda Shumba,tawanda.shumba20@example.co.zw,+263 735521213,"36 Simon Mazorodze Rd, Gwanda",35,Male,Gwanda,2022-09-07,84,80.3,High-Value,Positive,44,No Action Required,False
+C133,Tawanda Muchinguri,tawanda.muchinguri58@example.co.zw,+263 719965017,"78 Nelson Mandela Ave, Victoria Falls",38,Male,Victoria Falls,2023-04-08,85,34.45,Loyal,Positive,87,No Action Required,False
+C134,Tendai Makoni,tendai.makoni82@example.co.zw,+263 781143912,"175 Leopold Takawira St, Mutare",58,Female,Mutare,2023-02-02,81,82.45,High-Value,Neutral,36,No Action Required,False
+C135,Rufaro Dube,rufaro.dube74@example.co.zw,+263 770429156,"92 Simon Mazorodze Rd, Gweru",45,Female,Gweru,2022-08-31,4,23.75,Loyal,Positive,85,No Action Required,False
+C136,Rudo Nkomo,rudo.nkomo72@example.co.zw,+263 711608331,"81 Robert Mugabe Rd, Kadoma",47,Female,Kadoma,2022-07-12,71,92.87,High-Value,Neutral,93,No Action Required,False
+C137,Tatenda Marufu,tatenda.marufu86@example.co.zw,+263 717085452,"94 Samora Machel Ave, Victoria Falls",42,Female,Victoria Falls,2021-06-04,89,80.85,High-Value,Negative,90,No Action Required,False
+C138,Munashe Mhlanga,munashe.mhlanga71@example.co.zw,+263 744653809,"102 Fifth St, Rusape",33,Male,Rusape,2023-03-09,51,10.67,High-Value,Negative,29,No Action Required,False
+C139,Shamiso Sibanda,shamiso.sibanda59@example.co.zw,+263 770690570,"184 Samora Machel Ave, Bulawayo",59,Female,Bulawayo,2023-02-04,85,23.23,Loyal,Negative,53,No Action Required,False
+C140,Tendai Muchinguri,tendai.muchinguri11@example.co.zw,+263 717120292,"5 Robert Mugabe Rd, Chinhoyi",34,Female,Chinhoyi,2023-02-06,20,72.13,Low-Engagement,Positive,39,Provide Educational Content,False
+C141,Anesu Marufu,anesu.marufu19@example.co.zw,+263 715801900,"92 Jason Moyo Ave, Masvingo",51,Male,Masvingo,2022-03-15,12,25.28,High-Value,Positive,17,No Action Required,False
+C142,Precious Moyo,precious.moyo26@example.co.zw,+263 789917555,"136 Leopold Takawira St, Mutare",45,Female,Mutare,2022-02-21,86,74.02,High-Value,Positive,41,No Action Required,False
+C143,Faith Mabhena,faith.mabhena59@example.co.zw,+263 771182944,"80 Nelson Mandela Ave, Rusape",52,Female,Rusape,2022-12-30,54,71.36,At-Risk,Positive,36,Offer Discount,False
+C144,Tendai Mavhunga,tendai.mavhunga29@example.co.zw,+263 776187753,"73 Leopold Takawira St, Kwekwe",26,Male,Kwekwe,2022-04-25,97,9.46,Loyal,Negative,89,No Action Required,False
+C145,Tatenda Chigudu,tatenda.chigudu19@example.co.zw,+263 789801809,"2 Union Ave, Rusape",20,Female,Rusape,2021-12-28,16,34.54,Loyal,Positive,92,No Action Required,False
+C146,Tapiwa Muchinguri,tapiwa.muchinguri51@example.co.zw,+263 747245775,"6 Fifth St, Chinhoyi",57,Male,Chinhoyi,2023-02-13,58,13.93,High-Value,Negative,79,No Action Required,False
+C147,Nompilo Huni,nompilo.huni10@example.co.zw,+263 746668843,"70 Jason Moyo Ave, Rusape",53,Female,Rusape,2021-06-20,10,26.69,High-Value,Positive,91,No Action Required,False
+C148,Tawanda Chirwa,tawanda.chirwa25@example.co.zw,+263 739926007,"13 Jason Moyo Ave, Victoria Falls",25,Male,Victoria Falls,2022-05-01,25,14.74,High-Value,Positive,18,No Action Required,False
+C149,Tsitsi Makoni,tsitsi.makoni2@example.co.zw,+263 789826244,"185 Samora Machel Ave, Kadoma",48,Female,Kadoma,2021-06-10,30,77.49,Low-Engagement,Neutral,79,Send Follow-up Survey,False
+C150,Takudzwa Shumba,takudzwa.shumba62@example.co.zw,+263 730866834,"54 Samora Machel Ave, Bulawayo",33,Male,Bulawayo,2021-10-12,28,74.72,Low-Engagement,Positive,12,Provide Educational Content,False
+C151,Chido Mhlanga,chido.mhlanga83@example.co.zw,+263 715775524,"104 Enterprise Rd, Victoria Falls",42,Female,Victoria Falls,2021-09-29,57,55.21,At-Risk,Neutral,16,Send Personalized Email,False
+C152,Chiedza Mabhena,chiedza.mabhena32@example.co.zw,+263 776885179,"7 Union Ave, Gwanda",24,Female,Gwanda,2022-06-01,47,37.45,Loyal,Neutral,50,No Action Required,False
+C153,Chido Nyathi,chido.nyathi5@example.co.zw,+263 731111765,"48 Leopold Takawira St, Victoria Falls",58,Female,Victoria Falls,2022-05-09,40,57.2,At-Risk,Neutral,36,Schedule Call,False
+C154,Munashe Ncube,munashe.ncube22@example.co.zw,+263 741590048,"71 Fifth St, Bulawayo",65,Male,Bulawayo,2021-09-17,75,94.4,Loyal,Positive,66,No Action Required,False
+C155,Precious Muchena,precious.muchena97@example.co.zw,+263 776566523,"195 Leopold Takawira St, Gwanda",57,Female,Gwanda,2021-10-06,70,67.86,High-Value,Positive,83,No Action Required,False
+C156,Tsitsi Mutare,tsitsi.mutare4@example.co.zw,+263 714919278,"48 Nelson Mandela Ave, Mutare",25,Female,Mutare,2022-09-10,40,39.13,High-Value,Positive,64,No Action Required,False
+C157,Sekai Ncube,sekai.ncube66@example.co.zw,+263 717093260,"96 Leopold Takawira St, Rusape",59,Female,Rusape,2023-02-11,73,42.37,High-Value,Neutral,15,No Action Required,False
+C158,Tanaka Nkomo,tanaka.nkomo27@example.co.zw,+263 713030520,"88 Samora Machel Ave, Gwanda",32,Male,Gwanda,2023-01-17,5,55.53,At-Risk,Negative,99,Schedule Call,False
+C159,Shamiso Mabhena,shamiso.mabhena23@example.co.zw,+263 737478326,"156 Fifth St, Rusape",47,Female,Rusape,2023-01-02,36,19.09,Loyal,Neutral,85,No Action Required,False
+C160,Tendai Shumba,tendai.shumba74@example.co.zw,+263 732820376,"79 Enterprise Rd, Harare",36,Female,Harare,2022-11-17,8,85.88,Low-Engagement,Positive,48,Send Follow-up Survey,False
+C161,Innocent Mupanduki,innocent.mupanduki39@example.co.zw,+263 776616393,"167 Nelson Mandela Ave, Chinhoyi",34,Male,Chinhoyi,2021-07-26,90,4.26,Loyal,Neutral,37,No Action Required,False
+C162,Tawanda Gumbo,tawanda.gumbo57@example.co.zw,+263 715861333,"139 Leopold Takawira St, Gweru",49,Male,Gweru,2021-07-13,0,53.07,At-Risk,Neutral,31,Schedule Call,False
+C163,Tanaka Mguni,tanaka.mguni81@example.co.zw,+263 715173449,"6 Simon Mazorodze Rd, Masvingo",56,Male,Masvingo,2023-01-17,32,0.28,Loyal,Neutral,74,No Action Required,False
+C164,Tatenda Khumalo,tatenda.khumalo80@example.co.zw,+263 735333926,"25 Samora Machel Ave, Kwekwe",62,Female,Kwekwe,2022-12-13,16,79.12,Low-Engagement,Positive,67,Send Follow-up Survey,False
+C165,Takudzwa Masuku,takudzwa.masuku66@example.co.zw,+263 789489917,"124 Jason Moyo Ave, Gweru",32,Male,Gweru,2022-08-01,85,24.54,Loyal,Positive,82,No Action Required,False
+C166,Chiedza Shumba,chiedza.shumba32@example.co.zw,+263 733352775,"31 Enterprise Rd, Rusape",45,Female,Rusape,2023-03-21,42,10.9,Loyal,Negative,51,No Action Required,False
+C167,Anesu Mhlanga,anesu.mhlanga28@example.co.zw,+263 710865653,"46 Jason Moyo Ave, Mutare",34,Male,Mutare,2022-12-15,65,97.5,At-Risk,Negative,82,Offer Discount,False
+C168,Rudo Marufu,rudo.marufu68@example.co.zw,+263 748326513,"164 Simon Mazorodze Rd, Gweru",34,Female,Gweru,2021-06-23,73,18.66,Loyal,Negative,47,No Action Required,False
+C169,Chido Mhlanga,chido.mhlanga18@example.co.zw,+263 784609032,"127 Borrowdale Rd, Kwekwe",22,Female,Kwekwe,2021-09-13,14,78.95,Low-Engagement,Negative,87,Send Follow-up Survey,False
+C170,Nomusa Mutare,nomusa.mutare43@example.co.zw,+263 715626151,"97 Robert Mugabe Rd, Masvingo",55,Female,Masvingo,2022-02-22,100,34.14,High-Value,Positive,28,No Action Required,True
+C171,Memory Moyo,memory.moyo37@example.co.zw,+263 774653892,"158 Enterprise Rd, Rusape",49,Female,Rusape,2021-07-05,78,84.85,High-Value,Neutral,88,No Action Required,False
+C172,Kudakwashe Siziba,kudakwashe.siziba39@example.co.zw,+263 783922687,"102 Enterprise Rd, Gweru",32,Male,Gweru,2022-06-02,100,52.39,High-Value,Negative,55,No Action Required,True
+C173,Walter Chirwa,walter.chirwa60@example.co.zw,+263 743797334,"124 Leopold Takawira St, Harare",43,Male,Harare,2021-12-29,54,44.15,At-Risk,Negative,28,Offer Discount,False
+C174,Anesu Marufu,anesu.marufu42@example.co.zw,+263 743924823,"172 Fife Ave, Masvingo",26,Male,Masvingo,2022-08-05,64,87.99,At-Risk,Negative,90,Offer Discount,False
+C175,Liberty Muchinguri,liberty.muchinguri16@example.co.zw,+263 781031494,"162 Jason Moyo Ave, Bindura",56,Male,Bindura,2022-03-10,44,17.69,High-Value,Positive,95,No Action Required,True
+C176,Rufaro Ndlovu,rufaro.ndlovu82@example.co.zw,+263 774055179,"189 Samora Machel Ave, Gwanda",28,Female,Gwanda,2023-01-22,87,87.76,Loyal,Positive,16,No Action Required,False
+C177,Faith Siziba,faith.siziba58@example.co.zw,+263 710793679,"4 Simon Mazorodze Rd, Mutare",18,Female,Mutare,2023-03-03,23,55.7,At-Risk,Negative,4,Offer Discount,False
+C178,Tsitsi Chirwa,tsitsi.chirwa85@example.co.zw,+263 775851077,"134 Robert Mugabe Rd, Harare",28,Female,Harare,2021-08-28,15,73.33,Low-Engagement,Neutral,4,Provide Educational Content,False
+C179,Chiedza Moyo,chiedza.moyo8@example.co.zw,+263 713854009,"157 Samora Machel Ave, Gweru",40,Female,Gweru,2021-07-08,3,84.06,Low-Engagement,Negative,86,Provide Educational Content,False
+C180,Tapiwa Chirwa,tapiwa.chirwa81@example.co.zw,+263 730967077,"21 Enterprise Rd, Chinhoyi",41,Male,Chinhoyi,2021-07-21,33,83.54,At-Risk,Negative,22,Schedule Call,False
+C181,Mercy Chitima,mercy.chitima60@example.co.zw,+263 771109631,"174 Fifth St, Chinhoyi",31,Female,Chinhoyi,2022-01-14,71,93.05,Loyal,Negative,9,No Action Required,False
+C182,Anesu Marufu,anesu.marufu42@example.co.zw,+263 773782850,"95 Simon Mazorodze Rd, Victoria Falls",58,Male,Victoria Falls,2023-03-07,88,50.86,Loyal,Neutral,79,No Action Required,False
+C183,Walter Mashingaidze,walter.mashingaidze76@example.co.zw,+263 784380265,"19 Borrowdale Rd, Bulawayo",34,Male,Bulawayo,2022-06-14,56,97.59,At-Risk,Neutral,53,Offer Discount,False
+C184,Rudo Zwane,rudo.zwane10@example.co.zw,+263 739973309,"158 Third St, Masvingo",43,Female,Masvingo,2021-09-09,20,20.61,High-Value,Neutral,93,No Action Required,False
+C185,Tinashe Ncube,tinashe.ncube57@example.co.zw,+263 735279853,"51 Enterprise Rd, Bulawayo",18,Male,Bulawayo,2022-04-26,38,54.24,At-Risk,Positive,37,Offer Discount,False
+C186,Nyarai Huni,nyarai.huni64@example.co.zw,+263 784152751,"93 Robert Mugabe Rd, Harare",37,Female,Harare,2022-12-31,14,46.17,At-Risk,Neutral,85,Send Personalized Email,False
+C187,Tawanda Marufu,tawanda.marufu56@example.co.zw,+263 742192637,"60 Samora Machel Ave, Bindura",33,Male,Bindura,2022-06-25,74,8.19,High-Value,Positive,0,No Action Required,False
+C188,Tatenda Ndlovu,tatenda.ndlovu83@example.co.zw,+263 731784684,"105 Fifth St, Kadoma",33,Female,Kadoma,2021-11-21,2,74.45,Low-Engagement,Positive,16,Provide Educational Content,False
+C189,Liberty Mashingaidze,liberty.mashingaidze65@example.co.zw,+263 717525813,"9 Simon Mazorodze Rd, Masvingo",50,Male,Masvingo,2021-10-11,5,15.24,Loyal,Positive,28,No Action Required,False
+C190,Tendai Sibanda,tendai.sibanda90@example.co.zw,+263 786408372,"61 Fifth St, Gwanda",62,Male,Gwanda,2021-07-13,61,2.74,High-Value,Positive,64,No Action Required,False
+C191,Tafadzwa Mabhena,tafadzwa.mabhena11@example.co.zw,+263 716298846,"124 Leopold Takawira St, Kadoma",44,Male,Kadoma,2022-09-07,48,63.31,At-Risk,Neutral,82,Send Personalized Email,False
+C192,Tatenda Chirwa,tatenda.chirwa4@example.co.zw,+263 712871582,"74 Third St, Gweru",44,Female,Gweru,2021-06-01,81,42.31,High-Value,Positive,65,No Action Required,False
+C193,Farai Chitima,farai.chitima82@example.co.zw,+263 733999451,"128 Third St, Chinhoyi",60,Male,Chinhoyi,2022-05-15,41,43.35,At-Risk,Positive,61,Schedule Call,False
+C194,Tapiwa Chikwanda,tapiwa.chikwanda94@example.co.zw,+263 730975178,"104 Borrowdale Rd, Bindura",57,Male,Bindura,2021-08-11,98,63.92,Loyal,Negative,54,No Action Required,False
+C195,Munashe Muchinguri,munashe.muchinguri44@example.co.zw,+263 741664724,"59 Samora Machel Ave, Bulawayo",35,Male,Bulawayo,2021-06-04,55,33.95,Loyal,Neutral,100,No Action Required,False
+C196,Tsitsi Marufu,tsitsi.marufu67@example.co.zw,+263 743388000,"77 Nelson Mandela Ave, Gwanda",60,Female,Gwanda,2023-05-22,19,83.17,Low-Engagement,Neutral,68,Send Follow-up Survey,False
+C197,Chido Moyo,chido.moyo68@example.co.zw,+263 715314362,"66 George Silundika Ave, Bindura",39,Female,Bindura,2022-08-13,67,51.48,At-Risk,Neutral,80,Send Personalized Email,False
+C198,Sekai Mhlanga,sekai.mhlanga35@example.co.zw,+263 719269022,"8 Jason Moyo Ave, Bindura",22,Female,Bindura,2023-01-27,96,78.44,Loyal,Positive,13,No Action Required,False
+C199,Tsitsi Chirwa,tsitsi.chirwa72@example.co.zw,+263 773481304,"34 Robert Mugabe Rd, Masvingo",25,Female,Masvingo,2022-03-25,34,89.87,At-Risk,Neutral,27,Schedule Call,False
+C200,Innocent Mathe,innocent.mathe34@example.co.zw,+263 737827455,"166 Leopold Takawira St, Mutare",44,Male,Mutare,2021-09-16,14,10.78,Loyal,Negative,30,No Action Required,False
+C201,Walter Chikwanda,walter.chikwanda18@example.co.zw,+263 734001378,"71 Enterprise Rd, Gwanda",32,Male,Gwanda,2021-12-16,12,79.6,Low-Engagement,Neutral,81,Send Follow-up Survey,False
+C202,Brenda Huni,brenda.huni80@example.co.zw,+263 777202071,"89 Jason Moyo Ave, Kwekwe",39,Female,Kwekwe,2021-12-19,87,13.61,Loyal,Neutral,18,No Action Required,False
+C203,Liberty Ncube,liberty.ncube21@example.co.zw,+263 738503174,"20 Fife Ave, Rusape",39,Male,Rusape,2022-05-31,2,69.9,Low-Engagement,Positive,27,Provide Educational Content,False
+C204,Blessing Khumalo,blessing.khumalo44@example.co.zw,+263 777278932,"39 Robert Mugabe Rd, Kwekwe",38,Male,Kwekwe,2022-12-27,48,0.69,High-Value,Negative,34,No Action Required,False
+C205,Munashe Sibanda,munashe.sibanda14@example.co.zw,+263 715907427,"76 Enterprise Rd, Gweru",29,Male,Gweru,2023-01-10,16,17.47,High-Value,Negative,51,No Action Required,True
+C206,Tafadzwa Mavhunga,tafadzwa.mavhunga80@example.co.zw,+263 746955670,"175 Fifth St, Mutare",18,Male,Mutare,2022-09-17,91,34.14,High-Value,Neutral,36,No Action Required,False
+C207,Rudo Dube,rudo.dube1@example.co.zw,+263 789735276,"145 Third St, Gwanda",53,Female,Gwanda,2022-12-03,30,48.17,At-Risk,Negative,75,Offer Discount,False
+C208,Tapiwa Sibanda,tapiwa.sibanda64@example.co.zw,+263 718634639,"6 Third St, Gwanda",23,Male,Gwanda,2023-03-13,64,62.11,At-Risk,Positive,42,Offer Discount,False
+C209,Takudzwa Dlamini,takudzwa.dlamini78@example.co.zw,+263 744427855,"42 Nelson Mandela Ave, Masvingo",62,Male,Masvingo,2021-09-30,24,43.61,At-Risk,Negative,75,Schedule Call,False
+C210,Tsitsi Mandaza,tsitsi.mandaza72@example.co.zw,+263 743880118,"71 Enterprise Rd, Gweru",52,Female,Gweru,2021-11-01,65,40.33,At-Risk,Negative,98,Offer Discount,False
+C211,Kudakwashe Gumbo,kudakwashe.gumbo62@example.co.zw,+263 770239788,"122 Simon Mazorodze Rd, Kwekwe",26,Male,Kwekwe,2022-05-13,92,98.45,Loyal,Positive,68,No Action Required,False
+C212,Faith Mupanduki,faith.mupanduki8@example.co.zw,+263 717482178,"66 Borrowdale Rd, Gwanda",42,Female,Gwanda,2022-05-10,33,52.57,At-Risk,Negative,62,Schedule Call,False
+C213,Nomusa Mudenda,nomusa.mudenda19@example.co.zw,+263 785746536,"10 Nelson Mandela Ave, Kadoma",43,Female,Kadoma,2022-12-05,69,31.57,Loyal,Negative,35,No Action Required,False
+C214,Sekai Mhlanga,sekai.mhlanga74@example.co.zw,+263 741582522,"136 Simon Mazorodze Rd, Bulawayo",34,Female,Bulawayo,2022-12-13,46,73.17,At-Risk,Neutral,11,Schedule Call,False
+C215,Simba Nyathi,simba.nyathi82@example.co.zw,+263 773583389,"102 Borrowdale Rd, Harare",39,Male,Harare,2022-01-08,57,76.24,At-Risk,Positive,46,Send Personalized Email,True
+C216,Tsitsi Chigudu,tsitsi.chigudu71@example.co.zw,+263 718768914,"86 Leopold Takawira St, Harare",30,Female,Harare,2023-05-22,9,85.98,Low-Engagement,Negative,68,Provide Educational Content,True
+C217,Chido Moyo,chido.moyo55@example.co.zw,+263 719358449,"136 Union Ave, Kadoma",36,Female,Kadoma,2023-03-21,59,24.56,Loyal,Negative,89,No Action Required,False
+C218,Tanaka Chigudu,tanaka.chigudu7@example.co.zw,+263 773824272,"151 Fifth St, Kadoma",44,Male,Kadoma,2021-06-21,85,75.8,High-Value,Negative,97,No Action Required,False
+C219,Sekai Mavhunga,sekai.mavhunga57@example.co.zw,+263 780712497,"22 George Silundika Ave, Bulawayo",45,Female,Bulawayo,2021-11-13,47,34.24,Loyal,Neutral,44,No Action Required,False
+C220,Anesu Mathe,anesu.mathe92@example.co.zw,+263 710841835,"193 Enterprise Rd, Kadoma",62,Male,Kadoma,2021-06-15,72,9.82,Loyal,Positive,29,No Action Required,False
+C221,Chido Huni,chido.huni69@example.co.zw,+263 711177352,"61 Enterprise Rd, Harare",45,Female,Harare,2022-09-03,66,18.08,Loyal,Negative,45,No Action Required,False
+C222,Rufaro Sibanda,rufaro.sibanda54@example.co.zw,+263 784972151,"32 George Silundika Ave, Masvingo",48,Female,Masvingo,2023-02-18,73,74.93,Loyal,Negative,13,No Action Required,False
+C223,Mercy Chigwedere,mercy.chigwedere44@example.co.zw,+263 710153437,"181 Samora Machel Ave, Mutare",24,Female,Mutare,2023-02-12,62,9.84,High-Value,Neutral,36,No Action Required,False
+C224,Rudo Sibanda,rudo.sibanda91@example.co.zw,+263 736888427,"9 Simon Mazorodze Rd, Kadoma",30,Female,Kadoma,2022-07-21,50,84.02,At-Risk,Neutral,42,Offer Discount,False
+C225,Nomusa Zwane,nomusa.zwane57@example.co.zw,+263 717358061,"85 Simon Mazorodze Rd, Harare",64,Female,Harare,2023-03-01,12,95.52,Low-Engagement,Positive,91,Send Follow-up Survey,False
+C226,Blessing Mutare,blessing.mutare50@example.co.zw,+263 783119020,"157 Robert Mugabe Rd, Bulawayo",37,Male,Bulawayo,2022-10-10,68,99.77,At-Risk,Positive,15,Offer Discount,False
+C227,Tanaka Zinyama,tanaka.zinyama74@example.co.zw,+263 719440885,"139 Samora Machel Ave, Rusape",33,Male,Rusape,2022-08-06,82,80.91,High-Value,Negative,81,No Action Required,False
+C228,Tsitsi Muchena,tsitsi.muchena99@example.co.zw,+263 779101012,"153 Union Ave, Kadoma",27,Female,Kadoma,2022-12-17,59,7.69,Loyal,Positive,36,No Action Required,False
+C229,Rufaro Mhlanga,rufaro.mhlanga82@example.co.zw,+263 783372308,"148 Nelson Mandela Ave, Chinhoyi",23,Female,Chinhoyi,2021-10-15,77,83.58,Loyal,Neutral,98,No Action Required,False
+C230,Pride Shumba,pride.shumba71@example.co.zw,+263 714686567,"57 Third St, Bindura",29,Male,Bindura,2021-09-30,84,44.51,High-Value,Neutral,32,No Action Required,False
+C231,Tatenda Dube,tatenda.dube66@example.co.zw,+263 716765481,"116 Nelson Mandela Ave, Masvingo",50,Female,Masvingo,2021-12-09,25,0.84,Loyal,Neutral,66,No Action Required,False
+C232,Takudzwa Zwane,takudzwa.zwane15@example.co.zw,+263 743727925,"146 Third St, Bulawayo",43,Male,Bulawayo,2021-07-13,2,83.72,Low-Engagement,Negative,86,Provide Educational Content,False
+C233,Tsitsi Khumalo,tsitsi.khumalo14@example.co.zw,+263 778656405,"177 Leopold Takawira St, Rusape",21,Female,Rusape,2021-09-14,24,9.12,Loyal,Negative,9,No Action Required,False
+C234,Takudzwa Ndlovu,takudzwa.ndlovu53@example.co.zw,+263 748280827,"200 Simon Mazorodze Rd, Bulawayo",59,Male,Bulawayo,2023-03-09,64,64.05,At-Risk,Positive,0,Offer Discount,False
+C235,Blessing Mandaza,blessing.mandaza98@example.co.zw,+263 740709435,"44 Fifth St, Mutare",43,Male,Mutare,2021-12-29,80,72.7,Loyal,Negative,8,No Action Required,False
+C236,Prosper Moyo,prosper.moyo17@example.co.zw,+263 786600473,"144 Borrowdale Rd, Mutare",46,Male,Mutare,2021-12-17,81,33.08,High-Value,Neutral,94,No Action Required,False
+C237,Tawanda Mandaza,tawanda.mandaza54@example.co.zw,+263 712226347,"171 Enterprise Rd, Chinhoyi",45,Male,Chinhoyi,2021-10-22,34,35.14,High-Value,Neutral,1,No Action Required,False
+C238,Anesu Chitima,anesu.chitima56@example.co.zw,+263 747494026,"117 Leopold Takawira St, Chinhoyi",50,Male,Chinhoyi,2022-04-20,43,91.86,At-Risk,Positive,61,Offer Discount,False
+C239,Takudzwa Ndlovu,takudzwa.ndlovu70@example.co.zw,+263 732347584,"187 Samora Machel Ave, Victoria Falls",39,Male,Victoria Falls,2022-08-13,32,39.45,High-Value,Negative,42,No Action Required,False
+C240,Nyarai Marufu,nyarai.marufu5@example.co.zw,+263 736932886,"170 Leopold Takawira St, Gweru",49,Female,Gweru,2022-10-01,72,82.7,High-Value,Neutral,67,No Action Required,False
+C241,Sekai Mguni,sekai.mguni38@example.co.zw,+263 719635373,"105 Jason Moyo Ave, Chinhoyi",20,Female,Chinhoyi,2022-01-31,3,95.14,Low-Engagement,Neutral,67,Send Follow-up Survey,False
+C242,Blessing Musara,blessing.musara80@example.co.zw,+263 739638364,"4 Nelson Mandela Ave, Chinhoyi",64,Male,Chinhoyi,2022-01-22,37,42.5,At-Risk,Negative,71,Schedule Call,False
+C243,Takudzwa Ncube,takudzwa.ncube47@example.co.zw,+263 745804648,"48 Samora Machel Ave, Gwanda",58,Male,Gwanda,2021-11-13,72,34.12,Loyal,Neutral,66,No Action Required,False
+C244,Brenda Chikwanda,brenda.chikwanda17@example.co.zw,+263 712714808,"55 Enterprise Rd, Kadoma",35,Female,Kadoma,2023-03-12,8,50.38,At-Risk,Negative,3,Offer Discount,False
+C245,Fadzai Mudenda,fadzai.mudenda74@example.co.zw,+263 730938919,"7 Nelson Mandela Ave, Bulawayo",36,Female,Bulawayo,2022-05-08,59,6.76,High-Value,Neutral,93,No Action Required,False
+C246,Nyarai Masuku,nyarai.masuku24@example.co.zw,+263 731094728,"117 Simon Mazorodze Rd, Gwanda",44,Female,Gwanda,2023-02-17,83,78.31,High-Value,Neutral,60,No Action Required,False
+C247,Liberty Mathe,liberty.mathe62@example.co.zw,+263 772288479,"172 Nelson Mandela Ave, Chinhoyi",55,Male,Chinhoyi,2022-05-16,8,43.74,At-Risk,Negative,15,Send Personalized Email,False
+C248,Munashe Mashingaidze,munashe.mashingaidze35@example.co.zw,+263 748351024,"15 Simon Mazorodze Rd, Gwanda",22,Male,Gwanda,2023-03-19,56,22.24,High-Value,Neutral,45,No Action Required,True
+C249,Brenda Mutare,brenda.mutare69@example.co.zw,+263 710004622,"102 Union Ave, Rusape",26,Female,Rusape,2022-10-19,16,18.09,High-Value,Positive,47,No Action Required,False
+C250,Liberty Moyo,liberty.moyo76@example.co.zw,+263 785999287,"27 Enterprise Rd, Masvingo",51,Male,Masvingo,2021-10-31,87,65.97,High-Value,Negative,60,No Action Required,False
+C251,Tapiwa Mupanduki,tapiwa.mupanduki91@example.co.zw,+263 789883899,"47 Enterprise Rd, Rusape",64,Male,Rusape,2022-09-03,67,97.72,At-Risk,Positive,65,Schedule Call,False
+C252,Tawanda Nyathi,tawanda.nyathi77@example.co.zw,+263 737027093,"32 George Silundika Ave, Mutare",20,Male,Mutare,2022-11-01,79,54.48,High-Value,Positive,88,No Action Required,False
+C253,Pride Mavhunga,pride.mavhunga99@example.co.zw,+263 780475628,"131 Fifth St, Gweru",26,Male,Gweru,2021-10-04,62,42.32,At-Risk,Negative,56,Offer Discount,False
+C254,Tariro Chikwanda,tariro.chikwanda61@example.co.zw,+263 733902070,"142 Robert Mugabe Rd, Bulawayo",33,Female,Bulawayo,2021-09-01,99,33.7,Loyal,Negative,13,No Action Required,False
+C255,Farai Masuku,farai.masuku59@example.co.zw,+263 775828778,"54 Jason Moyo Ave, Rusape",56,Male,Rusape,2022-09-27,3,80.94,Low-Engagement,Positive,50,Send Follow-up Survey,True
+C256,Rudo Mutare,rudo.mutare31@example.co.zw,+263 717668299,"108 Union Ave, Victoria Falls",21,Female,Victoria Falls,2021-11-20,45,9.88,Loyal,Negative,82,No Action Required,True
+C257,Brenda Mhlanga,brenda.mhlanga16@example.co.zw,+263 746684857,"128 Fifth St, Rusape",26,Female,Rusape,2022-02-16,49,62.47,At-Risk,Neutral,95,Offer Discount,False
+C258,Nompilo Mhlanga,nompilo.mhlanga65@example.co.zw,+263 772995205,"39 Leopold Takawira St, Bulawayo",62,Female,Bulawayo,2022-04-19,30,70.62,Low-Engagement,Neutral,78,Send Follow-up Survey,False
+C259,Shamiso Shumba,shamiso.shumba7@example.co.zw,+263 782531854,"115 Enterprise Rd, Rusape",21,Female,Rusape,2022-04-06,67,50.26,At-Risk,Negative,18,Send Personalized Email,False
+C260,Shamiso Chirwa,shamiso.chirwa57@example.co.zw,+263 785620603,"20 Fifth St, Bulawayo",63,Female,Bulawayo,2022-03-29,80,84.89,High-Value,Negative,6,No Action Required,False
+C261,Tatenda Makoni,tatenda.makoni84@example.co.zw,+263 781752147,"183 George Silundika Ave, Kwekwe",20,Female,Kwekwe,2022-04-29,9,76.26,Low-Engagement,Positive,90,Provide Educational Content,False
+C262,Blessing Mandaza,blessing.mandaza95@example.co.zw,+263 710734346,"195 Simon Mazorodze Rd, Gweru",32,Male,Gweru,2021-11-29,78,86.39,Loyal,Positive,82,No Action Required,False
+C263,Precious Muchinguri,precious.muchinguri67@example.co.zw,+263 744775732,"88 Union Ave, Kwekwe",31,Female,Kwekwe,2022-11-16,31,46.6,At-Risk,Negative,50,Schedule Call,False
+C264,Rudo Gumbo,rudo.gumbo41@example.co.zw,+263 747695449,"75 Borrowdale Rd, Mutare",38,Female,Mutare,2022-10-24,73,54.73,Loyal,Neutral,45,No Action Required,False
+C265,Walter Moyo,walter.moyo74@example.co.zw,+263 785995882,"69 Robert Mugabe Rd, Mutare",37,Male,Mutare,2022-08-01,85,23.07,High-Value,Neutral,80,No Action Required,False
+C266,Innocent Chitima,innocent.chitima42@example.co.zw,+263 738932317,"183 Enterprise Rd, Bulawayo",61,Male,Bulawayo,2021-10-02,81,13.4,Loyal,Positive,66,No Action Required,False
+C267,Tsitsi Ndlovu,tsitsi.ndlovu70@example.co.zw,+263 730924663,"167 Fifth St, Gwanda",56,Female,Gwanda,2021-08-10,41,88.41,At-Risk,Positive,67,Schedule Call,False
+C268,Nomusa Dube,nomusa.dube84@example.co.zw,+263 786617188,"4 Simon Mazorodze Rd, Chinhoyi",63,Female,Chinhoyi,2021-10-14,58,60.0,At-Risk,Positive,78,Schedule Call,False
+C269,Tanaka Sibanda,tanaka.sibanda12@example.co.zw,+263 711354310,"138 Union Ave, Harare",58,Male,Harare,2023-03-27,93,98.22,High-Value,Neutral,66,No Action Required,False
+C270,Tawanda Moyo,tawanda.moyo89@example.co.zw,+263 783664177,"83 Third St, Gweru",59,Male,Gweru,2022-10-06,43,41.4,At-Risk,Negative,90,Offer Discount,False
+C271,Nomusa Mathe,nomusa.mathe36@example.co.zw,+263 748447825,"15 Jason Moyo Ave, Bulawayo",61,Female,Bulawayo,2023-01-05,40,34.13,Loyal,Positive,41,No Action Required,False
+C272,Tinashe Ncube,tinashe.ncube37@example.co.zw,+263 715839734,"22 Robert Mugabe Rd, Rusape",65,Male,Rusape,2022-09-06,84,72.11,High-Value,Positive,16,No Action Required,False
+C273,Prosper Gumbo,prosper.gumbo70@example.co.zw,+263 775852049,"78 Jason Moyo Ave, Gwanda",18,Male,Gwanda,2023-05-18,57,94.06,At-Risk,Negative,65,Schedule Call,False
+C274,Tsitsi Mudenda,tsitsi.mudenda97@example.co.zw,+263 744800444,"173 Fifth St, Mutare",59,Female,Mutare,2022-06-27,36,13.9,Loyal,Neutral,25,No Action Required,False
+C275,Farai Mandaza,farai.mandaza44@example.co.zw,+263 710718250,"157 Leopold Takawira St, Gwanda",49,Male,Gwanda,2021-06-05,56,14.25,Loyal,Positive,88,No Action Required,False
+C276,Liberty Chigwedere,liberty.chigwedere53@example.co.zw,+263 741668882,"145 Jason Moyo Ave, Masvingo",49,Male,Masvingo,2021-11-22,38,68.41,At-Risk,Neutral,83,Offer Discount,False
+C277,Tendai Ncube,tendai.ncube46@example.co.zw,+263 748905035,"1 Samora Machel Ave, Gweru",38,Female,Gweru,2022-10-21,2,19.97,Loyal,Negative,4,No Action Required,False
+C278,Anesu Muchinguri,anesu.muchinguri79@example.co.zw,+263 789625253,"200 Simon Mazorodze Rd, Harare",53,Male,Harare,2022-10-09,29,93.4,Low-Engagement,Negative,14,Send Follow-up Survey,False
+C279,Pride Mupanduki,pride.mupanduki59@example.co.zw,+263 789057617,"99 Simon Mazorodze Rd, Harare",55,Male,Harare,2021-09-06,77,52.42,High-Value,Neutral,91,No Action Required,False
+C280,Mercy Mguni,mercy.mguni59@example.co.zw,+263 771975570,"193 Samora Machel Ave, Kadoma",39,Female,Kadoma,2022-04-25,91,24.15,Loyal,Neutral,75,No Action Required,False
+C281,Anesu Sibanda,anesu.sibanda47@example.co.zw,+263 748903017,"16 Enterprise Rd, Mutare",60,Male,Mutare,2022-05-10,72,42.78,Loyal,Negative,97,No Action Required,False
+C282,Tawanda Sibanda,tawanda.sibanda59@example.co.zw,+263 715324750,"91 Third St, Kwekwe",24,Male,Kwekwe,2021-06-25,67,2.53,High-Value,Negative,8,No Action Required,False
+C283,Munashe Chitima,munashe.chitima4@example.co.zw,+263 718166047,"106 Fife Ave, Victoria Falls",28,Male,Victoria Falls,2021-08-10,58,25.68,Loyal,Negative,31,No Action Required,False
+C284,Simba Sibanda,simba.sibanda28@example.co.zw,+263 742280436,"85 Third St, Kwekwe",61,Male,Kwekwe,2021-08-12,63,65.13,At-Risk,Negative,40,Schedule Call,False
+C285,Tatenda Musara,tatenda.musara78@example.co.zw,+263 789304034,"57 Jason Moyo Ave, Gwanda",50,Female,Gwanda,2021-12-22,36,98.57,At-Risk,Negative,89,Offer Discount,False
+C286,Prosper Muchinguri,prosper.muchinguri69@example.co.zw,+263 739726325,"139 Fifth St, Gwanda",35,Male,Gwanda,2021-07-07,55,91.86,At-Risk,Positive,66,Offer Discount,False
+C287,Munashe Chirwa,munashe.chirwa68@example.co.zw,+263 730266583,"143 Third St, Mutare",25,Male,Mutare,2022-01-27,27,68.97,Low-Engagement,Negative,49,Provide Educational Content,False
+C288,Pride Siziba,pride.siziba6@example.co.zw,+263 747844531,"121 Simon Mazorodze Rd, Chinhoyi",57,Male,Chinhoyi,2022-01-08,71,72.79,Loyal,Neutral,33,No Action Required,False
+C289,Munashe Chigudu,munashe.chigudu85@example.co.zw,+263 735103749,"18 Nelson Mandela Ave, Kwekwe",46,Male,Kwekwe,2022-09-21,48,41.07,At-Risk,Positive,10,Offer Discount,False
+C290,Memory Chikwanda,memory.chikwanda92@example.co.zw,+263 783979463,"68 Simon Mazorodze Rd, Chinhoyi",27,Female,Chinhoyi,2021-09-17,41,4.55,Loyal,Negative,30,No Action Required,False
+C291,Farai Chigudu,farai.chigudu35@example.co.zw,+263 710962746,"136 Borrowdale Rd, Bulawayo",37,Male,Bulawayo,2022-11-16,2,83.57,Low-Engagement,Positive,12,Provide Educational Content,False
+C292,Tsitsi Chikwanda,tsitsi.chikwanda87@example.co.zw,+263 776411366,"157 Samora Machel Ave, Chinhoyi",64,Female,Chinhoyi,2022-02-25,84,17.04,Loyal,Negative,3,No Action Required,False
+C293,Tapiwa Makoni,tapiwa.makoni65@example.co.zw,+263 781929451,"22 Union Ave, Victoria Falls",30,Male,Victoria Falls,2022-12-19,54,98.16,At-Risk,Positive,68,Offer Discount,False
+C294,Nyarai Masuku,nyarai.masuku82@example.co.zw,+263 786587904,"106 Fife Ave, Kwekwe",58,Female,Kwekwe,2022-04-25,64,68.94,At-Risk,Negative,19,Send Personalized Email,False
+C295,Takudzwa Khumalo,takudzwa.khumalo67@example.co.zw,+263 778182288,"179 Third St, Chinhoyi",61,Male,Chinhoyi,2022-05-29,58,32.61,Loyal,Positive,97,No Action Required,False
+C296,Lisa Chikwanda,lisa.chikwanda19@example.co.zw,+263 712591536,"188 Third St, Kwekwe",33,Female,Kwekwe,2021-08-17,74,74.36,Loyal,Negative,67,No Action Required,False
+C297,Farai Chigwedere,farai.chigwedere70@example.co.zw,+263 782806412,"101 Jason Moyo Ave, Masvingo",65,Male,Masvingo,2023-04-05,50,39.49,High-Value,Positive,98,No Action Required,True
+C298,Admire Muchena,admire.muchena45@example.co.zw,+263 770212784,"172 Robert Mugabe Rd, Gwanda",22,Male,Gwanda,2022-07-30,59,30.56,High-Value,Positive,32,No Action Required,False
+C299,Chiedza Nkomo,chiedza.nkomo80@example.co.zw,+263 782577653,"104 Third St, Bindura",37,Female,Bindura,2021-08-21,24,30.4,Loyal,Positive,19,No Action Required,False
+C300,Faith Siziba,faith.siziba93@example.co.zw,+263 749481873,"5 Fifth St, Masvingo",57,Female,Masvingo,2022-06-09,10,56.72,At-Risk,Positive,77,Offer Discount,False
+C301,Chido Mhlanga,chido.mhlanga48@example.co.zw,+263 712497215,"15 George Silundika Ave, Bulawayo",27,Female,Bulawayo,2022-11-30,70,62.6,High-Value,Negative,32,No Action Required,False
+C302,Innocent Marufu,innocent.marufu74@example.co.zw,+263 781204056,"160 Samora Machel Ave, Masvingo",62,Male,Masvingo,2022-09-24,38,89.7,At-Risk,Positive,98,Schedule Call,False
+C303,Walter Muchinguri,walter.muchinguri25@example.co.zw,+263 731405963,"196 Robert Mugabe Rd, Chinhoyi",56,Male,Chinhoyi,2022-02-13,73,30.28,Loyal,Positive,74,No Action Required,False
+C304,Tsitsi Chikwanda,tsitsi.chikwanda20@example.co.zw,+263 716657540,"37 George Silundika Ave, Gweru",29,Female,Gweru,2022-12-21,18,52.75,At-Risk,Neutral,65,Send Personalized Email,False
+C305,Tendai Mhlanga,tendai.mhlanga66@example.co.zw,+263 770051715,"181 Jason Moyo Ave, Victoria Falls",38,Female,Victoria Falls,2023-01-19,41,55.22,At-Risk,Neutral,5,Offer Discount,False
+C306,Nomusa Mguni,nomusa.mguni92@example.co.zw,+263 747692783,"121 Union Ave, Bindura",48,Female,Bindura,2022-12-01,24,89.07,Low-Engagement,Negative,13,Provide Educational Content,False
+C307,Tawanda Mabhena,tawanda.mabhena98@example.co.zw,+263 782267507,"10 Robert Mugabe Rd, Gwanda",47,Male,Gwanda,2021-11-20,26,2.97,High-Value,Negative,14,No Action Required,False
+C308,Tafadzwa Mhlanga,tafadzwa.mhlanga70@example.co.zw,+263 730957626,"45 Simon Mazorodze Rd, Mutare",36,Male,Mutare,2022-03-27,35,40.26,At-Risk,Negative,2,Schedule Call,False
+C309,Memory Sibanda,memory.sibanda39@example.co.zw,+263 732925199,"40 Fife Ave, Kadoma",44,Female,Kadoma,2023-03-26,19,51.67,At-Risk,Negative,78,Schedule Call,False
+C310,Memory Mavhunga,memory.mavhunga82@example.co.zw,+263 719860692,"144 Leopold Takawira St, Kadoma",51,Female,Kadoma,2021-08-01,75,59.76,High-Value,Negative,87,No Action Required,False
+C311,Munashe Muchena,munashe.muchena29@example.co.zw,+263 718872063,"165 Leopold Takawira St, Bulawayo",43,Male,Bulawayo,2022-10-18,37,98.45,At-Risk,Negative,9,Schedule Call,False
+C312,Tsitsi Chigwedere,tsitsi.chigwedere35@example.co.zw,+263 784452391,"58 Samora Machel Ave, Kwekwe",32,Female,Kwekwe,2021-10-17,76,62.61,Loyal,Negative,47,No Action Required,False
+C313,Admire Chitima,admire.chitima92@example.co.zw,+263 774586378,"141 George Silundika Ave, Masvingo",28,Male,Masvingo,2022-01-27,4,82.43,Low-Engagement,Negative,47,Send Follow-up Survey,False
+C314,Innocent Gumbo,innocent.gumbo25@example.co.zw,+263 714905638,"50 Borrowdale Rd, Kwekwe",65,Male,Kwekwe,2023-01-16,68,76.58,At-Risk,Negative,98,Offer Discount,False
+C315,Shamiso Chirwa,shamiso.chirwa17@example.co.zw,+263 785656678,"58 Fifth St, Chinhoyi",31,Female,Chinhoyi,2021-08-20,45,36.7,Loyal,Negative,33,No Action Required,False
+C316,Farai Musara,farai.musara25@example.co.zw,+263 778614539,"138 Nelson Mandela Ave, Chinhoyi",37,Male,Chinhoyi,2021-06-27,52,37.22,Loyal,Neutral,69,No Action Required,True
+C317,Sekai Chirwa,sekai.chirwa89@example.co.zw,+263 739916874,"175 Fife Ave, Bulawayo",63,Female,Bulawayo,2021-07-11,15,91.73,Low-Engagement,Neutral,77,Provide Educational Content,False
+C318,Tsitsi Mutare,tsitsi.mutare27@example.co.zw,+263 736479834,"44 Simon Mazorodze Rd, Gweru",32,Female,Gweru,2023-01-15,68,82.88,At-Risk,Negative,56,Schedule Call,False
+C319,Faith Mutare,faith.mutare97@example.co.zw,+263 785544600,"41 Enterprise Rd, Mutare",46,Female,Mutare,2023-04-14,35,16.78,Loyal,Positive,3,No Action Required,False
+C320,Mercy Chirwa,mercy.chirwa90@example.co.zw,+263 777234968,"83 Samora Machel Ave, Gwanda",47,Female,Gwanda,2022-08-10,51,17.2,Loyal,Neutral,12,No Action Required,False
+C321,Farai Sibanda,farai.sibanda30@example.co.zw,+263 776283016,"194 Leopold Takawira St, Bindura",64,Male,Bindura,2022-06-01,68,17.78,Loyal,Neutral,50,No Action Required,False
+C322,Anesu Moyo,anesu.moyo98@example.co.zw,+263 710207848,"32 Fife Ave, Bulawayo",42,Male,Bulawayo,2022-09-22,1,64.02,Low-Engagement,Neutral,64,Provide Educational Content,False
+C323,Munashe Mguni,munashe.mguni66@example.co.zw,+263 737839324,"62 Fife Ave, Harare",42,Male,Harare,2022-01-07,47,10.18,High-Value,Neutral,75,No Action Required,False
+C324,Nyarai Ndlovu,nyarai.ndlovu3@example.co.zw,+263 736053532,"156 Union Ave, Chinhoyi",20,Female,Chinhoyi,2022-11-26,41,14.45,High-Value,Neutral,33,No Action Required,False
+C325,Chiedza Gumbo,chiedza.gumbo12@example.co.zw,+263 739158489,"102 Fife Ave, Chinhoyi",33,Female,Chinhoyi,2023-05-16,74,98.07,High-Value,Negative,99,No Action Required,True
+C326,Kudakwashe Mavhunga,kudakwashe.mavhunga97@example.co.zw,+263 749648677,"132 Borrowdale Rd, Kadoma",19,Male,Kadoma,2022-03-26,38,53.86,At-Risk,Neutral,30,Offer Discount,False
+C327,Prosper Huni,prosper.huni12@example.co.zw,+263 732064237,"5 Union Ave, Mutare",41,Male,Mutare,2022-12-31,100,25.23,High-Value,Positive,89,No Action Required,False
+C328,Tatenda Moyo,tatenda.moyo3@example.co.zw,+263 787604212,"97 Jason Moyo Ave, Gwanda",65,Female,Gwanda,2022-12-24,34,63.87,At-Risk,Positive,36,Offer Discount,False
+C329,Farai Ndlovu,farai.ndlovu95@example.co.zw,+263 788179965,"80 Third St, Mutare",18,Male,Mutare,2022-01-29,73,84.77,High-Value,Positive,3,No Action Required,False
+C330,Rudo Marufu,rudo.marufu27@example.co.zw,+263 776683957,"45 Fife Ave, Masvingo",53,Female,Masvingo,2021-11-08,68,23.46,Loyal,Negative,17,No Action Required,True
+C331,Tinashe Moyo,tinashe.moyo16@example.co.zw,+263 782721537,"62 Enterprise Rd, Kadoma",34,Male,Kadoma,2023-01-30,100,65.43,High-Value,Neutral,75,No Action Required,False
+C332,Innocent Masuku,innocent.masuku3@example.co.zw,+263 744307084,"182 Third St, Bulawayo",42,Male,Bulawayo,2022-07-04,49,14.1,High-Value,Positive,48,No Action Required,False
+C333,Blessing Marufu,blessing.marufu13@example.co.zw,+263 746189751,"7 Samora Machel Ave, Gweru",43,Male,Gweru,2023-04-25,68,25.15,High-Value,Negative,73,No Action Required,False
+C334,Takudzwa Mandaza,takudzwa.mandaza99@example.co.zw,+263 786184288,"157 Robert Mugabe Rd, Bindura",38,Male,Bindura,2023-04-13,31,16.38,High-Value,Neutral,40,No Action Required,False
+C335,Fadzai Mathe,fadzai.mathe85@example.co.zw,+263 739744451,"126 Borrowdale Rd, Masvingo",24,Female,Masvingo,2023-05-16,52,51.45,At-Risk,Positive,40,Offer Discount,False
+C336,Shamiso Mabhena,shamiso.mabhena76@example.co.zw,+263 788694431,"174 Nelson Mandela Ave, Victoria Falls",55,Female,Victoria Falls,2023-03-11,37,69.51,At-Risk,Negative,55,Offer Discount,False
+C337,Tatenda Khumalo,tatenda.khumalo35@example.co.zw,+263 718333582,"150 George Silundika Ave, Chinhoyi",62,Female,Chinhoyi,2021-11-18,60,16.74,High-Value,Negative,100,No Action Required,False
+C338,Fadzai Mathe,fadzai.mathe8@example.co.zw,+263 734233651,"41 Enterprise Rd, Bindura",30,Female,Bindura,2022-07-02,34,94.68,At-Risk,Positive,32,Schedule Call,False
+C339,Nyarai Mashingaidze,nyarai.mashingaidze4@example.co.zw,+263 784358505,"99 Nelson Mandela Ave, Bulawayo",65,Female,Bulawayo,2022-10-08,25,3.54,Loyal,Negative,66,No Action Required,False
+C340,Sekai Moyo,sekai.moyo52@example.co.zw,+263 713513225,"31 Borrowdale Rd, Kwekwe",50,Female,Kwekwe,2021-08-07,53,91.06,At-Risk,Negative,96,Offer Discount,False
+C341,Tendai Muchena,tendai.muchena49@example.co.zw,+263 782001580,"20 Jason Moyo Ave, Rusape",18,Female,Rusape,2022-12-30,41,15.54,Loyal,Negative,28,No Action Required,False
+C342,Munashe Chikwanda,munashe.chikwanda87@example.co.zw,+263 772864911,"174 Robert Mugabe Rd, Gwanda",28,Male,Gwanda,2022-02-20,20,22.45,Loyal,Neutral,83,No Action Required,False
+C343,Farai Sibanda,farai.sibanda2@example.co.zw,+263 771153341,"150 Union Ave, Masvingo",58,Male,Masvingo,2021-08-08,66,49.52,At-Risk,Positive,28,Offer Discount,False
+C344,Nomusa Mhlanga,nomusa.mhlanga24@example.co.zw,+263 749383775,"87 Samora Machel Ave, Gweru",29,Female,Gweru,2021-06-07,40,65.92,At-Risk,Negative,52,Schedule Call,False
+C345,Tsitsi Shumba,tsitsi.shumba75@example.co.zw,+263 735125642,"127 Fife Ave, Bulawayo",24,Female,Bulawayo,2022-10-21,82,19.57,Loyal,Negative,91,No Action Required,False
+C346,Takudzwa Dlamini,takudzwa.dlamini91@example.co.zw,+263 734527436,"151 Fifth St, Bindura",41,Male,Bindura,2021-10-23,65,94.36,At-Risk,Neutral,85,Send Personalized Email,False
+C347,Shamiso Makoni,shamiso.makoni84@example.co.zw,+263 776284926,"108 Borrowdale Rd, Masvingo",40,Female,Masvingo,2021-08-16,35,1.65,High-Value,Positive,18,No Action Required,False
+C348,Rufaro Mutare,rufaro.mutare1@example.co.zw,+263 714923195,"92 Third St, Chinhoyi",50,Female,Chinhoyi,2021-06-21,16,24.78,High-Value,Neutral,18,No Action Required,False
+C349,Tafadzwa Mashingaidze,tafadzwa.mashingaidze74@example.co.zw,+263 741037962,"189 Fifth St, Gweru",27,Male,Gweru,2022-05-06,44,69.18,At-Risk,Positive,84,Offer Discount,False
+C350,Rudo Mguni,rudo.mguni57@example.co.zw,+263 714985835,"177 Jason Moyo Ave, Masvingo",23,Female,Masvingo,2021-08-07,56,3.28,Loyal,Negative,67,No Action Required,False
+C351,Rufaro Mupanduki,rufaro.mupanduki64@example.co.zw,+263 713598162,"11 Fife Ave, Chinhoyi",54,Female,Chinhoyi,2023-05-06,94,42.47,Loyal,Positive,41,No Action Required,False
+C352,Tariro Muchinguri,tariro.muchinguri30@example.co.zw,+263 747027939,"52 Fifth St, Masvingo",50,Female,Masvingo,2022-11-11,42,12.3,Loyal,Neutral,69,No Action Required,False
+C353,Precious Muchena,precious.muchena17@example.co.zw,+263 784635291,"21 Simon Mazorodze Rd, Mutare",39,Female,Mutare,2021-12-31,42,16.25,High-Value,Neutral,13,No Action Required,False
+C354,Tapiwa Chigudu,tapiwa.chigudu61@example.co.zw,+263 733660644,"149 Union Ave, Masvingo",34,Male,Masvingo,2021-09-19,62,72.44,At-Risk,Negative,99,Schedule Call,True
+C355,Sekai Sibanda,sekai.sibanda45@example.co.zw,+263 778365224,"70 Fife Ave, Chinhoyi",37,Female,Chinhoyi,2022-04-07,81,38.33,Loyal,Positive,20,No Action Required,False
+C356,Munashe Huni,munashe.huni54@example.co.zw,+263 714201392,"77 Samora Machel Ave, Harare",18,Male,Harare,2022-11-11,8,70.55,Low-Engagement,Positive,0,Send Follow-up Survey,True
+C357,Admire Muchena,admire.muchena19@example.co.zw,+263 782990097,"22 Robert Mugabe Rd, Masvingo",59,Male,Masvingo,2021-11-14,86,81.37,High-Value,Negative,17,No Action Required,False
+C358,Nompilo Moyo,nompilo.moyo10@example.co.zw,+263 746973224,"10 George Silundika Ave, Kwekwe",45,Female,Kwekwe,2022-02-16,94,65.11,High-Value,Negative,3,No Action Required,False
+C359,Munashe Dlamini,munashe.dlamini14@example.co.zw,+263 730090032,"123 Robert Mugabe Rd, Kwekwe",30,Male,Kwekwe,2021-06-13,10,19.54,Loyal,Positive,85,No Action Required,False
+C360,Tapiwa Mguni,tapiwa.mguni22@example.co.zw,+263 749686736,"52 Leopold Takawira St, Gweru",64,Male,Gweru,2022-05-24,86,24.73,High-Value,Neutral,31,No Action Required,False
+C361,Tafadzwa Masuku,tafadzwa.masuku56@example.co.zw,+263 715325939,"30 George Silundika Ave, Mutare",59,Male,Mutare,2022-03-16,83,4.62,Loyal,Positive,46,No Action Required,False
+C362,Prosper Mhlanga,prosper.mhlanga31@example.co.zw,+263 787280403,"5 Leopold Takawira St, Kwekwe",29,Male,Kwekwe,2022-03-17,29,72.78,Low-Engagement,Positive,47,Send Follow-up Survey,False
+C363,Admire Shumba,admire.shumba36@example.co.zw,+263 747763661,"59 Fifth St, Gwanda",63,Male,Gwanda,2022-10-02,31,71.03,At-Risk,Neutral,60,Send Personalized Email,False
+C364,Prosper Makoni,prosper.makoni49@example.co.zw,+263 776759107,"160 Robert Mugabe Rd, Bindura",46,Male,Bindura,2022-04-16,84,31.84,High-Value,Neutral,73,No Action Required,False
+C365,Lisa Nkomo,lisa.nkomo31@example.co.zw,+263 712267110,"61 Third St, Mutare",37,Female,Mutare,2022-09-24,87,59.64,Loyal,Neutral,51,No Action Required,False
+C366,Liberty Zwane,liberty.zwane63@example.co.zw,+263 737517149,"147 Enterprise Rd, Gweru",23,Male,Gweru,2022-05-22,75,20.65,Loyal,Negative,21,No Action Required,False
+C367,Chido Moyo,chido.moyo3@example.co.zw,+263 747312931,"153 Third St, Kadoma",62,Female,Kadoma,2023-05-22,31,78.81,At-Risk,Neutral,97,Offer Discount,False
+C368,Tapiwa Chigudu,tapiwa.chigudu50@example.co.zw,+263 740146093,"110 Third St, Kadoma",50,Male,Kadoma,2021-06-07,73,0.92,Loyal,Positive,23,No Action Required,False
+C369,Precious Muchinguri,precious.muchinguri29@example.co.zw,+263 787655370,"159 Fifth St, Chinhoyi",42,Female,Chinhoyi,2021-09-11,91,6.34,Loyal,Negative,49,No Action Required,False
+C370,Tendai Sibanda,tendai.sibanda53@example.co.zw,+263 712865387,"36 George Silundika Ave, Bulawayo",46,Male,Bulawayo,2021-09-29,27,6.98,High-Value,Positive,87,No Action Required,False
+C371,Tendai Sibanda,tendai.sibanda44@example.co.zw,+263 734014608,"21 Nelson Mandela Ave, Harare",40,Male,Harare,2021-07-10,84,50.66,High-Value,Positive,49,No Action Required,False
+C372,Tendai Zwane,tendai.zwane6@example.co.zw,+263 745765905,"160 George Silundika Ave, Harare",42,Male,Harare,2021-08-20,33,21.68,High-Value,Positive,16,No Action Required,False
+C373,Faith Sibanda,faith.sibanda63@example.co.zw,+263 712641373,"76 Jason Moyo Ave, Mutare",19,Female,Mutare,2021-10-12,29,10.1,High-Value,Positive,61,No Action Required,False
+C374,Tapiwa Ndlovu,tapiwa.ndlovu96@example.co.zw,+263 736580743,"127 Third St, Gweru",40,Male,Gweru,2021-11-27,18,98.02,Low-Engagement,Positive,16,Provide Educational Content,False
+C375,Farai Mguni,farai.mguni6@example.co.zw,+263 779707207,"185 Robert Mugabe Rd, Gwanda",37,Male,Gwanda,2022-11-03,94,53.16,Loyal,Negative,80,No Action Required,False
+C376,Fadzai Mhlanga,fadzai.mhlanga6@example.co.zw,+263 734269313,"136 Nelson Mandela Ave, Chinhoyi",45,Female,Chinhoyi,2023-01-08,28,78.64,Low-Engagement,Negative,23,Provide Educational Content,False
+C377,Simba Chirwa,simba.chirwa35@example.co.zw,+263 789301203,"24 George Silundika Ave, Kwekwe",22,Male,Kwekwe,2022-06-27,38,42.78,At-Risk,Negative,47,Offer Discount,False
+C378,Pride Mutare,pride.mutare38@example.co.zw,+263 711958655,"51 Simon Mazorodze Rd, Mutare",28,Male,Mutare,2023-05-27,75,0.07,High-Value,Neutral,97,No Action Required,False
+C379,Chido Sibanda,chido.sibanda83@example.co.zw,+263 782494394,"64 Third St, Bulawayo",22,Female,Bulawayo,2021-06-12,26,38.81,Loyal,Neutral,8,No Action Required,True
+C380,Farai Mutare,farai.mutare8@example.co.zw,+263 773594808,"181 Fifth St, Bindura",47,Male,Bindura,2023-03-18,60,82.86,At-Risk,Neutral,74,Schedule Call,False
+C381,Tapiwa Zwane,tapiwa.zwane69@example.co.zw,+263 711753395,"10 Nelson Mandela Ave, Masvingo",38,Male,Masvingo,2021-06-29,97,21.42,Loyal,Positive,67,No Action Required,False
+C382,Precious Khumalo,precious.khumalo38@example.co.zw,+263 774678279,"64 Robert Mugabe Rd, Gweru",64,Female,Gweru,2023-01-09,96,29.09,High-Value,Negative,38,No Action Required,False
+C383,Fadzai Chirwa,fadzai.chirwa91@example.co.zw,+263 776243734,"39 Samora Machel Ave, Chinhoyi",50,Female,Chinhoyi,2022-12-26,11,14.23,High-Value,Positive,61,No Action Required,False
+C384,Tawanda Chikwanda,tawanda.chikwanda19@example.co.zw,+263 780130170,"79 Third St, Rusape",32,Male,Rusape,2021-09-07,90,88.81,High-Value,Neutral,84,No Action Required,False
+C385,Chiedza Mashingaidze,chiedza.mashingaidze34@example.co.zw,+263 779040482,"50 Third St, Kwekwe",29,Female,Kwekwe,2021-12-08,9,95.99,Low-Engagement,Neutral,65,Send Follow-up Survey,False
+C386,Chiedza Ncube,chiedza.ncube19@example.co.zw,+263 717931719,"11 Union Ave, Bindura",40,Female,Bindura,2023-01-25,4,25.35,High-Value,Negative,92,No Action Required,False
+C387,Pride Huni,pride.huni46@example.co.zw,+263 737323792,"68 Third St, Rusape",53,Male,Rusape,2023-03-22,1,34.21,High-Value,Neutral,98,No Action Required,False
+C388,Nompilo Mhlanga,nompilo.mhlanga3@example.co.zw,+263 717651083,"72 Robert Mugabe Rd, Rusape",31,Female,Rusape,2022-08-15,17,84.64,Low-Engagement,Positive,95,Provide Educational Content,False
+C389,Farai Chigudu,farai.chigudu19@example.co.zw,+263 772737532,"42 Borrowdale Rd, Gweru",64,Male,Gweru,2022-09-15,74,26.13,Loyal,Neutral,40,No Action Required,False
+C390,Tawanda Chitima,tawanda.chitima22@example.co.zw,+263 719850703,"112 Enterprise Rd, Masvingo",39,Male,Masvingo,2022-04-04,97,43.17,High-Value,Negative,8,No Action Required,False
+C391,Nyarai Chirwa,nyarai.chirwa30@example.co.zw,+263 747089835,"47 Simon Mazorodze Rd, Harare",45,Female,Harare,2022-03-10,10,81.65,Low-Engagement,Neutral,88,Send Follow-up Survey,False
+C392,Nompilo Muchinguri,nompilo.muchinguri66@example.co.zw,+263 743225357,"112 Simon Mazorodze Rd, Mutare",26,Female,Mutare,2023-05-27,98,81.48,Loyal,Neutral,3,No Action Required,False
+C393,Walter Nyathi,walter.nyathi57@example.co.zw,+263 741754754,"185 Fife Ave, Harare",26,Male,Harare,2021-10-25,17,68.02,Low-Engagement,Neutral,86,Provide Educational Content,False
+C394,Faith Mabhena,faith.mabhena6@example.co.zw,+263 780643676,"106 Fifth St, Mutare",33,Female,Mutare,2022-05-07,6,48.84,At-Risk,Positive,79,Send Personalized Email,False
+C395,Precious Mandaza,precious.mandaza62@example.co.zw,+263 782032508,"3 Nelson Mandela Ave, Bindura",65,Female,Bindura,2021-11-02,88,88.26,Loyal,Negative,40,No Action Required,False
+C396,Kudakwashe Chirwa,kudakwashe.chirwa48@example.co.zw,+263 775488650,"32 Borrowdale Rd, Bulawayo",53,Male,Bulawayo,2022-11-05,12,31.62,Loyal,Positive,73,No Action Required,False
+C397,Tinashe Masuku,tinashe.masuku86@example.co.zw,+263 714809096,"28 Robert Mugabe Rd, Mutare",45,Male,Mutare,2021-10-14,6,55.38,At-Risk,Negative,60,Send Personalized Email,False
+C398,Rufaro Mhlanga,rufaro.mhlanga51@example.co.zw,+263 737947042,"26 Nelson Mandela Ave, Bindura",45,Female,Bindura,2023-01-26,55,87.61,At-Risk,Neutral,51,Schedule Call,False
+C399,Tapiwa Ndlovu,tapiwa.ndlovu70@example.co.zw,+263 744603814,"46 George Silundika Ave, Gweru",21,Male,Gweru,2022-07-03,89,24.01,High-Value,Positive,16,No Action Required,False
+C400,Munashe Dube,munashe.dube48@example.co.zw,+263 714712503,"100 Nelson Mandela Ave, Victoria Falls",40,Male,Victoria Falls,2021-07-22,90,84.55,Loyal,Neutral,62,No Action Required,False
+C401,Prosper Moyo,prosper.moyo56@example.co.zw,+263 747850134,"61 Robert Mugabe Rd, Masvingo",55,Male,Masvingo,2022-02-13,83,93.4,Loyal,Positive,7,No Action Required,True
+C402,Chiedza Ndlovu,chiedza.ndlovu40@example.co.zw,+263 789713191,"66 Enterprise Rd, Mutare",26,Female,Mutare,2021-09-04,77,83.7,Loyal,Negative,22,No Action Required,False
+C403,Precious Moyo,precious.moyo39@example.co.zw,+263 747029204,"158 Fife Ave, Gweru",21,Female,Gweru,2022-03-24,4,33.3,High-Value,Negative,82,No Action Required,False
+C404,Munashe Ncube,munashe.ncube98@example.co.zw,+263 710014515,"149 Samora Machel Ave, Rusape",44,Male,Rusape,2023-05-08,55,92.29,At-Risk,Negative,51,Offer Discount,False
+C405,Tanaka Mguni,tanaka.mguni53@example.co.zw,+263 737349385,"86 Enterprise Rd, Kwekwe",53,Male,Kwekwe,2021-07-23,66,31.99,Loyal,Positive,32,No Action Required,False
+C406,Rufaro Chirwa,rufaro.chirwa67@example.co.zw,+263 776724483,"108 Fife Ave, Gwanda",47,Female,Gwanda,2022-02-20,72,39.87,High-Value,Positive,49,No Action Required,False
+C407,Tendai Chikwanda,tendai.chikwanda82@example.co.zw,+263 787539694,"53 Robert Mugabe Rd, Gweru",48,Male,Gweru,2022-11-01,29,43.44,At-Risk,Positive,83,Send Personalized Email,False
+C408,Munashe Sibanda,munashe.sibanda71@example.co.zw,+263 783594324,"157 Union Ave, Masvingo",31,Male,Masvingo,2021-10-20,11,29.72,Loyal,Negative,87,No Action Required,False
+C409,Takudzwa Sibanda,takudzwa.sibanda79@example.co.zw,+263 740104643,"178 Fife Ave, Rusape",34,Male,Rusape,2023-03-11,49,78.71,At-Risk,Negative,6,Send Personalized Email,False
+C410,Chiedza Nkomo,chiedza.nkomo37@example.co.zw,+263 748419160,"55 Jason Moyo Ave, Bulawayo",45,Female,Bulawayo,2021-10-24,3,73.83,Low-Engagement,Neutral,79,Provide Educational Content,False
+C411,Blessing Chigwedere,blessing.chigwedere64@example.co.zw,+263 736873138,"60 Union Ave, Gweru",38,Male,Gweru,2022-09-28,17,30.95,High-Value,Negative,75,No Action Required,False
+C412,Tawanda Sibanda,tawanda.sibanda68@example.co.zw,+263 785322999,"16 Union Ave, Bindura",25,Male,Bindura,2022-11-04,55,97.65,At-Risk,Negative,18,Send Personalized Email,False
+C413,Takudzwa Moyo,takudzwa.moyo58@example.co.zw,+263 746781995,"182 Enterprise Rd, Gwanda",45,Male,Gwanda,2023-05-15,13,28.96,High-Value,Negative,72,No Action Required,False
+C414,Farai Zinyama,farai.zinyama94@example.co.zw,+263 789661613,"120 Enterprise Rd, Kwekwe",34,Male,Kwekwe,2023-03-03,3,79.49,Low-Engagement,Negative,31,Send Follow-up Survey,True
+C415,Munashe Chikwanda,munashe.chikwanda69@example.co.zw,+263 732355191,"179 Jason Moyo Ave, Victoria Falls",24,Male,Victoria Falls,2021-09-16,72,80.09,High-Value,Negative,30,No Action Required,False
+C416,Tinashe Khumalo,tinashe.khumalo33@example.co.zw,+263 748094355,"73 George Silundika Ave, Mutare",40,Male,Mutare,2021-09-26,6,63.46,Low-Engagement,Negative,2,Send Follow-up Survey,False
+C417,Rudo Marufu,rudo.marufu75@example.co.zw,+263 778771293,"131 Jason Moyo Ave, Kadoma",18,Female,Kadoma,2022-11-26,98,75.92,Loyal,Positive,65,No Action Required,False
+C418,Admire Ndlovu,admire.ndlovu75@example.co.zw,+263 745943815,"13 Nelson Mandela Ave, Rusape",22,Male,Rusape,2021-08-18,47,93.8,At-Risk,Positive,78,Send Personalized Email,False
+C419,Tatenda Ncube,tatenda.ncube67@example.co.zw,+263 739713302,"148 Jason Moyo Ave, Kadoma",25,Female,Kadoma,2022-09-19,5,67.16,Low-Engagement,Negative,16,Send Follow-up Survey,False
+C420,Innocent Gatawa,innocent.gatawa87@example.co.zw,+263 716261708,"74 Robert Mugabe Rd, Harare",49,Male,Harare,2022-04-20,58,63.95,At-Risk,Negative,34,Offer Discount,False
+C421,Admire Chirwa,admire.chirwa12@example.co.zw,+263 771712080,"8 Fife Ave, Masvingo",53,Male,Masvingo,2022-10-27,34,63.5,At-Risk,Neutral,37,Schedule Call,False
+C422,Simba Mhlanga,simba.mhlanga41@example.co.zw,+263 770339606,"53 Third St, Victoria Falls",54,Male,Victoria Falls,2021-07-23,52,67.8,At-Risk,Negative,100,Send Personalized Email,False
+C423,Innocent Chitima,innocent.chitima43@example.co.zw,+263 748764358,"171 Simon Mazorodze Rd, Masvingo",31,Male,Masvingo,2022-05-26,25,8.18,High-Value,Negative,67,No Action Required,False
+C424,Chido Mutare,chido.mutare41@example.co.zw,+263 745918581,"59 Union Ave, Kadoma",33,Female,Kadoma,2021-06-28,23,5.55,High-Value,Negative,68,No Action Required,False
+C425,Tendai Makoni,tendai.makoni9@example.co.zw,+263 778133558,"106 Union Ave, Bindura",28,Female,Bindura,2021-07-30,79,76.49,High-Value,Positive,11,No Action Required,False
+C426,Prosper Sibanda,prosper.sibanda93@example.co.zw,+263 715753434,"125 Samora Machel Ave, Harare",38,Male,Harare,2022-04-28,2,27.21,Loyal,Positive,38,No Action Required,False
+C427,Nyarai Nkomo,nyarai.nkomo32@example.co.zw,+263 718723591,"143 Jason Moyo Ave, Kwekwe",27,Female,Kwekwe,2022-12-17,15,43.38,At-Risk,Positive,77,Send Personalized Email,False
+C428,Tendai Mabhena,tendai.mabhena38@example.co.zw,+263 742549467,"42 Union Ave, Harare",58,Female,Harare,2021-12-08,65,67.73,At-Risk,Positive,52,Offer Discount,False
+C429,Tafadzwa Nkomo,tafadzwa.nkomo18@example.co.zw,+263 738186776,"121 Leopold Takawira St, Rusape",18,Male,Rusape,2023-01-26,68,52.54,At-Risk,Negative,53,Send Personalized Email,False
+C430,Tapiwa Muchinguri,tapiwa.muchinguri98@example.co.zw,+263 785523400,"183 Samora Machel Ave, Chinhoyi",34,Male,Chinhoyi,2023-04-29,44,15.38,High-Value,Negative,56,No Action Required,False
+C431,Tinashe Chigwedere,tinashe.chigwedere32@example.co.zw,+263 713080410,"152 Robert Mugabe Rd, Chinhoyi",46,Male,Chinhoyi,2021-09-27,54,41.4,At-Risk,Positive,57,Schedule Call,False
+C432,Munashe Muchinguri,munashe.muchinguri14@example.co.zw,+263 734508046,"15 Leopold Takawira St, Victoria Falls",37,Male,Victoria Falls,2021-08-04,46,68.56,At-Risk,Positive,85,Offer Discount,False
+C433,Rudo Huni,rudo.huni29@example.co.zw,+263 776374940,"110 Enterprise Rd, Mutare",53,Female,Mutare,2021-10-26,0,44.43,At-Risk,Positive,80,Offer Discount,False
+C434,Chiedza Chigwedere,chiedza.chigwedere77@example.co.zw,+263 735562328,"83 Borrowdale Rd, Rusape",46,Female,Rusape,2022-05-23,74,22.3,Loyal,Neutral,26,No Action Required,False
+C435,Fadzai Moyo,fadzai.moyo8@example.co.zw,+263 785716599,"62 Simon Mazorodze Rd, Gweru",58,Female,Gweru,2022-11-19,28,40.69,At-Risk,Positive,15,Send Personalized Email,False
+C436,Fadzai Nkomo,fadzai.nkomo19@example.co.zw,+263 730328642,"138 Third St, Victoria Falls",30,Female,Victoria Falls,2022-09-23,41,60.83,At-Risk,Neutral,52,Send Personalized Email,False
+C437,Tatenda Mupanduki,tatenda.mupanduki96@example.co.zw,+263 749985638,"96 Leopold Takawira St, Masvingo",37,Female,Masvingo,2021-08-19,62,45.22,At-Risk,Positive,29,Schedule Call,False
+C438,Precious Chirwa,precious.chirwa48@example.co.zw,+263 773719082,"31 Simon Mazorodze Rd, Masvingo",63,Female,Masvingo,2021-11-15,75,47.62,Loyal,Negative,45,No Action Required,False
+C439,Prosper Mathe,prosper.mathe26@example.co.zw,+263 773159868,"179 Fifth St, Bulawayo",43,Male,Bulawayo,2023-04-28,70,84.17,Loyal,Neutral,47,No Action Required,False
+C440,Nompilo Sibanda,nompilo.sibanda3@example.co.zw,+263 711112317,"105 Leopold Takawira St, Rusape",35,Female,Rusape,2021-12-12,87,76.69,Loyal,Negative,24,No Action Required,False
+C441,Nomusa Muchinguri,nomusa.muchinguri19@example.co.zw,+263 745459800,"38 Samora Machel Ave, Gweru",24,Female,Gweru,2021-09-28,1,79.47,Low-Engagement,Positive,19,Send Follow-up Survey,False
+C442,Anesu Dlamini,anesu.dlamini59@example.co.zw,+263 780817488,"2 Nelson Mandela Ave, Rusape",20,Male,Rusape,2022-06-08,23,46.85,At-Risk,Positive,45,Send Personalized Email,False
+C443,Rudo Mupanduki,rudo.mupanduki76@example.co.zw,+263 746762221,"187 Union Ave, Bulawayo",45,Female,Bulawayo,2023-03-24,95,35.1,High-Value,Positive,28,No Action Required,False
+C444,Tariro Nkomo,tariro.nkomo26@example.co.zw,+263 737303844,"1 Simon Mazorodze Rd, Mutare",27,Female,Mutare,2021-12-28,30,87.91,Low-Engagement,Neutral,3,Provide Educational Content,False
+C445,Tendai Mudenda,tendai.mudenda76@example.co.zw,+263 746977993,"60 Borrowdale Rd, Chinhoyi",56,Male,Chinhoyi,2023-02-07,51,96.66,At-Risk,Negative,31,Send Personalized Email,False
+C446,Sekai Huni,sekai.huni27@example.co.zw,+263 741079023,"47 Fifth St, Rusape",61,Female,Rusape,2022-11-14,65,43.66,At-Risk,Positive,34,Schedule Call,False
+C447,Lisa Mandaza,lisa.mandaza37@example.co.zw,+263 732927831,"23 Enterprise Rd, Kwekwe",54,Female,Kwekwe,2021-10-24,98,19.86,Loyal,Negative,46,No Action Required,False
+C448,Liberty Mashingaidze,liberty.mashingaidze77@example.co.zw,+263 772072994,"24 Jason Moyo Ave, Masvingo",48,Male,Masvingo,2021-10-15,51,10.85,High-Value,Negative,49,No Action Required,False
+C449,Takudzwa Marufu,takudzwa.marufu78@example.co.zw,+263 747876757,"166 Enterprise Rd, Bulawayo",26,Male,Bulawayo,2023-04-14,10,27.46,High-Value,Negative,55,No Action Required,False
+C450,Tinashe Shumba,tinashe.shumba55@example.co.zw,+263 746890956,"66 Enterprise Rd, Harare",48,Male,Harare,2022-08-17,87,94.11,Loyal,Neutral,12,No Action Required,False
+C451,Rudo Mashingaidze,rudo.mashingaidze48@example.co.zw,+263 732998633,"190 Union Ave, Victoria Falls",55,Female,Victoria Falls,2023-04-14,24,1.04,Loyal,Negative,12,No Action Required,False
+C452,Walter Chirwa,walter.chirwa64@example.co.zw,+263 716843491,"20 Enterprise Rd, Bulawayo",45,Male,Bulawayo,2021-12-21,92,20.17,Loyal,Neutral,80,No Action Required,False
+C453,Anesu Shumba,anesu.shumba13@example.co.zw,+263 744900039,"111 Third St, Harare",65,Male,Harare,2023-02-18,33,78.98,At-Risk,Positive,81,Schedule Call,False
+C454,Nompilo Zwane,nompilo.zwane43@example.co.zw,+263 712612612,"139 Borrowdale Rd, Gweru",34,Female,Gweru,2022-05-16,12,85.08,Low-Engagement,Positive,53,Send Follow-up Survey,False
+C455,Nompilo Mhlanga,nompilo.mhlanga89@example.co.zw,+263 748956186,"140 Third St, Masvingo",34,Female,Masvingo,2021-06-03,48,53.08,At-Risk,Positive,35,Offer Discount,False
+C456,Rufaro Dlamini,rufaro.dlamini45@example.co.zw,+263 777619894,"78 Union Ave, Bindura",26,Female,Bindura,2023-03-11,100,81.56,High-Value,Neutral,38,No Action Required,False
+C457,Tawanda Mathe,tawanda.mathe37@example.co.zw,+263 777577397,"121 Union Ave, Masvingo",26,Male,Masvingo,2022-05-06,42,64.31,At-Risk,Negative,64,Offer Discount,False
+C458,Tsitsi Siziba,tsitsi.siziba26@example.co.zw,+263 771353298,"36 Fife Ave, Victoria Falls",40,Female,Victoria Falls,2023-03-07,83,35.69,High-Value,Neutral,39,No Action Required,False
+C459,Prosper Chigwedere,prosper.chigwedere56@example.co.zw,+263 716390519,"95 Leopold Takawira St, Harare",65,Male,Harare,2021-06-23,6,56.74,At-Risk,Neutral,40,Schedule Call,False
+C460,Admire Chigudu,admire.chigudu83@example.co.zw,+263 787813156,"67 Enterprise Rd, Gwanda",60,Male,Gwanda,2022-08-27,86,38.36,High-Value,Neutral,10,No Action Required,False
+C461,Tendai Mathe,tendai.mathe37@example.co.zw,+263 777503124,"167 Fifth St, Chinhoyi",64,Male,Chinhoyi,2021-09-18,5,54.24,At-Risk,Positive,17,Schedule Call,False
+C462,Pride Sibanda,pride.sibanda16@example.co.zw,+263 774946590,"79 Fifth St, Mutare",49,Male,Mutare,2023-03-15,61,76.73,At-Risk,Negative,39,Send Personalized Email,False
+C463,Blessing Mudenda,blessing.mudenda56@example.co.zw,+263 711861276,"147 George Silundika Ave, Gwanda",60,Male,Gwanda,2022-12-08,11,66.69,Low-Engagement,Positive,3,Send Follow-up Survey,False
+C464,Takudzwa Sibanda,takudzwa.sibanda9@example.co.zw,+263 775880940,"86 Samora Machel Ave, Bindura",19,Male,Bindura,2022-03-15,11,55.61,At-Risk,Neutral,46,Schedule Call,False
+C465,Liberty Mavhunga,liberty.mavhunga47@example.co.zw,+263 772123731,"31 Enterprise Rd, Gwanda",18,Male,Gwanda,2023-01-05,92,91.25,Loyal,Positive,5,No Action Required,False
+C466,Tawanda Chigwedere,tawanda.chigwedere14@example.co.zw,+263 779658417,"6 Fife Ave, Kadoma",54,Male,Kadoma,2022-05-20,14,99.77,Low-Engagement,Neutral,93,Provide Educational Content,False
+C467,Tanaka Zinyama,tanaka.zinyama79@example.co.zw,+263 730088852,"91 Borrowdale Rd, Masvingo",28,Male,Masvingo,2022-02-18,89,14.9,Loyal,Neutral,55,No Action Required,False
+C468,Simba Moyo,simba.moyo4@example.co.zw,+263 719963217,"185 Fife Ave, Harare",57,Male,Harare,2023-04-02,82,19.68,Loyal,Positive,50,No Action Required,False
+C469,Tinashe Nyathi,tinashe.nyathi59@example.co.zw,+263 775091165,"95 Robert Mugabe Rd, Victoria Falls",37,Male,Victoria Falls,2022-03-04,13,38.84,High-Value,Negative,76,No Action Required,False
+C470,Nompilo Gumbo,nompilo.gumbo20@example.co.zw,+263 789789303,"167 Third St, Gwanda",39,Female,Gwanda,2022-08-23,49,61.92,At-Risk,Neutral,74,Schedule Call,False
+C471,Tendai Mutare,tendai.mutare18@example.co.zw,+263 744191982,"61 Enterprise Rd, Kwekwe",34,Male,Kwekwe,2023-01-04,100,61.29,Loyal,Negative,18,No Action Required,False
+C472,Tariro Nyathi,tariro.nyathi94@example.co.zw,+263 749758785,"137 George Silundika Ave, Harare",38,Female,Harare,2022-03-11,45,10.51,Loyal,Positive,22,No Action Required,False
+C473,Tsitsi Zwane,tsitsi.zwane91@example.co.zw,+263 782778259,"74 Samora Machel Ave, Chinhoyi",52,Female,Chinhoyi,2023-04-08,60,64.97,At-Risk,Negative,31,Send Personalized Email,False
+C474,Tawanda Nkomo,tawanda.nkomo33@example.co.zw,+263 716926217,"36 Fife Ave, Harare",28,Male,Harare,2023-03-15,68,43.96,At-Risk,Neutral,48,Offer Discount,False
+C475,Rufaro Khumalo,rufaro.khumalo34@example.co.zw,+263 772087660,"36 Third St, Chinhoyi",40,Female,Chinhoyi,2023-01-26,94,5.44,Loyal,Negative,97,No Action Required,False
+C476,Walter Zwane,walter.zwane43@example.co.zw,+263 715318622,"177 Leopold Takawira St, Victoria Falls",42,Male,Victoria Falls,2021-10-19,73,58.38,Loyal,Positive,6,No Action Required,False
+C477,Tariro Chirwa,tariro.chirwa3@example.co.zw,+263 789831639,"36 Fifth St, Victoria Falls",54,Female,Victoria Falls,2021-08-05,3,21.93,Loyal,Positive,39,No Action Required,True
+C478,Tawanda Chirwa,tawanda.chirwa25@example.co.zw,+263 737232226,"150 Robert Mugabe Rd, Gweru",40,Male,Gweru,2021-09-01,83,89.8,High-Value,Neutral,80,No Action Required,False
+C479,Prosper Mhlanga,prosper.mhlanga57@example.co.zw,+263 773247713,"188 Simon Mazorodze Rd, Chinhoyi",25,Male,Chinhoyi,2021-08-22,39,84.89,At-Risk,Negative,18,Send Personalized Email,True
+C480,Tendai Masuku,tendai.masuku4@example.co.zw,+263 718111058,"87 Union Ave, Masvingo",31,Female,Masvingo,2022-11-29,50,62.26,At-Risk,Neutral,81,Send Personalized Email,False
+C481,Innocent Mathe,innocent.mathe77@example.co.zw,+263 731343762,"177 Simon Mazorodze Rd, Mutare",21,Male,Mutare,2022-09-24,100,83.51,High-Value,Negative,9,No Action Required,False
+C482,Tanaka Khumalo,tanaka.khumalo48@example.co.zw,+263 710336358,"10 Nelson Mandela Ave, Kwekwe",30,Male,Kwekwe,2021-07-07,91,29.04,Loyal,Neutral,91,No Action Required,False
+C483,Innocent Mhlanga,innocent.mhlanga29@example.co.zw,+263 747631938,"182 Samora Machel Ave, Mutare",55,Male,Mutare,2022-07-30,80,44.82,High-Value,Neutral,85,No Action Required,False
+C484,Fadzai Masuku,fadzai.masuku9@example.co.zw,+263 732861928,"159 George Silundika Ave, Masvingo",36,Female,Masvingo,2021-07-25,50,16.28,High-Value,Negative,31,No Action Required,False
+C485,Nompilo Mhlanga,nompilo.mhlanga97@example.co.zw,+263 775463510,"137 Jason Moyo Ave, Mutare",34,Female,Mutare,2022-03-19,36,56.82,At-Risk,Negative,78,Send Personalized Email,False
+C486,Prosper Mavhunga,prosper.mavhunga74@example.co.zw,+263 719260383,"103 Samora Machel Ave, Harare",58,Male,Harare,2023-01-20,73,47.45,High-Value,Neutral,13,No Action Required,False
+C487,Faith Zwane,faith.zwane19@example.co.zw,+263 777431309,"10 Simon Mazorodze Rd, Mutare",37,Female,Mutare,2022-10-12,81,60.37,Loyal,Negative,88,No Action Required,False
+C488,Lisa Chitima,lisa.chitima54@example.co.zw,+263 746420977,"200 Union Ave, Bulawayo",31,Female,Bulawayo,2023-04-28,42,42.67,At-Risk,Negative,9,Offer Discount,False
+C489,Tendai Ncube,tendai.ncube60@example.co.zw,+263 747328325,"36 Enterprise Rd, Kwekwe",27,Male,Kwekwe,2022-11-15,51,55.5,At-Risk,Positive,83,Offer Discount,False
+C490,Memory Ndlovu,memory.ndlovu12@example.co.zw,+263 711752295,"124 Robert Mugabe Rd, Gweru",62,Female,Gweru,2021-11-05,15,77.16,Low-Engagement,Positive,6,Send Follow-up Survey,False
+C491,Sekai Chitima,sekai.chitima35@example.co.zw,+263 780989293,"92 Jason Moyo Ave, Kwekwe",48,Female,Kwekwe,2022-02-18,20,94.25,Low-Engagement,Negative,31,Send Follow-up Survey,False
+C492,Tariro Mudenda,tariro.mudenda64@example.co.zw,+263 715864950,"64 Robert Mugabe Rd, Rusape",41,Female,Rusape,2021-10-16,56,88.13,At-Risk,Neutral,63,Schedule Call,False
+C493,Nyarai Huni,nyarai.huni73@example.co.zw,+263 787557090,"98 Nelson Mandela Ave, Masvingo",35,Female,Masvingo,2023-04-07,83,22.92,High-Value,Positive,29,No Action Required,False
+C494,Tapiwa Mhlanga,tapiwa.mhlanga25@example.co.zw,+263 748099310,"101 Nelson Mandela Ave, Masvingo",33,Male,Masvingo,2022-04-26,20,50.95,At-Risk,Negative,1,Send Personalized Email,False
+C495,Nyarai Moyo,nyarai.moyo43@example.co.zw,+263 772515280,"17 Leopold Takawira St, Chinhoyi",60,Female,Chinhoyi,2023-05-15,52,11.39,Loyal,Neutral,48,No Action Required,False
+C496,Rufaro Gatawa,rufaro.gatawa99@example.co.zw,+263 779958283,"12 Third St, Gwanda",63,Female,Gwanda,2021-08-10,63,83.69,At-Risk,Negative,45,Send Personalized Email,True
+C497,Tariro Khumalo,tariro.khumalo92@example.co.zw,+263 772022445,"48 Nelson Mandela Ave, Gweru",31,Female,Gweru,2022-01-25,99,26.3,High-Value,Neutral,48,No Action Required,False
+C498,Admire Nyathi,admire.nyathi34@example.co.zw,+263 713215407,"167 Enterprise Rd, Bulawayo",36,Male,Bulawayo,2021-10-24,94,20.43,Loyal,Positive,83,No Action Required,False
+C499,Simba Khumalo,simba.khumalo52@example.co.zw,+263 736064420,"96 Nelson Mandela Ave, Gwanda",22,Male,Gwanda,2023-02-23,37,80.41,At-Risk,Negative,49,Schedule Call,False
+C500,Innocent Mhlanga,innocent.mhlanga29@example.co.zw,+263 786611863,"187 Nelson Mandela Ave, Harare",55,Male,Harare,2023-03-10,60,98.11,At-Risk,Neutral,26,Schedule Call,False

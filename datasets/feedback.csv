@@ -1,0 +1,239 @@
+clientId,submittedAt,feedbackText,labeledSentiment
+C003,2023-12-22 00:00:00,No strong feelings either way.,Neutral
+C003,2023-07-26 00:00:00,No strong feelings either way.,Neutral
+C004,2023-09-09 00:00:00,Not satisfied with the outcome.,Negative
+C004,2024-01-10 00:00:00,"It was okay, nothing special.",Neutral
+C014,2023-11-17 00:00:00,Service was as expected.,Neutral
+C014,2024-03-28 00:00:00,"Excellent service, very happy!",Positive
+C016,2024-04-12 00:00:00,Problems with the app/website.,Negative
+C019,2024-04-13 00:00:00,Problems with the app/website.,Negative
+C019,2024-01-06 00:00:00,Problems with the app/website.,Negative
+C020,2023-06-30 00:00:00,"Highly recommend, great experience.",Positive
+C021,2024-02-17 00:00:00,"Excellent service, very happy!",Positive
+C021,2024-01-22 00:00:00,"Excellent service, very happy!",Positive
+C022,2023-08-27 00:00:00,Service was as expected.,Neutral
+C022,2023-09-12 00:00:00,"Very disappointed, service was slow.",Negative
+C024,2023-07-05 00:00:00,"Very disappointed, service was slow.",Negative
+C024,2023-08-15 00:00:00,"Smooth process, no issues.",Positive
+C028,2023-08-14 00:00:00,Standard interaction.,Neutral
+C028,2024-04-19 00:00:00,"Highly recommend, great experience.",Positive
+C031,2024-03-25 00:00:00,"Had issues, needs improvement.",Negative
+C031,2024-05-02 00:00:00,"It was okay, nothing special.",Neutral
+C036,2023-12-03 00:00:00,No strong feelings either way.,Neutral
+C040,2024-05-18 00:00:00,"Highly recommend, great experience.",Positive
+C041,2023-11-19 00:00:00,Not satisfied with the outcome.,Negative
+C041,2023-11-18 00:00:00,"Had issues, needs improvement.",Negative
+C042,2023-12-05 00:00:00,"It was okay, nothing special.",Neutral
+C042,2024-05-23 00:00:00,Not satisfied with the outcome.,Negative
+C044,2024-01-12 00:00:00,"Smooth process, no issues.",Positive
+C044,2024-02-21 00:00:00,"It was okay, nothing special.",Neutral
+C047,2023-11-29 00:00:00,Problems with the app/website.,Negative
+C048,2024-01-01 00:00:00,"Very disappointed, service was slow.",Negative
+C048,2023-07-24 00:00:00,"Smooth process, no issues.",Positive
+C050,2023-08-11 00:00:00,No strong feelings either way.,Neutral
+C050,2024-05-19 00:00:00,"It was okay, nothing special.",Neutral
+C054,2023-08-03 00:00:00,Problems with the app/website.,Negative
+C056,2023-06-03 00:00:00,"It was okay, nothing special.",Neutral
+C056,2024-05-14 00:00:00,Problems with the app/website.,Negative
+C057,2023-10-24 00:00:00,"Quick and efficient, thank you.",Positive
+C057,2023-12-02 00:00:00,Standard interaction.,Neutral
+C058,2023-08-24 00:00:00,"Very disappointed, service was slow.",Negative
+C061,2023-06-24 00:00:00,Standard interaction.,Neutral
+C063,2023-09-20 00:00:00,"Highly recommend, great experience.",Positive
+C068,2023-07-18 00:00:00,"It was okay, nothing special.",Neutral
+C074,2023-09-02 00:00:00,Standard interaction.,Neutral
+C074,2023-07-19 00:00:00,No strong feelings either way.,Neutral
+C075,2023-09-08 00:00:00,Not satisfied with the outcome.,Negative
+C076,2023-10-24 00:00:00,"Excellent service, very happy!",Positive
+C076,2023-10-19 00:00:00,"Excellent service, very happy!",Positive
+C078,2023-07-21 00:00:00,Problems with the app/website.,Negative
+C078,2023-08-28 00:00:00,Not satisfied with the outcome.,Negative
+C085,2024-04-13 00:00:00,"It was okay, nothing special.",Neutral
+C086,2023-08-19 00:00:00,"Excellent service, very happy!",Positive
+C086,2024-05-20 00:00:00,Standard interaction.,Neutral
+C093,2023-10-10 00:00:00,"Highly recommend, great experience.",Positive
+C093,2023-06-07 00:00:00,"Highly recommend, great experience.",Positive
+C096,2024-03-11 00:00:00,Not satisfied with the outcome.,Negative
+C096,2024-03-09 00:00:00,Service was as expected.,Neutral
+C100,2024-05-10 00:00:00,Standard interaction.,Neutral
+C111,2024-04-27 00:00:00,"Excellent service, very happy!",Positive
+C113,2024-01-13 00:00:00,"Highly recommend, great experience.",Positive
+C118,2023-12-10 00:00:00,"Excellent service, very happy!",Positive
+C121,2023-08-04 00:00:00,"It was okay, nothing special.",Neutral
+C123,2023-11-13 00:00:00,"It was okay, nothing special.",Neutral
+C123,2024-05-05 00:00:00,Standard interaction.,Neutral
+C129,2023-11-08 00:00:00,"Excellent service, very happy!",Positive
+C129,2024-05-06 00:00:00,"Very disappointed, service was slow.",Negative
+C134,2024-03-06 00:00:00,"It was okay, nothing special.",Neutral
+C141,2023-12-14 00:00:00,"Very disappointed, service was slow.",Negative
+C141,2023-08-13 00:00:00,"Very disappointed, service was slow.",Negative
+C142,2023-11-27 00:00:00,"Smooth process, no issues.",Positive
+C142,2023-10-04 00:00:00,"Very disappointed, service was slow.",Negative
+C144,2023-10-02 00:00:00,Standard interaction.,Neutral
+C146,2023-07-21 00:00:00,"Had issues, needs improvement.",Negative
+C152,2024-04-28 00:00:00,Not satisfied with the outcome.,Negative
+C154,2023-11-26 00:00:00,Not satisfied with the outcome.,Negative
+C154,2024-03-10 00:00:00,Not satisfied with the outcome.,Negative
+C159,2024-05-28 00:00:00,No strong feelings either way.,Neutral
+C159,2023-08-06 00:00:00,No strong feelings either way.,Neutral
+C163,2023-09-08 00:00:00,"Very disappointed, service was slow.",Negative
+C164,2024-04-05 00:00:00,"Quick and efficient, thank you.",Positive
+C164,2023-08-08 00:00:00,"Highly recommend, great experience.",Positive
+C168,2023-08-14 00:00:00,"Highly recommend, great experience.",Positive
+C168,2024-04-11 00:00:00,"Quick and efficient, thank you.",Positive
+C170,2024-05-02 00:00:00,"Had issues, needs improvement.",Negative
+C170,2024-04-28 00:00:00,"Quick and efficient, thank you.",Positive
+C171,2023-10-08 00:00:00,"Very disappointed, service was slow.",Negative
+C180,2023-12-27 00:00:00,"Smooth process, no issues.",Positive
+C182,2023-10-19 00:00:00,Standard interaction.,Neutral
+C183,2024-02-16 00:00:00,"Very disappointed, service was slow.",Negative
+C183,2024-02-07 00:00:00,"Quick and efficient, thank you.",Positive
+C186,2023-07-06 00:00:00,"Excellent service, very happy!",Positive
+C186,2024-02-03 00:00:00,"Quick and efficient, thank you.",Positive
+C187,2024-05-03 00:00:00,Not satisfied with the outcome.,Negative
+C192,2023-06-16 00:00:00,Not satisfied with the outcome.,Negative
+C192,2023-07-22 00:00:00,Standard interaction.,Neutral
+C199,2024-03-09 00:00:00,No strong feelings either way.,Neutral
+C199,2024-03-23 00:00:00,"Smooth process, no issues.",Positive
+C201,2023-08-24 00:00:00,"Very disappointed, service was slow.",Negative
+C203,2023-09-18 00:00:00,No strong feelings either way.,Neutral
+C214,2023-07-22 00:00:00,"It was okay, nothing special.",Neutral
+C217,2024-05-06 00:00:00,"It was okay, nothing special.",Neutral
+C217,2024-03-17 00:00:00,Service was as expected.,Neutral
+C221,2023-10-23 00:00:00,No strong feelings either way.,Neutral
+C222,2023-08-12 00:00:00,"Highly recommend, great experience.",Positive
+C222,2024-01-29 00:00:00,No strong feelings either way.,Neutral
+C226,2024-01-19 00:00:00,"Smooth process, no issues.",Positive
+C228,2024-03-02 00:00:00,Standard interaction.,Neutral
+C237,2024-05-23 00:00:00,Service was as expected.,Neutral
+C240,2023-10-07 00:00:00,"Had issues, needs improvement.",Negative
+C242,2023-09-20 00:00:00,Service was as expected.,Neutral
+C245,2023-11-02 00:00:00,No strong feelings either way.,Neutral
+C248,2024-04-01 00:00:00,No strong feelings either way.,Neutral
+C248,2024-01-16 00:00:00,"Highly recommend, great experience.",Positive
+C249,2023-12-04 00:00:00,"Highly recommend, great experience.",Positive
+C249,2024-04-10 00:00:00,"Very disappointed, service was slow.",Negative
+C255,2023-06-04 00:00:00,"Very disappointed, service was slow.",Negative
+C264,2023-11-06 00:00:00,"Had issues, needs improvement.",Negative
+C272,2023-11-27 00:00:00,Standard interaction.,Neutral
+C276,2023-12-22 00:00:00,"Highly recommend, great experience.",Positive
+C278,2023-11-22 00:00:00,"Quick and efficient, thank you.",Positive
+C283,2024-01-22 00:00:00,Not satisfied with the outcome.,Negative
+C283,2024-03-06 00:00:00,"Highly recommend, great experience.",Positive
+C288,2024-05-22 00:00:00,"Very disappointed, service was slow.",Negative
+C288,2023-10-02 00:00:00,Problems with the app/website.,Negative
+C290,2023-10-15 00:00:00,"Highly recommend, great experience.",Positive
+C290,2024-02-24 00:00:00,"It was okay, nothing special.",Neutral
+C293,2024-01-14 00:00:00,Service was as expected.,Neutral
+C293,2024-05-09 00:00:00,"It was okay, nothing special.",Neutral
+C301,2023-08-13 00:00:00,"It was okay, nothing special.",Neutral
+C301,2024-04-05 00:00:00,"Very disappointed, service was slow.",Negative
+C302,2023-11-12 00:00:00,"Quick and efficient, thank you.",Positive
+C308,2024-01-05 00:00:00,Service was as expected.,Neutral
+C308,2023-06-14 00:00:00,"It was okay, nothing special.",Neutral
+C309,2023-09-14 00:00:00,"Quick and efficient, thank you.",Positive
+C310,2023-06-17 00:00:00,Standard interaction.,Neutral
+C312,2023-11-06 00:00:00,"Had issues, needs improvement.",Negative
+C312,2024-03-03 00:00:00,"Excellent service, very happy!",Positive
+C313,2024-01-26 00:00:00,"Highly recommend, great experience.",Positive
+C313,2024-01-27 00:00:00,"Excellent service, very happy!",Positive
+C314,2023-07-27 00:00:00,No strong feelings either way.,Neutral
+C316,2024-01-07 00:00:00,"Had issues, needs improvement.",Negative
+C316,2023-11-06 00:00:00,"Very disappointed, service was slow.",Negative
+C318,2023-07-20 00:00:00,No strong feelings either way.,Neutral
+C320,2024-02-19 00:00:00,"Smooth process, no issues.",Positive
+C323,2024-03-12 00:00:00,Problems with the app/website.,Negative
+C326,2023-11-25 00:00:00,"Smooth process, no issues.",Positive
+C330,2023-07-10 00:00:00,No strong feelings either way.,Neutral
+C330,2024-02-23 00:00:00,"Had issues, needs improvement.",Negative
+C332,2023-09-22 00:00:00,"Very disappointed, service was slow.",Negative
+C332,2024-02-28 00:00:00,"Highly recommend, great experience.",Positive
+C338,2023-08-09 00:00:00,Problems with the app/website.,Negative
+C341,2023-09-28 00:00:00,Standard interaction.,Neutral
+C344,2023-10-18 00:00:00,"Excellent service, very happy!",Positive
+C346,2024-03-19 00:00:00,"Had issues, needs improvement.",Negative
+C346,2023-12-17 00:00:00,"Smooth process, no issues.",Positive
+C348,2023-07-05 00:00:00,Not satisfied with the outcome.,Negative
+C348,2024-04-01 00:00:00,"It was okay, nothing special.",Neutral
+C349,2024-01-21 00:00:00,Not satisfied with the outcome.,Negative
+C349,2023-11-10 00:00:00,"It was okay, nothing special.",Neutral
+C352,2023-12-29 00:00:00,"Had issues, needs improvement.",Negative
+C352,2023-09-15 00:00:00,"Had issues, needs improvement.",Negative
+C353,2024-01-18 00:00:00,"Very disappointed, service was slow.",Negative
+C353,2023-08-22 00:00:00,"Very disappointed, service was slow.",Negative
+C356,2023-09-28 00:00:00,"Highly recommend, great experience.",Positive
+C356,2023-12-22 00:00:00,"Smooth process, no issues.",Positive
+C361,2024-01-19 00:00:00,"Highly recommend, great experience.",Positive
+C361,2024-04-08 00:00:00,"Highly recommend, great experience.",Positive
+C362,2024-04-07 00:00:00,"Excellent service, very happy!",Positive
+C363,2023-11-17 00:00:00,Problems with the app/website.,Negative
+C363,2024-01-17 00:00:00,Problems with the app/website.,Negative
+C367,2023-12-05 00:00:00,"Highly recommend, great experience.",Positive
+C367,2023-10-07 00:00:00,Not satisfied with the outcome.,Negative
+C369,2024-04-30 00:00:00,"Quick and efficient, thank you.",Positive
+C381,2024-04-12 00:00:00,"Very disappointed, service was slow.",Negative
+C381,2023-09-30 00:00:00,"Very disappointed, service was slow.",Negative
+C385,2023-06-01 00:00:00,Problems with the app/website.,Negative
+C385,2024-03-22 00:00:00,Problems with the app/website.,Negative
+C386,2023-09-06 00:00:00,"Quick and efficient, thank you.",Positive
+C396,2023-11-12 00:00:00,"Highly recommend, great experience.",Positive
+C396,2024-05-21 00:00:00,"Smooth process, no issues.",Positive
+C399,2024-02-11 00:00:00,"Had issues, needs improvement.",Negative
+C400,2023-12-31 00:00:00,Service was as expected.,Neutral
+C400,2023-07-24 00:00:00,Standard interaction.,Neutral
+C402,2024-03-09 00:00:00,"Excellent service, very happy!",Positive
+C403,2023-11-29 00:00:00,"Highly recommend, great experience.",Positive
+C405,2023-12-11 00:00:00,"Had issues, needs improvement.",Negative
+C405,2023-08-13 00:00:00,"Smooth process, no issues.",Positive
+C407,2023-12-08 00:00:00,"Excellent service, very happy!",Positive
+C407,2023-08-05 00:00:00,"Highly recommend, great experience.",Positive
+C412,2023-10-07 00:00:00,"Quick and efficient, thank you.",Positive
+C412,2024-05-11 00:00:00,"Had issues, needs improvement.",Negative
+C413,2024-03-10 00:00:00,Problems with the app/website.,Negative
+C413,2024-03-02 00:00:00,"Quick and efficient, thank you.",Positive
+C416,2023-12-31 00:00:00,"Smooth process, no issues.",Positive
+C420,2023-06-25 00:00:00,"Highly recommend, great experience.",Positive
+C423,2024-04-18 00:00:00,Not satisfied with the outcome.,Negative
+C424,2024-02-19 00:00:00,"It was okay, nothing special.",Neutral
+C428,2023-11-04 00:00:00,"Very disappointed, service was slow.",Negative
+C430,2023-08-28 00:00:00,"Had issues, needs improvement.",Negative
+C430,2024-01-11 00:00:00,"Had issues, needs improvement.",Negative
+C433,2023-06-14 00:00:00,"Had issues, needs improvement.",Negative
+C433,2023-11-26 00:00:00,No strong feelings either way.,Neutral
+C435,2023-06-17 00:00:00,"It was okay, nothing special.",Neutral
+C435,2024-03-09 00:00:00,Problems with the app/website.,Negative
+C439,2023-08-01 00:00:00,"Had issues, needs improvement.",Negative
+C445,2024-03-19 00:00:00,"It was okay, nothing special.",Neutral
+C446,2023-08-30 00:00:00,Standard interaction.,Neutral
+C448,2024-05-12 00:00:00,No strong feelings either way.,Neutral
+C452,2023-06-21 00:00:00,Problems with the app/website.,Negative
+C457,2024-01-17 00:00:00,Problems with the app/website.,Negative
+C457,2023-09-13 00:00:00,"Excellent service, very happy!",Positive
+C459,2023-07-28 00:00:00,"Had issues, needs improvement.",Negative
+C461,2023-10-23 00:00:00,Service was as expected.,Neutral
+C461,2023-07-15 00:00:00,Standard interaction.,Neutral
+C463,2024-05-14 00:00:00,"Highly recommend, great experience.",Positive
+C464,2024-01-15 00:00:00,"Excellent service, very happy!",Positive
+C471,2023-06-14 00:00:00,Problems with the app/website.,Negative
+C471,2023-10-10 00:00:00,No strong feelings either way.,Neutral
+C473,2024-01-26 00:00:00,"Highly recommend, great experience.",Positive
+C473,2024-01-25 00:00:00,"Highly recommend, great experience.",Positive
+C474,2024-03-27 00:00:00,"Highly recommend, great experience.",Positive
+C474,2023-12-13 00:00:00,No strong feelings either way.,Neutral
+C478,2024-02-14 00:00:00,Service was as expected.,Neutral
+C479,2024-01-03 00:00:00,"Highly recommend, great experience.",Positive
+C479,2023-10-31 00:00:00,Standard interaction.,Neutral
+C481,2024-04-03 00:00:00,Problems with the app/website.,Negative
+C481,2023-08-04 00:00:00,"Excellent service, very happy!",Positive
+C482,2024-02-08 00:00:00,"Highly recommend, great experience.",Positive
+C482,2023-11-27 00:00:00,Problems with the app/website.,Negative
+C489,2024-05-08 00:00:00,"Excellent service, very happy!",Positive
+C489,2023-06-23 00:00:00,"It was okay, nothing special.",Neutral
+C490,2023-11-07 00:00:00,"Had issues, needs improvement.",Negative
+C491,2023-11-09 00:00:00,"It was okay, nothing special.",Neutral
+C493,2023-10-25 00:00:00,"Excellent service, very happy!",Positive
+C493,2024-03-04 00:00:00,"Smooth process, no issues.",Positive
+C494,2023-12-01 00:00:00,Problems with the app/website.,Negative
+C495,2024-03-02 00:00:00,"Very disappointed, service was slow.",Negative
+C495,2024-05-02 00:00:00,Not satisfied with the outcome.,Negative
+C497,2023-06-15 00:00:00,"Smooth process, no issues.",Positive
